@@ -1008,5 +1008,172 @@
     "filing_found": false,
     "recheck": false,
     "assessed_at": "2026-10-25T21:44:30+08:00"
+  },
+  {
+    "accession": "0001193125-26-426000",
+    "cik": "881787",
+    "company": "CROSS TIMBERS ROYALTY TRUST",
+    "period_end": "2026-07-31",
+    "period_label": "monthly distribution declared 20 October 2026",
+    "verdicts": {
+      "revenue": {
+        "verdict": "cannot check",
+        "reason": "The watcher left revenue empty; the release gives none. The SEC company facts returned HTTP 404, so no filed figure was read."
+      },
+      "operating_income": {
+        "verdict": "cannot check",
+        "reason": "The watcher left operating income empty; the release gives none. No filed figure could be read (HTTP 404)."
+      },
+      "net_income": {
+        "verdict": "cannot check",
+        "reason": "The watcher left net income empty; the release gives none. No filed figure could be read (HTTP 404)."
+      },
+      "diluted_eps": {
+        "verdict": "cannot check",
+        "reason": "The watcher left diluted EPS empty; the release gives only a distribution of $0.277908 per unit, which is not EPS. No filed figure was read."
+      }
+    },
+    "ratings": {
+      "S1": {
+        "score": 5,
+        "reason": "No figure was extracted, so there is no quote to fault and no wrong number. The 10-Q check cannot be done: this trust's company facts returned HTTP 404."
+      },
+      "S2": {
+        "score": 5,
+        "reason": "The release is a distribution notice and gives none of the four figures, so leaving all four empty is not a fault. It has no guidance."
+      },
+      "S3": {
+        "score": 3,
+        "reason": "The extract holds no figures. The analyst must open the release for the $0.277908 per unit distribution, payable 16 November 2026."
+      }
+    },
+    "checks": {
+      "revenue": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      },
+      "operating_income": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      },
+      "net_income": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      },
+      "diluted_eps": {
+        "extracted": null,
+        "quote_found": null,
+        "number_in_quote": null,
+        "filed": null,
+        "filed_value": null,
+        "filed_tag": null,
+        "filed_form": null,
+        "filed_on": null,
+        "filed_period": null,
+        "difference": null,
+        "match": null,
+        "note": "nothing to check: the watcher left this figure empty (null)"
+      }
+    },
+    "claims": {},
+    "tone": null,
+    "fundamentals": [
+      {
+        "key": "revenue",
+        "name": "Revenue (USD millions)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_income",
+        "name": "Operating income (USD millions)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_income",
+        "name": "Net income (USD millions)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "diluted_eps",
+        "name": "Diluted EPS (USD)",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "operating_margin",
+        "name": "Operating margin",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      },
+      {
+        "key": "net_margin",
+        "name": "Net margin",
+        "this_quarter": null,
+        "this_quarter_from": null,
+        "year_ago": null,
+        "change_year": null,
+        "previous_quarter": null,
+        "change_quarter": null
+      }
+    ],
+    "management": [],
+    "watcher_tone": null,
+    "picked_from_radar": true,
+    "filing_found": false,
+    "recheck": true,
+    "assessed_at": "2026-10-26T06:38:01+08:00"
   }
 ]
