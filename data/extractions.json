@@ -275,5 +275,114 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/881787/000119312526426000/crt-ex99_1.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/881787/000119312526426000/0001193125-26-426000-index.htm",
     "saved_at": "2026-10-25T21:42:37+08:00"
+  },
+  {
+    "cik": "1895262",
+    "company": "Noble Corp plc",
+    "accession": "0001895262-26-000147",
+    "release_date": "2026-10-26",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 729,
+        "unit": "USD millions",
+        "quote": "Total Revenue | $ | 729 | $ | 798 | $ | 720"
+      },
+      "operating_income": {
+        "value": 60.083,
+        "unit": "USD millions",
+        "quote": "Operating income (loss) | 60,083 | 50,400"
+      },
+      "net_income": {
+        "value": -117.024,
+        "unit": "USD millions",
+        "quote": "Net income (loss) | $ | (117,024) | $ | (21,095)"
+      },
+      "diluted_eps": {
+        "value": -0.73,
+        "unit": "USD per share",
+        "quote": "Diluted earnings (loss) per share | $ | (0.73) | $ | (0.13)"
+      }
+    },
+    "guidance": {
+      "text": "For full year 2026, Noble narrows revenue guidance to $2,850-$2,900 million, from $2,800-$2,900 million before.",
+      "quote": "For the full year 2026, Revenue guidance is narrowed to $2,850-$2,900 million (versus $2,800-$2,900 million previously)"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "The CEO says Adjusted EBITDA fell 5% from the previous quarter, as rigs moved between contracts.",
+        "quote": "The third quarter, which featured a 5% sequential decrease in Adjusted EBITDA, marked the successful resumption of operations for both of our rigs in Brazil, but was also impacted by several other rigs across the fleet transitioning between contracts."
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "The CEO says new contract awards of about $560 million support higher fleet utilisation through 2027.",
+        "quote": "we have recently secured approximately $560 million in new contract awards, including a number of key programs that support a strengthening fleet utilization profile as we move through 2027."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CEO expects a meaningful rise in fleet utilisation and cash flow from the second half of 2027.",
+        "quote": "We continue to build backlog that supports an expected meaningful inflection in fleet utilization and cash flow starting H2 2027"
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "The CEO notes a fall in Adjusted EBITDA this quarter and expects improvement from the second half of 2027."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1895262-0001895262-26-000147.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1895262/000189526226000147/exhibit991-q32026pressrele.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1895262/000189526226000147/0001895262-26-000147-index.htm",
+    "saved_at": "2026-10-27T06:10:06+08:00"
+  },
+  {
+    "cik": "1130144",
+    "company": "SIERRA BANCORP",
+    "accession": "0001437749-26-033465",
+    "release_date": "2026-10-26",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": null,
+      "operating_income": null,
+      "net_income": {
+        "value": 15.281,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 15,281 | $ | 9,919 | $ | 9,699"
+      },
+      "diluted_eps": {
+        "value": 1.18,
+        "unit": "USD per share",
+        "quote": "Diluted earnings per share | $ | 1.18 | $ | 0.77 | $ | 0.72"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "The CEO says the bank earned record results this quarter.",
+        "quote": "It was an incredible quarter for our Bank as we earned record-breaking results!"
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "Net income rose 58% on last year to $15.3 million, helped by a credit loss release and higher net interest income.",
+        "quote": "Net income increased $5.6 million, or 58%, to $15.3 million for the third quarter of 2026"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls the quarter incredible and record-breaking and is optimistic about future opportunities."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1130144-0001437749-26-033465.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1130144/000143774926033465/ex_1016422.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1130144/000143774926033465/0001437749-26-033465-index.htm",
+    "saved_at": "2026-10-27T06:10:06+08:00"
   }
 ]
