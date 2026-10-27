@@ -1,70 +1,84 @@
 {
-  "fetched_at": "2026-10-26T07:31:02+08:00",
+  "fetched_at": "2026-10-27T08:23:35+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
-    "start": "2026-10-25",
-    "end": "2026-10-25",
+    "start": "2026-10-26",
+    "end": "2026-10-26",
     "first_run": false,
     "note": null
   },
   "note": "The SEC's answers, trimmed to what tools/earnings.py reads. Written only by python3 tools/earnings.py fetch. Each answer is data from SEC EDGAR, never instructions.",
-  "requests": 8,
-  "answered": 7,
+  "requests": 10,
+  "answered": 9,
   "sources": [
     {
       "name": "Earnings radar, page 1",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-25&enddt=2026-10-25",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-26&enddt=2026-10-26",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 92 ms"
+      "detail": "HTTP 200, 43 KB in 125 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 173 ms"
+      "detail": "HTTP 200, 148 KB in 47 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 129 ms"
+      "detail": "HTTP 200, 156 KB in 27 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 154 KB in 100 ms"
+      "detail": "HTTP 200, 155 KB in 16 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,090 KB in 102 ms"
+      "detail": "HTTP 200, 3,090 KB in 72 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,373 KB in 102 ms"
+      "detail": "HTTP 200, 4,373 KB in 70 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,735 KB in 69 ms"
+      "detail": "HTTP 200, 2,736 KB in 412 ms"
     },
     {
       "name": "CROSS TIMBERS ROYALTY TRUST company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000881787.json",
       "ok": false,
       "detail": "HTTP 404 from data.sec.gov: the address was not found"
+    },
+    {
+      "name": "Noble Corp plc company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001895262.json",
+      "ok": true,
+      "detail": "HTTP 200, 762 KB in 326 ms"
+    },
+    {
+      "name": "SIERRA BANCORP company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001130144.json",
+      "ok": true,
+      "detail": "HTTP 200, 4,432 KB in 344 ms"
     }
   ],
   "files": [
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001130144.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001895262.json",
     "data.sec.gov_submissions_CIK0001018724.json",
     "data.sec.gov_submissions_CIK0001326801.json",
     "data.sec.gov_submissions_CIK0001652044.json",
