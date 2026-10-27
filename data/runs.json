@@ -530,5 +530,125 @@
       }
     ],
     "offline": false
+  },
+  {
+    "run_at": "2026-10-28T06:37:49+08:00",
+    "agent": "assessor",
+    "brief": "briefs/2026-10-28-assess.md",
+    "brief_checked": true,
+    "sources": {
+      "ok": 4,
+      "total": 5,
+      "failures": [
+        {
+          "name": "CROSS TIMBERS ROYALTY TRUST company facts",
+          "detail": "HTTP 404 from data.sec.gov: the address was not found"
+        }
+      ]
+    },
+    "counts": {
+      "to_assess": 5,
+      "checked": 5,
+      "rechecks": 3,
+      "confirmed": 7,
+      "mismatch": 0,
+      "cannot_check": 13
+    },
+    "companies": [
+      {
+        "cik": "881787",
+        "company": "CROSS TIMBERS ROYALTY TRUST",
+        "accession": "0001193125-26-426000",
+        "period_label": "monthly distribution declared 20 October 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 0,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 2
+        }
+      },
+      {
+        "cik": "1895262",
+        "company": "Noble Corp plc",
+        "accession": "0001895262-26-000147",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 4,
+        "mismatch": 0,
+        "cannot_check": 0,
+        "claims_match": 3,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "1130144",
+        "company": "SIERRA BANCORP",
+        "accession": "0001437749-26-033465",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 2,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 4
+        }
+      },
+      {
+        "cik": "1037540",
+        "company": "BXP, Inc.",
+        "accession": "0001037540-26-000041",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": false,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 0,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 4
+        }
+      },
+      {
+        "cik": "1808805",
+        "company": "Nautilus Biotechnology, Inc.",
+        "accession": "0001808805-26-000049",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": false,
+        "confirmed": 3,
+        "mismatch": 0,
+        "cannot_check": 1,
+        "claims_match": 2,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      }
+    ],
+    "headline": "Checked 5 extractions: 7 figures confirmed, 0 mismatches, 13 cannot check.",
+    "radar_check": {
+      "watch_run_at": "2026-10-28T06:10:03+08:00",
+      "watch_brief": "briefs/2026-10-28-watch.md",
+      "brief_says": 158,
+      "saved_for_run": 158,
+      "match": true
+    },
+    "offline": false
   }
 ]
