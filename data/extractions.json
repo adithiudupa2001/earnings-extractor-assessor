@@ -384,5 +384,98 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1130144/000143774926033465/ex_1016422.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1130144/000143774926033465/0001437749-26-033465-index.htm",
     "saved_at": "2026-10-27T06:10:06+08:00"
+  },
+  {
+    "cik": "1037540",
+    "company": "BXP, Inc.",
+    "accession": "0001037540-26-000041",
+    "release_date": "2026-10-27",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 911.431,
+        "unit": "USD millions",
+        "quote": "Total revenue | 911,431"
+      },
+      "operating_income": null,
+      "net_income": {
+        "value": 114.482,
+        "unit": "USD millions",
+        "quote": "Net income attributable to BXP, Inc. | $ | 114,482"
+      },
+      "diluted_eps": {
+        "value": 0.71,
+        "unit": "USD per share",
+        "quote": "Net income attributable to BXP, Inc. per share - diluted | $ | 0.71"
+      }
+    },
+    "guidance": {
+      "text": "BXP guides full-year 2026 diluted EPS to a range of $2.35 to $2.37.",
+      "quote": "Projected EPS (diluted) | $ | 2.35 | $ | 2.37"
+    },
+    "management": [],
+    "tone": null,
+    "picked_from_radar": true,
+    "source_file": "sources/1037540-0001037540-26-000041.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1037540/000103754026000041/q32026supplemental.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1037540/000103754026000041/0001037540-26-000041-index.htm",
+    "saved_at": "2026-10-28T06:10:03+08:00"
+  },
+  {
+    "cik": "1808805",
+    "company": "Nautilus Biotechnology, Inc.",
+    "accession": "0001808805-26-000049",
+    "release_date": "2026-10-27",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 0.234,
+        "unit": "USD millions",
+        "quote": "Total revenue | 234"
+      },
+      "operating_income": null,
+      "net_income": {
+        "value": -15.636,
+        "unit": "USD millions",
+        "quote": "Net loss | $ | (15,636)"
+      },
+      "diluted_eps": {
+        "value": -0.12,
+        "unit": "USD per share",
+        "quote": "Net loss per share attributable to common stockholders, basic and diluted | $ | (0.12)"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "costs",
+        "claim": "Operating expenses rose by 10% from the prior-year quarter, on higher laboratory, professional services and salary costs.",
+        "quote": "Operating expenses were $16.9 million for the third quarter of 2026, a $1.5 million or 10% increase compared to $15.5 million for the corresponding prior year period."
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "The net loss for the quarter was larger than in the prior-year quarter.",
+        "quote": "Net loss was $15.6 million for the third quarter of 2026, as compared to the net loss of $13.6 million for the corresponding prior year period."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CEO says the proteoform expansion is on track and the company plans instrument availability in the middle of 2027.",
+        "quote": "our proteoform expansion initiative is on-track, with early oncology assay results that demonstrate the performance we established with Tau is repeatable across additional targets."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls the quarter an important step and says progress reinforces confidence in the technology and roadmap."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1808805-0001808805-26-000049.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1808805/000180880526000049/exhibit991-q3268xkearnings.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1808805/000180880526000049/0001808805-26-000049-index.htm",
+    "saved_at": "2026-10-28T06:10:03+08:00"
   }
 ]

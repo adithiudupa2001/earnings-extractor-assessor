@@ -1,0 +1,118 @@
+Company: Nautilus Biotechnology, Inc. (CIK 1808805)
+Accession: 0001808805-26-000049
+Results released: 2026-10-27
+Press release: https://www.sec.gov/Archives/edgar/data/1808805/000180880526000049/exhibit991-q3268xkearnings.htm
+Filing: https://www.sec.gov/Archives/edgar/data/1808805/000180880526000049/0001808805-26-000049-index.htm
+Saved: 2026-10-28T06:10:03+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 exhibit991-q3268xkearnings.htm EX-99.1
+Exhibit 99.1
+Nautilus Biotechnology Reports Third Quarter 2026 Financial Results
+SEATTLE, WA, October 27, 2026 – Nautilus Biotechnology, Inc. (NASDAQ: NAUT), a company pioneering a single-molecule proteome analysis platform, today reported financial results for the third quarter ended September 30, 2026.
+Third Quarter 2026 Business Highlights
+•Published a peer-reviewed paper in Nature Methods showing how Iterative Mapping reveals the proteoforms underlying biology and disease, with potential to yield new biomarkers and drug targets.
+•Shared first development data on oncology proteoform assays, including AKT1, at World HUPO 2026, showing a performance profile matching Tau and supporting platform extensibility.
+•Advanced the proteoform pipeline needed to deliver twenty assays planned through mid-2028.
+•Subsequent to quarter end, announced participation in SEEDS, a four-year, multi-center research consortium funded by ARPA-H, with Nautilus expecting to receive up to $6 million to deploy its Voyager PlatformTM to measure proteoforms driving Alzheimer’s disease and cancer.
+“The third quarter marked an important step in demonstrating the power and scalability of Iterative Mapping on our Voyager platform,” said Sujal Patel, CEO of Nautilus Biotechnology. “Our seminal publication in Nature Methods highlights the unique biological insights that our technology can deliver. In addition, our proteoform expansion initiative is on-track, with early oncology assay results that demonstrate the performance we established with Tau is repeatable across additional targets. This repeatability is fundamental to our strategy of building a broad portfolio of proteoform assays, and the progress we are seeing reinforces our confidence in our technology, our development roadmap, and our planned instrument availability in the middle of 2027.”
+Third Quarter 2026 Financial Results
+Revenue was $0.2 million for the third quarter of 2026, primarily driven by grant revenue from the Company’s activities related to the grant awarded from The Michael J. Fox Foundation during the period, and service revenue for the sales of services under the Iterative Mapping Early Access Program.
+Operating expenses were $16.9 million for the third quarter of 2026, a $1.5 million or 10% increase compared to $15.5 million for the corresponding prior year period. The increase in operating expenses is attributable to higher laboratory and professional services and higher salaries and related benefits expense, partially offset by lower facilities expenses.
+Net loss was $15.6 million for the third quarter of 2026, as compared to the net loss of $13.6 million for the corresponding prior year period.
+Cash, cash equivalents, and investments were $114.3 million as of September 30, 2026.
+Webcast and Conference Call Information
+Nautilus will host a conference call to discuss the third quarter 2026 financial results, business developments and outlook before market open on Tuesday, October 27, 2026, at 5:30 AM Pacific Time / 8:30 AM Eastern Time. Live audio of the webcast will be available on the “Investors” section of the company website at: www.nautilus.bio.
+About Nautilus Biotechnology, Inc.
+With its corporate headquarters in Seattle, Washington and its research and development headquarters in San Carlos, California, Nautilus is a development stage life sciences company working to create a platform technology for quantifying and unlocking the complexity of the proteome. Nautilus’ mission is to transform the field of proteomics by democratizing access to the proteome and enabling fundamental advancements across human health and medicine. To learn more about Nautilus, visit www.nautilus.bio
+1
+Special Note Regarding Forward-Looking Statements
+This press release contains forward-looking statements within the meaning of federal securities laws. Forward-looking statements in this press release include, but are not limited to, statements regarding Nautilus’ expectations regarding the company’s business operations, financial performance and results of operations; expectations regarding operating expenses and cash runway, including any impact thereon from our reallocation of resources; expectations with respect to any revenue timing or projections; expectations with respect to the development required for and the timing of the launch of the Nautilus VoyagerTM platform, our proteoform applications roadmap and full commercial availability of our proteoform and/or broadscale products and/or services; the functionality and performance of the Nautilus Voyager platform, its potential impact on providing proteome or proteoform access, pharmaceutical development and drug discovery, expanding research horizons, and enabling scientific explorations and discovery; expectations regarding platform specifications required by potential customers and partners and the timeline for adoption of the Nautilus Voyager platform by researchers; and the present and future capabilities and limitations of emerging proteomics technologies. These statements are based on numerous assumptions concerning the development of Nautilus’ products, target markets, and other current and emerging proteomics technologies, and involve substantial risks, uncertainties and other factors that may cause actual results to be materially different from the information expressed or implied by these forward-looking statements. Risks and uncertainties that could materially affect the accuracy of Nautilus’ assumptions and its ability to achieve the forward-looking statements set forth in this press release include (without limitation) the following: the Nautilus Voyager product platform is not yet commercially available and remains subject to significant scientific and technical development, which is inherently challenging and difficult to predict, particularly with respect to highly novel and complex products such as those being developed by Nautilus. Even if our development efforts are successful, our product platform will require substantial validation of its functionality and utility in life science research. In the course of Nautilus’ scientific and technical development and associated product validation and commercialization, we may experience material delays as a result of unanticipated events. We cannot provide any guarantee or assurance with respect to the outcome of our development, collaboration, and commercialization initiatives or with respect to their associated timelines, or that we will receive the full amount of the SEEDS funding, which may be reduced, delayed or terminated. For a more detailed description of additional risks and uncertainties facing Nautilus and its development efforts, investors should refer to the information under the caption “Risk Factors” in our Annual Report on Form 10-K as well as in our Quarterly Report on Form 10-Q to be filed for the quarter ended September 30, 2026 and our other filings with the SEC. The forward-looking statements in this press release are as of the date of this press release. Except as otherwise required by applicable law, Nautilus disclaims any duty to update any forward-looking statements. You should, therefore, not rely on these forward-looking statements as representing our views as of any date subsequent to the date of this press release.
+Disclosure Information
+Nautilus uses filings with the Securities and Exchange Commission, its website (www.nautilus.bio), press releases, public conference calls, public webcasts, and its social media accounts as means of disclosing material non-public information and for complying with Regulation FD. Therefore, Nautilus encourages investors, the media, and others interested in Nautilus to review the information it makes public in these locations, as such information could be deemed to be material information.
+Media Contact
+press@nautilus.bio
+Investor Contact
+investorrelations@nautilus.bio
+2
+Nautilus Biotechnology, Inc. Condensed Consolidated Balance Sheets As of September 30, 2026 and December 31, 2025 (Unaudited)
+(in thousands) | September 30, 2026 | December 31, 2025
+Assets
+Current assets:
+Cash and cash equivalents | $ | 10,467 | $ | 12,388
+Short-term investments | 76,109 | 91,018
+Prepaid expenses and other current assets | 3,661 | 2,557
+Total current assets | 90,237 | 105,963
+Property and equipment, net | 5,268 | 3,457
+Operating lease right-of-use assets | 24,592 | 27,773
+Long-term investments | 27,767 | 52,739
+Other long-term assets | 1,060 | 1,180
+Total assets | $ | 148,924 | $ | 191,112
+Liabilities and Stockholders’ Equity
+Current liabilities:
+Accounts payable | $ | 1,265 | $ | 943
+Accrued expenses and other liabilities | 4,359 | 3,177
+Current portion of operating lease liabilities | 4,134 | 3,832
+Total current liabilities | 9,758 | 7,952
+Operating lease liabilities, net of current portion | 22,607 | 26,187
+Total liabilities | 32,365 | 34,139
+Stockholders’ equity:
+Preferred stock | — | —
+Common stock | 13 | 13
+Additional paid-in capital | 493,940 | 488,737
+Accumulated other comprehensive income (loss) | (572) | 243
+Accumulated deficit | (376,822) | (332,020)
+Total stockholders’ equity | 116,559 | 156,973
+Total liabilities and stockholders’ equity | $ | 148,924 | $ | 191,112
+3
+Nautilus Biotechnology, Inc. Condensed Consolidated Statements of Operations Three and Nine Months Ended September 30, 2026 and 2025 (Unaudited)
+Three Months Ended September 30, | Nine Months Ended September 30,
+(in thousands, except share and per share data) | 2026 | 2025 | 2026 | 2025
+Revenue:
+Grant revenue | $ | 208 | $ | — | $ | 388 | $ | —
+Service revenue | 26 | — | 36 | —
+Total revenue | 234 | — | 424 | —
+Cost of revenue:
+Cost of service revenue | 24 | — | 39 | —
+Total cost of revenue | 24 | — | 39 | —
+Operating expenses:
+Research and development | 10,176 | 9,605 | 29,496 | 31,535
+Selling, general and administrative | 6,771 | 5,867 | 19,513 | 19,878
+Total operating expenses | 16,947 | 15,472 | 49,009 | 51,413
+Other income (expense):
+Interest income | 1,173 | 1,903 | 3,922 | 6,214
+Other expense | (72) | (5) | (100) | (21)
+Total other income | $ | 1,101 | $ | 1,898 | $ | 3,822 | $ | 6,193
+Net loss | $ | (15,636) | $ | (13,574) | $ | (44,802) | $ | (45,220)
+Net loss per share attributable to common stockholders, basic and diluted | $ | (0.12) | $ | (0.11) | $ | (0.35) | $ | (0.36)
+Weighted-average shares used in computing net loss per share attributable to common stockholders, basic and diluted | 127,238,065 | 126,305,122 | 127,005,067 | 126,218,587
+4
+Nautilus Biotechnology, Inc. Condensed Consolidated Statements of Cash Flows Nine Months Ended September 30, 2026 and 2025 (Unaudited)
+Nine Months Ended September 30,
+(in thousands) | 2026 | 2025
+Cash flows from operating activities
+Net loss | $ | (44,802) | $ | (45,220)
+Adjustments to reconcile net loss to net cash used in operating activities
+Stock-based compensation expense | 3,812 | 5,373
+Amortization of operating lease right-of-use assets | 3,180 | 3,529
+Depreciation | 884 | 1,348
+Amortization (accretion) of premiums (discounts) on securities, net | (36) | (1,286)
+Changes in operating assets and liabilities:
+Prepaid expenses and other assets | (982) | 149
+Accounts payable | 48 | (71)
+Accrued expenses and other liabilities | 1,066 | 1,332
+Operating lease liabilities | (3,277) | (3,475)
+Net cash used in operating activities | (40,107) | (38,321)
+Cash flows from investing activities
+Proceeds from maturities of securities | 76,596 | 74,241
+Purchases of securities | (37,494) | (38,771)
+Purchases of property and equipment | (2,409) | (1,033)
+Net cash provided by investing activities | 36,693 | 34,437
+Cash flows from financing activities
+Proceeds from exercise of stock options | 1,233 | 26
+Proceeds from issuance of common stock under employee stock purchase plan | 142 | 87
+Net cash provided by financing activities | 1,375 | 113
+Net decrease in cash, cash equivalents and restricted cash | (2,039) | (3,771)
+Cash, cash equivalents and restricted cash at beginning of period | 13,390 | 28,648
+Cash, cash equivalents and restricted cash at end of period | $ | 11,351 | $ | 24,877
+5
