@@ -477,5 +477,180 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1808805/000180880526000049/exhibit991-q3268xkearnings.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1808805/000180880526000049/0001808805-26-000049-index.htm",
     "saved_at": "2026-10-28T06:10:03+08:00"
+  },
+  {
+    "cik": "1652044",
+    "company": "Alphabet",
+    "accession": "0001652044-26-000080",
+    "release_date": "2026-10-28",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 127577,
+        "unit": "USD millions",
+        "quote": "Revenues | $ | 102,346 | $ | 127,577"
+      },
+      "operating_income": {
+        "value": 40576,
+        "unit": "USD millions",
+        "quote": "Income from operations | 31,228 | 40,576"
+      },
+      "net_income": {
+        "value": 26468,
+        "unit": "USD millions",
+        "quote": "Net income | 34,979 | 26,468"
+      },
+      "diluted_eps": {
+        "value": 2.12,
+        "unit": "USD per share",
+        "quote": "Diluted net income per common share | $ | 2.87 | $ | 2.12"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Alphabet revenues grew 25% year over year, driven by momentum across the business.",
+        "quote": "Our deep full stack approach is driving momentum across the business, with Alphabet revenues growing 25% year-over year."
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "Google Cloud revenues grew 103%, powered by demand for AI infrastructure and solutions.",
+        "quote": "Google Cloud revenues grew 103%, powered by huge demand for our AI infrastructure and AI solutions."
+      },
+      {
+        "id": "M3",
+        "topic": "profit",
+        "claim": "Operating income increased 30% and the operating margin was 31.8%.",
+        "quote": "Consolidated Alphabet operating income increased 30% and operating margin was 31.8%."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls it a strong quarter and points to record cloud growth and rising demand."
+    },
+    "picked_from_radar": false,
+    "source_file": "sources/1652044-0001652044-26-000080.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/googexhibit991q32026.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/0001652044-26-000080-index.htm",
+    "saved_at": "2026-10-29T06:08:19+08:00"
+  },
+  {
+    "cik": "1379041",
+    "company": "Employers Holdings, Inc.",
+    "accession": "0001379041-26-000075",
+    "release_date": "2026-10-28",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": null,
+      "operating_income": null,
+      "net_income": {
+        "value": 11.6,
+        "unit": "USD millions",
+        "quote": "Net income (loss) of $11.6 million ($0.64 per diluted share)"
+      },
+      "diluted_eps": {
+        "value": 0.64,
+        "unit": "USD per share",
+        "quote": "Net income (loss) of $11.6 million ($0.64 per diluted share)"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "Net income improved on the absence of last year's reserve strengthening.",
+        "quote": "The improvement was driven primarily by the absence of the reserve strengthening we recorded in that quarter"
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "Premiums fell because of pricing and underwriting actions taken to prioritise profit.",
+        "quote": "These decreases reflect the pricing and underwriting actions we have taken to prioritize profitability in the prolonged soft market."
+      },
+      {
+        "id": "M3",
+        "topic": "margins",
+        "claim": "The GAAP combined ratio improved to 108.4% from 129.7%.",
+        "quote": "Our GAAP combined ratio improved to 108.4% from 129.7%."
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "The CEO reports improved profit but says premiums fell and an underwriting profit is still the top priority."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1379041-0001379041-26-000075.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1379041/000137904126000075/ex991_pressreleasex9302026.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1379041/000137904126000075/0001379041-26-000075-index.htm",
+    "saved_at": "2026-10-29T06:08:19+08:00"
+  },
+  {
+    "cik": "1481582",
+    "company": "Ryerson Holding Corp",
+    "accession": "0001193125-26-436183",
+    "release_date": "2026-10-28",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 2177.8,
+        "unit": "USD millions",
+        "quote": "NET SALES | $ | 2,177.8 | $ | 2,006.2 | $ | 1,161.5"
+      },
+      "operating_income": {
+        "value": 51.5,
+        "unit": "USD millions",
+        "quote": "OPERATING PROFIT (LOSS) | 51.5 | 34.4 | (1.0 | )"
+      },
+      "net_income": {
+        "value": 32.0,
+        "unit": "USD millions",
+        "quote": "NET INCOME (LOSS) ATTRIBUTABLE TO RYERSON HOLDING CORPORATION | $ | 32.0 | $ | 15.5"
+      },
+      "diluted_eps": {
+        "value": 0.61,
+        "unit": "USD per share",
+        "quote": "Diluted | $ | 0.61 | $ | 0.30"
+      }
+    },
+    "guidance": {
+      "text": "For the fourth quarter of 2026, Ryerson expects net sales of $1.96 billion to $2.04 billion.",
+      "quote": "Net sales are therefore expected to be in the range of $1.96 billion to $2.04 billion."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "The CEO calls the third quarter excellent, with results above guidance.",
+        "quote": "Ryerson delivered an excellent third quarter, generating results above our guidance while eclipsing our first-year synergy run-rate target ahead of schedule."
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "About $13 million of synergy benefits were realised, or $52 million annualised.",
+        "quote": "Realized approximately $13 million in third quarter synergy benefits, representing $52 million on an annualized, run-rate basis"
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "Fourth-quarter shipments are expected to fall 6% to 8% from the third quarter.",
+        "quote": "the Company expects that shipments will decline sequentially by 6% to 8% from third quarter levels"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls it an excellent quarter and its best of 2026, though the outlook expects lower shipments."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1481582-0001193125-26-436183.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1481582/000119312526436183/ryz-ex99_1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1481582/000119312526436183/0001193125-26-436183-index.htm",
+    "saved_at": "2026-10-29T06:08:19+08:00"
   }
 ]

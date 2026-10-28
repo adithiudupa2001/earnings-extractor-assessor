@@ -650,5 +650,79 @@
       "match": true
     },
     "offline": false
+  },
+  {
+    "run_at": "2026-10-29T06:08:19+08:00",
+    "agent": "watcher",
+    "brief": "briefs/2026-10-29-watch.md",
+    "brief_checked": true,
+    "sources": {
+      "ok": 14,
+      "total": 14,
+      "failures": []
+    },
+    "counts": {
+      "radar_new": 225,
+      "companies": 3,
+      "new": 3,
+      "saved": 3,
+      "no_new": 2,
+      "failed": 0
+    },
+    "radar": {
+      "ok": true,
+      "start": "2026-10-27",
+      "end": "2026-10-28",
+      "hits": 419,
+      "results_filings": 383,
+      "new": 225,
+      "watchlist_new": [
+        "Alphabet Inc. (2026-10-28, 0001652044-26-000080)"
+      ],
+      "detail": null
+    },
+    "companies": [
+      {
+        "cik": "1652044",
+        "company": "Alphabet",
+        "status": "saved",
+        "accession": "0001652044-26-000080",
+        "release_date": "2026-10-28",
+        "period_label": "quarter ended 30 September 2026"
+      },
+      {
+        "cik": "1379041",
+        "company": "Employers Holdings, Inc.",
+        "status": "saved",
+        "accession": "0001379041-26-000075",
+        "release_date": "2026-10-28",
+        "period_label": "quarter ended 30 September 2026"
+      },
+      {
+        "cik": "1481582",
+        "company": "Ryerson Holding Corp",
+        "status": "saved",
+        "accession": "0001193125-26-436183",
+        "release_date": "2026-10-28",
+        "period_label": "quarter ended 30 September 2026"
+      },
+      {
+        "cik": "1018724",
+        "company": "Amazon",
+        "status": "no_new",
+        "accession": "0001018724-26-000024",
+        "release_date": "2026-07-30",
+        "period_label": "quarter ended 30 June 2026"
+      },
+      {
+        "cik": "1326801",
+        "company": "Meta Platforms",
+        "status": "no_new",
+        "accession": "0001628280-26-066700",
+        "release_date": "2026-10-21",
+        "period_label": "quarter ended 30 September 2026"
+      }
+    ],
+    "offline": false
   }
 ]
