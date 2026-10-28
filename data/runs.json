@@ -724,5 +724,142 @@
       }
     ],
     "offline": false
+  },
+  {
+    "run_at": "2026-10-29T06:37:57+08:00",
+    "agent": "assessor",
+    "brief": "briefs/2026-10-29-assess.md",
+    "brief_checked": true,
+    "sources": {
+      "ok": 5,
+      "total": 6,
+      "failures": [
+        {
+          "name": "CROSS TIMBERS ROYALTY TRUST company facts",
+          "detail": "HTTP 404 from data.sec.gov: the address was not found"
+        }
+      ]
+    },
+    "counts": {
+      "to_assess": 6,
+      "checked": 6,
+      "rechecks": 3,
+      "confirmed": 4,
+      "mismatch": 0,
+      "cannot_check": 20
+    },
+    "companies": [
+      {
+        "cik": "881787",
+        "company": "CROSS TIMBERS ROYALTY TRUST",
+        "accession": "0001193125-26-426000",
+        "period_label": "monthly distribution declared 20 October 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 0,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 4
+        }
+      },
+      {
+        "cik": "1130144",
+        "company": "SIERRA BANCORP",
+        "accession": "0001437749-26-033465",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 1,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 4
+        }
+      },
+      {
+        "cik": "1037540",
+        "company": "BXP, Inc.",
+        "accession": "0001037540-26-000041",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 0,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 4
+        }
+      },
+      {
+        "cik": "1652044",
+        "company": "Alphabet",
+        "accession": "0001652044-26-000080",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": false,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 3,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 4
+        }
+      },
+      {
+        "cik": "1379041",
+        "company": "Employers Holdings, Inc.",
+        "accession": "0001379041-26-000075",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": false,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 3,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 4,
+          "S3": 4
+        }
+      },
+      {
+        "cik": "1481582",
+        "company": "Ryerson Holding Corp",
+        "accession": "0001193125-26-436183",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": false,
+        "confirmed": 4,
+        "mismatch": 0,
+        "cannot_check": 0,
+        "claims_match": 1,
+        "claims_mismatch": 1,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      }
+    ],
+    "headline": "Checked 6 extractions: 4 figures confirmed, 0 mismatches, 20 cannot check.",
+    "radar_check": {
+      "watch_run_at": "2026-10-29T06:08:19+08:00",
+      "watch_brief": "briefs/2026-10-29-watch.md",
+      "brief_says": 225,
+      "saved_for_run": 225,
+      "match": true
+    },
+    "offline": false
   }
 ]
