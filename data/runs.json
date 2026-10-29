@@ -935,5 +935,176 @@
       }
     ],
     "offline": false
+  },
+  {
+    "run_at": "2026-10-30T06:38:21+08:00",
+    "agent": "assessor",
+    "brief": "briefs/2026-10-30-assess.md",
+    "brief_checked": true,
+    "sources": {
+      "ok": 7,
+      "total": 8,
+      "failures": [
+        {
+          "name": "CROSS TIMBERS ROYALTY TRUST company facts",
+          "detail": "HTTP 404 from data.sec.gov: the address was not found"
+        }
+      ]
+    },
+    "counts": {
+      "to_assess": 8,
+      "checked": 8,
+      "rechecks": 5,
+      "confirmed": 9,
+      "mismatch": 0,
+      "cannot_check": 23
+    },
+    "companies": [
+      {
+        "cik": "881787",
+        "company": "CROSS TIMBERS ROYALTY TRUST",
+        "accession": "0001193125-26-426000",
+        "period_label": "monthly distribution declared 20 October 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 0,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 4
+        }
+      },
+      {
+        "cik": "1130144",
+        "company": "SIERRA BANCORP",
+        "accession": "0001437749-26-033465",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 1,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 4
+        }
+      },
+      {
+        "cik": "1037540",
+        "company": "BXP, Inc.",
+        "accession": "0001037540-26-000041",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 0,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 4
+        }
+      },
+      {
+        "cik": "1652044",
+        "company": "Alphabet",
+        "accession": "0001652044-26-000080",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 4,
+        "mismatch": 0,
+        "cannot_check": 0,
+        "claims_match": 3,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "1379041",
+        "company": "Employers Holdings, Inc.",
+        "accession": "0001379041-26-000075",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 3,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 4
+        }
+      },
+      {
+        "cik": "1018724",
+        "company": "Amazon",
+        "accession": "0001018724-26-000038",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": false,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 2,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 4
+        }
+      },
+      {
+        "cik": "1070412",
+        "company": "CNX Resources Corp",
+        "accession": "0001070412-26-000064",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": false,
+        "confirmed": 3,
+        "mismatch": 0,
+        "cannot_check": 1,
+        "claims_match": 0,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "922621",
+        "company": "ERIE INDEMNITY CO",
+        "accession": "0001628280-26-068265",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": false,
+        "confirmed": 2,
+        "mismatch": 0,
+        "cannot_check": 2,
+        "claims_match": 0,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 4
+        }
+      }
+    ],
+    "headline": "Checked 8 extractions: 9 figures confirmed, 0 mismatches, 23 cannot check.",
+    "radar_check": {
+      "watch_run_at": "2026-10-30T06:08:10+08:00",
+      "watch_brief": "briefs/2026-10-30-watch.md",
+      "brief_says": 287,
+      "saved_for_run": 287,
+      "match": true
+    },
+    "offline": false
   }
 ]
