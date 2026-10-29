@@ -652,5 +652,133 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1481582/000119312526436183/ryz-ex99_1.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1481582/000119312526436183/0001193125-26-436183-index.htm",
     "saved_at": "2026-10-29T06:08:19+08:00"
+  },
+  {
+    "cik": "1018724",
+    "company": "Amazon",
+    "accession": "0001018724-26-000038",
+    "release_date": "2026-10-29",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 201944,
+        "unit": "USD millions",
+        "quote": "Total net sales | 180,169 | 201,944"
+      },
+      "operating_income": {
+        "value": 28076,
+        "unit": "USD millions",
+        "quote": "Operating income | 17,422 | 28,076"
+      },
+      "net_income": {
+        "value": 20685,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 21,187 | $ | 20,685"
+      },
+      "diluted_eps": {
+        "value": 1.89,
+        "unit": "USD per share",
+        "quote": "Diluted earnings per share | $ | 1.95 | $ | 1.89"
+      }
+    },
+    "guidance": {
+      "text": "Amazon expects fourth quarter 2026 net sales of $240.0 billion to $247.0 billion.",
+      "quote": "Net sales are expected to be between $240.0 billion and $247.0 billion, or to grow between 12% and 16% compared with fourth quarter 2025."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "AWS revenue grew over 39% year on year in the third quarter.",
+        "quote": "Our AWS investment in functionality and infrastructure is working, with over 39% year-over-year revenue growth in Q3 ($184 billion revenue run rate)"
+      },
+      {
+        "id": "M2",
+        "topic": "margins",
+        "claim": "Retail is gaining market share with improving margins.",
+        "quote": "Our broader selection and speedier delivery are helping us capture more retail market segment share with improving margins"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO says AWS investment is working and retail share and margins are improving."
+    },
+    "picked_from_radar": false,
+    "source_file": "sources/1018724-0001018724-26-000038.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000038/amzn-20260930xex991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000038/0001018724-26-000038-index.htm",
+    "saved_at": "2026-10-30T06:08:10+08:00"
+  },
+  {
+    "cik": "1070412",
+    "company": "CNX Resources Corp",
+    "accession": "0001070412-26-000064",
+    "release_date": "2026-10-29",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 580.004,
+        "unit": "USD millions",
+        "quote": "Total Revenue and Other Operating Income | 580,004"
+      },
+      "operating_income": null,
+      "net_income": {
+        "value": 165.239,
+        "unit": "USD millions",
+        "quote": "Net Income | $165,239"
+      },
+      "diluted_eps": {
+        "value": 1.12,
+        "unit": "USD per share",
+        "quote": "Diluted | $1.12"
+      }
+    },
+    "guidance": {
+      "text": "CNX updated its 2026 production volumes guidance to 612.5 to 617.5 Bcfe.",
+      "quote": "Production Volumes (Bcfe) | 605.0 | - | 620.0 | 612.5 | - | 617.5"
+    },
+    "management": [],
+    "tone": null,
+    "picked_from_radar": true,
+    "source_file": "sources/1070412-0001070412-26-000064.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1070412/000107041226000064/ex991supplementalq326.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1070412/000107041226000064/0001070412-26-000064-index.htm",
+    "saved_at": "2026-10-30T06:08:10+08:00"
+  },
+  {
+    "cik": "922621",
+    "company": "ERIE INDEMNITY CO",
+    "accession": "0001628280-26-068265",
+    "release_date": "2026-10-29",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": null,
+      "operating_income": {
+        "value": 207.382,
+        "unit": "USD millions",
+        "quote": "Operating income | $ | 207,382"
+      },
+      "net_income": {
+        "value": 181.989,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 181,989"
+      },
+      "diluted_eps": {
+        "value": 3.48,
+        "unit": "USD per share",
+        "quote": "Net income was $182.0 million, or $3.48 per diluted share, in the third quarter of 2026"
+      }
+    },
+    "guidance": null,
+    "management": [],
+    "tone": null,
+    "picked_from_radar": true,
+    "source_file": "sources/922621-0001628280-26-068265.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/922621/000162828026068265/ex-99109302026.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/922621/000162828026068265/0001628280-26-068265-index.htm",
+    "saved_at": "2026-10-30T06:08:10+08:00"
   }
 ]
