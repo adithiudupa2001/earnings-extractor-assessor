@@ -1178,5 +1178,137 @@
       }
     ],
     "offline": false
+  },
+  {
+    "run_at": "2026-10-31T06:37:54+08:00",
+    "agent": "assessor",
+    "brief": "briefs/2026-10-31-assess.md",
+    "brief_checked": true,
+    "sources": {
+      "ok": 6,
+      "total": 6,
+      "failures": []
+    },
+    "counts": {
+      "to_assess": 6,
+      "checked": 6,
+      "rechecks": 4,
+      "confirmed": 12,
+      "mismatch": 0,
+      "cannot_check": 12
+    },
+    "companies": [
+      {
+        "cik": "1130144",
+        "company": "SIERRA BANCORP",
+        "accession": "0001437749-26-033465",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 2,
+        "mismatch": 0,
+        "cannot_check": 2,
+        "claims_match": 2,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "1037540",
+        "company": "BXP, Inc.",
+        "accession": "0001037540-26-000041",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 0,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 4
+        }
+      },
+      {
+        "cik": "1379041",
+        "company": "Employers Holdings, Inc.",
+        "accession": "0001379041-26-000075",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 2,
+        "mismatch": 0,
+        "cannot_check": 2,
+        "claims_match": 3,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 4,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "1018724",
+        "company": "Amazon",
+        "accession": "0001018724-26-000038",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 4,
+        "mismatch": 0,
+        "cannot_check": 0,
+        "claims_match": 2,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "1253986",
+        "company": "ARBOR REALTY TRUST INC",
+        "accession": "0001253986-26-000062",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": false,
+        "confirmed": 1,
+        "mismatch": 0,
+        "cannot_check": 3,
+        "claims_match": 2,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 4
+        }
+      },
+      {
+        "cik": "1286043",
+        "company": "KITE REALTY GROUP TRUST",
+        "accession": "0001286043-26-000054",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": false,
+        "confirmed": 3,
+        "mismatch": 0,
+        "cannot_check": 1,
+        "claims_match": 1,
+        "claims_mismatch": 1,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      }
+    ],
+    "headline": "Checked 6 extractions: 12 figures confirmed, 0 mismatches, 12 cannot check.",
+    "radar_check": {
+      "watch_run_at": "2026-10-31T06:08:10+08:00",
+      "watch_brief": "briefs/2026-10-31-watch.md",
+      "brief_says": 62,
+      "saved_for_run": 62,
+      "match": true
+    },
+    "offline": false
   }
 ]
