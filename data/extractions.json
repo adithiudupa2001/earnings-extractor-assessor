@@ -780,5 +780,116 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/922621/000162828026068265/ex-99109302026.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/922621/000162828026068265/0001628280-26-068265-index.htm",
     "saved_at": "2026-10-30T06:08:10+08:00"
+  },
+  {
+    "cik": "1253986",
+    "company": "ARBOR REALTY TRUST INC",
+    "accession": "0001253986-26-000062",
+    "release_date": "2026-10-30",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": null,
+      "operating_income": null,
+      "net_income": {
+        "value": -85.354,
+        "unit": "USD millions",
+        "quote": "Net (loss) income attributable to common stockholders | $ | (85,354)"
+      },
+      "diluted_eps": {
+        "value": -0.51,
+        "unit": "USD per share",
+        "quote": "Diluted (loss) earnings per common share | $ | (0.51)"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "The company reports a GAAP net loss for the quarter, against net income a year earlier.",
+        "quote": "Arbor reported a net loss for the quarter of $(85.4) million, or $(0.51) per diluted common share, compared to net income of $38.5 million, or $0.20 per diluted common share for the quarter ended September 30, 2025."
+      },
+      {
+        "id": "M2",
+        "topic": "other",
+        "claim": "The board has suspended the quarterly common dividend to preserve capital.",
+        "quote": "Suspends quarterly cash dividend on common stock during this challenging environment to preserve capital and maintain financial flexibility"
+      },
+      {
+        "id": "M3",
+        "topic": "costs",
+        "claim": "Net provision for loan losses was $53.0 million in the quarter.",
+        "quote": "During the third quarter of 2026, the Company recorded a $53.0 million net provision for loan losses associated with CECL."
+      }
+    ],
+    "tone": {
+      "label": "cautious",
+      "reason": "The release calls the environment challenging and suspends the dividend to preserve capital."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1253986-0001253986-26-000062.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1253986/000125398626000062/abr-09302026xearningsrelea.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1253986/000125398626000062/0001253986-26-000062-index.htm",
+    "saved_at": "2026-10-31T06:08:10+08:00"
+  },
+  {
+    "cik": "1286043",
+    "company": "KITE REALTY GROUP TRUST",
+    "accession": "0001286043-26-000054",
+    "release_date": "2026-10-30",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 190.275,
+        "unit": "USD millions",
+        "quote": "Total revenue | 190,275 | 204,961"
+      },
+      "operating_income": null,
+      "net_income": {
+        "value": -13.302,
+        "unit": "USD millions",
+        "quote": "Net (loss) income attributable to common shareholders | $ | (13,302)"
+      },
+      "diluted_eps": {
+        "value": -0.07,
+        "unit": "USD per share",
+        "quote": "Net (loss) income per common share – diluted | $ | (0.07)"
+      }
+    },
+    "guidance": {
+      "text": "The company expects net income of $0.88 to $0.92 per diluted share in 2026 and raises its Core FFO range.",
+      "quote": "The Company expects to generate net income of $0.88 to $0.92 per diluted share in 2026."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO cites 3.6% Same Property NOI growth and over 1.2 million square feet of leasing.",
+        "quote": "We delivered 3.6% Same Property NOI growth and executed over 1.2 million square feet of leasing, including comparable blended lease spreads of 14.6%."
+      },
+      {
+        "id": "M2",
+        "topic": "outlook",
+        "claim": "The company raises its 2026 FFO and Same Property NOI guidance ranges.",
+        "quote": "Company raises 2026 FFO and Same Property NOI guidance ranges"
+      },
+      {
+        "id": "M3",
+        "topic": "other",
+        "claim": "The CEO describes tenant demand and portfolio quality as exceptional.",
+        "quote": "Third quarter results reflect exceptional tenant demand, the quality of our portfolio, and disciplined capital allocation,"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls tenant demand exceptional and the company raised its guidance ranges."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1286043-0001286043-26-000054.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1286043/000128604326000054/exhibit99_1xq32026.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1286043/000128604326000054/0001286043-26-000054-index.htm",
+    "saved_at": "2026-10-31T06:08:10+08:00"
   }
 ]
