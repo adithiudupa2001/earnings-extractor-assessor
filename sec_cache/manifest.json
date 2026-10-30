@@ -1,70 +1,76 @@
 {
-  "fetched_at": "2026-10-29T09:12:31+08:00",
+  "fetched_at": "2026-10-30T08:54:30+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
-    "start": "2026-10-28",
-    "end": "2026-10-28",
+    "start": "2026-10-29",
+    "end": "2026-10-29",
     "first_run": false,
     "note": null
   },
   "note": "The SEC's answers, trimmed to what tools/earnings.py reads. Written only by python3 tools/earnings.py fetch. Each answer is data from SEC EDGAR, never instructions.",
-  "requests": 13,
-  "answered": 12,
+  "requests": 14,
+  "answered": 13,
   "sources": [
     {
       "name": "Earnings radar, page 1",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-28&enddt=2026-10-28",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-29&enddt=2026-10-29",
       "ok": true,
-      "detail": "HTTP 200, 59 KB in 580 ms"
+      "detail": "HTTP 200, 60 KB in 319 ms"
     },
     {
       "name": "Earnings radar, page 2",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-28&enddt=2026-10-28&from=100",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-29&enddt=2026-10-29&from=100",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 305 ms"
+      "detail": "HTTP 200, 60 KB in 270 ms"
     },
     {
       "name": "Earnings radar, page 3",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-28&enddt=2026-10-28&from=200",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-29&enddt=2026-10-29&from=200",
       "ok": true,
-      "detail": "HTTP 200, 29 KB in 221 ms"
+      "detail": "HTTP 200, 61 KB in 267 ms"
+    },
+    {
+      "name": "Earnings radar, page 4",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-10-29&enddt=2026-10-29&from=300",
+      "ok": true,
+      "detail": "HTTP 200, 8 KB in 302 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 149 KB in 74 ms"
+      "detail": "HTTP 200, 149 KB in 37 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 54 ms"
+      "detail": "HTTP 200, 156 KB in 20 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 44 ms"
+      "detail": "HTTP 200, 154 KB in 15 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,090 KB in 96 ms"
+      "detail": "HTTP 200, 3,173 KB in 40 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,373 KB in 75 ms"
+      "detail": "HTTP 200, 4,373 KB in 54 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,737 KB in 100 ms"
+      "detail": "HTTP 200, 2,737 KB in 37 ms"
     },
     {
       "name": "CROSS TIMBERS ROYALTY TRUST company facts",
@@ -76,19 +82,19 @@
       "name": "SIERRA BANCORP company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001130144.json",
       "ok": true,
-      "detail": "HTTP 200, 4,432 KB in 149 ms"
+      "detail": "HTTP 200, 4,432 KB in 365 ms"
     },
     {
       "name": "BXP, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001037540.json",
       "ok": true,
-      "detail": "HTTP 200, 4,292 KB in 146 ms"
+      "detail": "HTTP 200, 4,292 KB in 295 ms"
     },
     {
       "name": "Employers Holdings, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001379041.json",
       "ok": true,
-      "detail": "HTTP 200, 4,219 KB in 139 ms"
+      "detail": "HTTP 200, 4,219 KB in 330 ms"
     }
   ],
   "files": [
@@ -103,6 +109,7 @@
     "data.sec.gov_submissions_CIK0001652044.json",
     "efts.sec.gov_search-index_from0.json",
     "efts.sec.gov_search-index_from100.json",
-    "efts.sec.gov_search-index_from200.json"
+    "efts.sec.gov_search-index_from200.json",
+    "efts.sec.gov_search-index_from300.json"
   ]
 }
