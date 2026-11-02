@@ -1,0 +1,227 @@
+Company: New Mountain Finance Corp (CIK 1496099)
+Accession: 0001628280-26-068916
+Results released: 2026-11-02
+Press release: https://www.sec.gov/Archives/edgar/data/1496099/000162828026068916/nmfcearningspressreleaseq3.htm
+Filing: https://www.sec.gov/Archives/edgar/data/1496099/000162828026068916/0001628280-26-068916-index.htm
+Saved: 2026-11-03T06:07:59+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 nmfcearningspressreleaseq3.htm EX-99.1
+New Mountain Finance Corporation Announces Financial Results for the Quarter Ended September 30, 2026
+Reports Third Quarter Adjusted Net Investment Income1 of $0.26 per Share and Declares a Fourth Quarter Distribution of $0.25 per Share
+NEW YORK--(BUSINESS WIRE) — November 2, 2026 -- New Mountain Finance Corporation (NASDAQ: NMFC) (“New Mountain,” “New Mountain Finance” or the “Company”) today announced its financial results for the quarter ended September 30, 2026.
+Third Quarter and Recent Highlights2
+•Adjusted net investment income1 of $24.1 million, or $0.26 per weighted average share
+•Net asset value of $10.67 per share compared to $10.89 per share as of June 30, 2026
+•Declared a fourth quarter 2026 distribution of $0.25 per share, payable on December 31, 2026, to holders of record as of December 17, 2026
+•86% of the portfolio is rated green on our internal heatmap
+•Funded the $150 million private placement of unsecured notes on October 1, 2026
+•Extended the $150 million stock repurchase program through December 31, 2027, with ~$79.5 million remaining available
+($ in millions, except per share data) | Q3 2026 | Q3 2025
+Net Investment Income per Weighted Average Share | $ | 0.25 | $ | 0.32
+Non-recurring Adjustments1 | 0.01 | —
+Adjusted Net Investment Income1 per Weighted Average Share | $ | 0.26 | $ | 0.32
+Regular Dividends Paid per Share in Quarter | $ | 0.25 | $ | 0.32
+Annualized Dividend Yield3 | 14.2 | % | 13.2 | %
+September 30, 2026 | June 30, 2026
+Investment Portfolio4 | $ | 2,265.7 | $ | 2,295.5
+NAV per Share | $ | 10.67 | $ | 10.89
+Statutory Debt/Equity5 | 1.19x | 1.16x
+Statutory Debt/Equity (Net of Available Cash)5 | 1.15x | 1.11x
+Management Comments on Third Quarter Performance
+“We continue to believe NMFC is undervalued, and our increasing internal ownership reflects our confidence in the Company’s long-term value,” said Steven B. Klinsky, NMFC Chairman and New Mountain Capital CEO. “In the third quarter, NMFC covered its dividend, and as we look into 2027, we believe NMFC has improving prospects.”
+John R. Kline, NMFC CEO, added: “We’re seeing positive underlying performance in many of our equity and PIK-yielding positions and remain focused on monetizations. Our objective is to reinvest proceeds into first-lien, cash-paying assets to improve portfolio diversification and enhance income quality.”
+1
+Portfolio and Investment Activity4
+As of September 30, 2026, the Company’s NAV2 was $1,008.0 million and its portfolio had a fair value of $2,265.7 million of investments in 110 portfolio companies, with a weighted average YTM at Cost6 of approximately 12.0%. For the three months ended September 30, 2026, the Company originated $10.3 million of investments7, offset by $35.8 million of repayments7 and $8.1 million of sales.
+Portfolio and Asset Quality
+NMFC’s mandate is to primarily target businesses in the middle market that, consistent with New Mountain’s private equity platform, are high quality, defensive growth companies in industries that are well-researched by New Mountain. The Company’s focus is on defensive growth businesses that generally exhibit the following characteristics: (i) acyclicality, (ii) sustainable secular growth drivers, (iii) niche market dominance and high barriers to competitive entry, (iv) recurring revenue and strong free cash flow, (v) flexible cost structures and (vi) seasoned management teams.
+Portfolio Industry Composition based on Fair Value8
+Business Services | Healthcare
+Utility & Data Center Services | 7.2 | % | Healthcare Services | 9.3 | %
+Real Estate Services | 4.8 | % | Healthcare IT & Tech-Enabled Services | 6.0 | %
+Insurance & Benefits Services | 4.5 | % | Healthcare Products | 2.2 | %
+Misc Services | 2.4 | % | Pharma Services | 1.8 | %
+Digital Transformation | 1.7 | % | Total Healthcare | 19.3 | %
+Data & Information Services | 1.5 | %
+Compliance Services | 1.4 | % | Financial Services & Technology
+Field Services | 1.3 | % | Financial Services | 3.5 | %
+Engineering & Consulting Services | 0.9 | % | Integrated Payments | 2.3 | %
+Total Business Services | 25.7 | % | Financial Technology | 1.4 | %
+Total Financial Services & Technology | 7.2 | %
+Software
+ERP | 7.2 | % | Other Industries
+IT Infrastructure & Security | 4.7 | % | Consumer Services | 7.5 | %
+Finance & Accounting | 4.6 | % | Education | 6.3 | %
+Human Capital Management | 2.3 | % | Distribution & Logistics | 5.3 | %
+Commerce & Supply Chain | 0.9 | % | Packaging | 4.5 | %
+Governance, Risk & Compliance | 0.2 | % | Other | 4.3 | %
+Total Software | 19.9 | % | Total Other Industries | 27.9 | %
+The Company monitors the performance and financial trends of its portfolio companies on at least a quarterly basis. The Company attempts to identify any developments within the portfolio company, the industry, or the macroeconomic environment that may alter any material element of the Company’s original investment strategy. As described more fully in the Company's Quarterly Report on Form 10-Q filed with the U.S. Securities and Exchange Commission, the portfolio monitoring procedures are designed to provide a simple, yet comprehensive analysis of the Company’s portfolio companies based on their operating performance and underlying business characteristics, which in turn forms the basis of its Risk Rating. The Risk Rating is expressed in categories of Green, Yellow, Orange and Red with Green reflecting an investment that is in-line with or above expectations and Red reflecting an investment performing materially below expectations.
+2
+The following table shows the Risk Rating of the Company’s portfolio companies as of September 30, 2026:
+(in millions) | As of September 30, 2026
+Risk Rating | Cost | Percent | Fair Value | Percent | Weighted Average Mark11
+Green9 | $ | 2,036.0 | 82.0 | % | $ | 1,950.6 | 86.1 | % | 95.2 | %
+Yellow4 | 353.1 | 14.2 | % | 266.1 | 11.7 | % | 69.5 | %
+Orange | 79.8 | 3.2 | % | 47.3 | 2.1 | % | 69.8 | %
+Red | 15.1 | 0.6 | % | 1.7 | 0.1 | % | 10.8 | %
+Total | $ | 2,484.0 | 100.0 | % | $ | 2,265.7 | 100.0 | %
+As of September 30, 2026, most of the investments in the Company’s portfolio had a Green Risk Rating, with the exception of seventeen portfolio companies that had a Yellow Risk Rating, six portfolio companies that had an Orange Risk Rating and one portfolio company that had a Red Risk Rating.
+The following table shows the Company’s investment portfolio composition as of September 30, 2026:
+(in millions)
+Investment Portfolio Composition | September 30, 2026 | Percent of Total
+First Lien | $ | 1,430.9 | 63.2 | %
+Senior Loan Funds (SLP III & SLP IV) & NMNLC | 378.6 | 16.7 | %
+Second Lien | 68.1 | 3.0 | %
+Subordinated | 101.7 | 4.5 | %
+Preferred Equity | 160.3 | 7.1 | %
+Common Equity and Other10 | 126.1 | 5.5 | %
+Total | $ | 2,265.7 | 100.0 | %
+Liquidity and Capital Resources
+As of September 30, 2026, the Company had cash and cash equivalents of $41.9 million and total statutory debt outstanding of $1,199.7 million5. The Company's statutory debt to equity was 1.19x (or 1.15x net of available cash) as of September 30, 2026. Additionally, the Company's wholly-owned SBIC subsidiaries had $120.0 million of SBA-guaranteed debentures outstanding as of September 30, 2026. As of September 30, 2026, the Company had $815.4 million of available capacity on its Holdings Credit Facility, NMFC Credit Facility, October 2028 Notes, October 2031A Notes, October 2031B Notes and Unsecured Management Company Revolver. Subsequent to quarter-end, the Company funded the $150.0 million private placement of unsecured notes on October 1, 2026 and reduced the Holdings Credit Facility commitment from $450.0 million to $350.0 million on October 2, 2026. On October 20, 2026, the SBA confirmed that SBIC I had repaid all of its outstanding debentures and approved SBIC I’s request to surrender its SBIC license.
+Third Quarter 2026 Conference Call
+New Mountain Finance Corporation will host an earnings conference call and webcast at 10:00 am Eastern Time on Tuesday, November 3, 2026. To participate in the live earnings conference call, please use the following dial-in numbers or visit the audio webcast link. To avoid any delays, please join at least fifteen minutes prior to the start of the call.
+•United States: +1 (646) 769-9200
+•International: (800) 330-6710
+•Access Code: 9184256
+•Live Audio Webcast
+A replay of the conference call will be available for one year following the call. To access the earnings webcast replay please visit the New Mountain Investor Relations website.
+3
+For additional details related to the quarter ended September 30, 2026, please refer to the New Mountain Finance Corporation Quarterly Report on Form 10-Q filed with the SEC and the supplemental investor presentation which can be found on the Company's website at http://www.newmountainfinance.com.
+(1)Adjusted net investment income for Q3 2026 excludes $0.6 million of accelerated deferred financing costs, comprising $0.4 million related to the commitment decrease of the Holdings Credit Facility, $0.2 million related to the full and partial repayment of the SBIC I and SBIC II SBA-guaranteed debentures and a corresponding incentive fee adjustment.
+(2)Excludes non-controlling interest in New Mountain Net Lease Corporation (“NMNLC”).
+(3)The Q3 2026 dividend yield calculation uses the closing stock price of $7.03 on October 30, 2026 and includes annualized dividends of $0.25 per share, to be paid in Q4 2026. The Q3 2025 dividend yield calculation uses the closing stock price of $9.67 on October 31, 2025 and includes annualized dividends of $0.32 per share, which were paid in Q4 2025.
+(4)Includes claim related to the collateralized agreement to resell.
+(5)Excludes the Company’s United States Small Business Administration (“SBA”) guaranteed debentures.
+(6)References to “YTM at Cost” assume the accruing investments, including secured collateralized agreements, in the Company's portfolio as of a certain date, the ‘‘Portfolio Date’’, are purchased at cost on that date and held until their respective maturities with no prepayments or losses and are exited at par at maturity. This calculation excludes the impact of existing leverage. YTM at Cost uses the Sterling Overnight Index Average Rate (“SONIA”), Euro Interbank Offered Rate (“EURIBOR”) and Secured Overnight Financing Rate (“SOFR”) curves at each quarter’s respective end date. The actual yield to maturity may be higher or lower due to the future selection of SONIA, EURIBOR and SOFR contracts by the individual companies in the Company’s portfolio or other factors.
+(7)Originations exclude payment-in-kind (“PIK”); originations, repayments, and sales exclude revolvers, unfunded commitments, bridges, return of capital, and realized gains / losses.
+(8)Excludes NMFC Senior Loan Program III LLC (“SLP III”), NMFC Senior Loan Program IV LLC (“SLP IV”), Structured Finance Obligations and NMNLC.
+(9)Includes investments held in NMNLC.
+(10)Includes investments classified as structured finance obligations and claim related to the collateralized agreement to resell.
+(11)Does not include unfunded commitments, common equity investments, SLPs, NMNLC, or non-yielding preferred investments.
+4
+New Mountain Finance Corporation
+Consolidated Statements of Assets and Liabilities
+(in thousands, except shares and per share data)
+(unaudited)
+September 30, 2026 | December 31, 2025
+Assets
+Investments at fair value
+Non-controlled/non-affiliated investments (cost of $1,664,543 and $2,060,391, respectively) | $ | 1,559,410 | $ | 2,002,306
+Non-controlled/affiliated investments (cost of $136,025 and $131,221, respectively) | 69,692 | 60,702
+Controlled investments (cost of $653,422 and $720,503, respectively) | 630,860 | 679,005
+Total investments at fair value (cost of $2,453,990 and $2,912,115, respectively) | 2,259,962 | 2,742,013
+Securities purchased under collateralized agreements to resell (cost of $30,000 and $30,000, respectively) | 5,700 | 13,500
+Cash and cash equivalents | 41,912 | 80,718
+Interest and dividend receivable | 31,675 | 38,549
+Receivable from broker | 60 | —
+Receivable from affiliates | 53 | 381
+Derivative asset at fair value | — | 5,647
+Receivable from unsettled securities sold | — | 4,138
+Other assets | 13,339 | 17,907
+Total assets | $ | 2,352,701 | $ | 2,902,853
+Liabilities
+Borrowings
+Unsecured Notes | $ | 778,013 | $ | 991,585
+Holdings Credit Facility | 391,446 | 420,063
+SBA-guaranteed debentures | 120,000 | 196,205
+NMFC Credit Facility | 30,212 | 81,074
+Deferred financing costs (net of accumulated amortization of $50,994 and $45,302, respectively) | (15,470) | (17,875)
+Net borrowings | 1,304,201 | 1,671,052
+Derivative liability at fair value | 9,296 | 366
+Interest payable | 7,454 | 11,892
+Management fee payable | 7,312 | 9,176
+Incentive fee payable | 4,160 | 3,018
+Deferred tax liability | 1,838 | 1,819
+Payable for unsettled securities purchased | 168 | 463
+Payable to broker | — | 14,630
+Other liabilities | 4,064 | 2,181
+Total liabilities | 1,338,493 | 1,714,597
+Commitments and contingencies
+Net assets
+Preferred stock, par value $0.01 per share, 2,000,000 shares authorized, none issued | — | —
+Common stock, par value $0.01 per share, 200,000,000 shares authorized, 107,851,929 and 107,851,929 shares issued, respectively, and 94,452,390 and 102,638,388 shares outstanding, respectively | 1,079 | 1,079
+Paid in capital in excess of par | 1,354,726 | 1,354,726
+Treasury stock at cost, 13,399,539 and 5,213,541 shares held, respectively | (117,515) | (51,952)
+Accumulated overdistributed earnings | (230,243) | (121,676)
+Total net assets of New Mountain Finance Corporation | $ | 1,008,047 | $ | 1,182,177
+Non-controlling interest in New Mountain Net Lease Corporation | 6,161 | 6,079
+Total net assets | $ | 1,014,208 | $ | 1,188,256
+Total liabilities and net assets | $ | 2,352,701 | $ | 2,902,853
+Number of shares outstanding | 94,452,390 | 102,638,388
+Net asset value per share of New Mountain Finance Corporation | $ | 10.67 | $ | 11.52
+5
+New Mountain Finance Corporation
+Consolidated Statements of Operations
+(in thousands, except shares and per share data)
+(unaudited)
+Three Months Ended | Nine Months Ended
+September 30, 2026 | September 30, 2025 | September 30, 2026 | September 30, 2025
+Investment income
+From non-controlled/non-affiliated investments:
+Interest income (excluding Payment-in-kind ("PIK") interest income) | $ | 35,311 | $ | 49,811 | $ | 110,509 | $ | 155,508
+PIK interest income | 3,602 | 2,968 | 8,497 | 8,812
+Dividend income | 147 | 179 | 2,304 | 1,242
+Non-cash dividend income | 1,272 | 4,026 | 3,464 | 12,432
+Other income | 1,349 | 1,436 | 4,368 | 3,640
+From non-controlled/affiliated investments:
+Interest income (excluding PIK interest income) | 324 | 322 | 959 | 989
+PIK interest income | 1,330 | 1,132 | 3,774 | 3,176
+Dividend income | 689 | — | 689 | —
+Non-cash dividend income | 352 | 304 | 1,753 | 2,279
+Other income | 63 | 63 | 188 | 188
+From controlled investments:
+Interest income (excluding PIK interest income) | 1,594 | 1,665 | 6,511 | 5,172
+PIK interest income | 1,694 | 3,505 | 4,907 | 10,093
+Dividend income | 8,671 | 11,818 | 31,285 | 36,199
+Non-cash dividend income | 3,555 | 2,925 | 10,165 | 7,374
+Other income | 461 | 375 | 1,310 | 2,578
+Total investment income | 60,414 | 80,529 | 190,683 | 249,682
+Expenses
+Interest and other financing expenses | 22,867 | 31,720 | 72,845 | 94,232
+Management fee | 7,312 | 9,619 | 22,880 | 29,611
+Incentive fee | 5,548 | 7,345 | 17,417 | 23,563
+Professional fees | 894 | 924 | 2,978 | 3,413
+Administrative expenses | 806 | 916 | 2,771 | 3,204
+Other general and administrative expenses | 681 | 478 | 1,755 | 1,325
+Total expenses | 38,108 | 51,002 | 120,646 | 155,348
+Less: management and incentive fees waived | (1,387) | (4,544) | (8,932) | (8,952)
+Net expenses | 36,721 | 46,458 | 111,714 | 146,396
+Net investment income before income taxes | 23,693 | 34,071 | 78,969 | 103,286
+Income tax expense | — | 29 | 23 | 18
+Net investment income | 23,693 | 34,042 | 78,946 | 103,268
+Net realized (losses) gains:
+Non-controlled/non-affiliated investments | (530) | 8 | (58,933) | 12,324
+Controlled investments | (2) | 1 | (18,593) | 38,899
+Net change in unrealized appreciation (depreciation):
+Non-controlled/non-affiliated investments | (14,408) | (8,977) | (46,117) | (33,783)
+Non-controlled/affiliated investments | (1,946) | (9,736) | 4,186 | (23,555)
+Controlled investments | (2,905) | (2,851) | 18,937 | (53,833)
+Securities purchased under collateralized agreements to resell | — | — | (7,800) | —
+Foreign currency | 9 | (120) | (97) | 482
+Provision for taxes | (168) | (25) | (22) | (68)
+Net realized and unrealized losses | (19,950) | (21,700) | (108,439) | (59,534)
+Net increase (decrease) in net assets resulting from operations | 3,743 | 12,342 | (29,493) | 43,734
+6
+Less: Net increase in net assets resulting from operations related to non-controlling interest in New Mountain Net Lease Corporation | (264) | (153) | (699) | (358)
+Net increase (decrease) in net assets resulting from operations related to New Mountain Finance Corporation | $ | 3,479 | $ | 12,189 | $ | (30,192) | $ | 43,376
+Basic earnings (loss) per share | $ | 0.04 | $ | 0.11 | $ | (0.31) | $ | 0.40
+Weighted average shares of common stock outstanding - basic | 94,452,390 | 106,016,542 | 96,471,368 | 107,199,318
+Diluted earnings (loss) per share | $ | 0.04 | $ | 0.11 | $ | (0.31) | $ | 0.40
+Weighted average shares of common stock outstanding - diluted | 94,452,390 | 125,036,696 | 96,471,368 | 126,201,036
+Distributions declared and paid per share | $ | 0.25 | $ | 0.32 | $ | 0.82 | $ | 0.96
+7
+ABOUT NEW MOUNTAIN FINANCE CORPORATION
+New Mountain Finance Corporation (NASDAQ: NMFC) is focused on providing direct lending solutions to U.S. upper middle market companies backed by top private equity sponsors. Our investment objective is to generate current income and capital appreciation through the sourcing and origination of senior secured loans and select junior capital positions, to growing businesses in defensive industries that offer attractive risk-adjusted returns. Our differentiated investment approach leverages the deep sector knowledge and operating resources of New Mountain Capital, a global investment firm with approximately $60 billion of assets under management.
+ABOUT NEW MOUNTAIN CAPITAL
+New Mountain Capital ("NMC") is a New York-based investment firm that emphasizes business building and growth, rather than debt, as it pursues long-term capital appreciation. The firm currently manages private equity, credit and net lease investment strategies with approximately $60 billion in assets under management. New Mountain seeks out what it believes to be the highest quality growth leaders in carefully selected industry sectors and then works intensively with management to build the value of these companies. For more information on New Mountain Capital, please visit http://www.newmountainfinance.com.
+FORWARD-LOOKING STATEMENTS
+Statements included herein may contain “forward-looking statements”, which relate to our future operations, future performance or our financial condition. Forward-looking statements are not guarantees of future performance, condition or results and involve a number of risks and uncertainties, including changes in base interest rates and significant volatility on our business, portfolio companies, our industry and the global economy. Actual results and outcomes may differ materially from those anticipated in the forward-looking statements as a result of a variety of factors, including those described from time to time in our filings with the Securities and Exchange Commission or factors that are beyond our control. New Mountain Finance Corporation undertakes no obligation to publicly update or revise any forward-looking statements made herein, except as may be required by law. All forward-looking statements speak only as of the time of this press release.
+CONTACT
+New Mountain Finance Corporation
+Investor Relations
+Laura C. Holson, Authorized Representative
+NMFCIR@newmountaincapital.com
+(212) 220-3505
+8

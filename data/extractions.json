@@ -891,5 +891,103 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1286043/000128604326000054/exhibit99_1xq32026.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1286043/000128604326000054/0001286043-26-000054-index.htm",
     "saved_at": "2026-10-31T06:08:10+08:00"
+  },
+  {
+    "cik": "21175",
+    "company": "CNA FINANCIAL CORP",
+    "accession": "0000021175-26-000055",
+    "release_date": "2026-11-02",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": null,
+      "operating_income": null,
+      "net_income": {
+        "value": 196,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 196 | $ | 403"
+      },
+      "diluted_eps": {
+        "value": 0.72,
+        "unit": "USD per share",
+        "quote": "Net income per diluted share | $ | 0.72 | $ | 1.48"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "margins",
+        "claim": "The P&C combined ratio was 97.0%, including 2.8 points of catastrophe impact.",
+        "quote": "The P&C all-in combined ratio was 97.0% in the quarter, including 2.8 points of catastrophe impact and no impact from prior period development."
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "Net written premiums grew 3% in the quarter, with stable retention.",
+        "quote": "Net written premiums grew 3% in the quarter, with stable retention at 83% and modest growth in new business."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "Management will deploy capacity selectively where market conditions give attractive risk adjusted returns.",
+        "quote": "we will selectively deploy capacity where market conditions provide attractive risk adjusted returns, while maintaining the underwriting discipline to step back where they do not"
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "The CEO calls the quarter strong but also cites the long-term care reserve updates and says it will step back where pricing is not adequate."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/21175-0000021175-26-000055.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/21175/000002117526000055/q32026exhibit991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/21175/000002117526000055/0000021175-26-000055-index.htm",
+    "saved_at": "2026-11-03T06:07:59+08:00"
+  },
+  {
+    "cik": "1496099",
+    "company": "New Mountain Finance Corp",
+    "accession": "0001628280-26-068916",
+    "release_date": "2026-11-02",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": null,
+      "operating_income": null,
+      "net_income": {
+        "value": 3.479,
+        "unit": "USD millions",
+        "quote": "Net increase (decrease) in net assets resulting from operations related to New Mountain Finance Corporation | $ | 3,479"
+      },
+      "diluted_eps": {
+        "value": 0.04,
+        "unit": "USD per share",
+        "quote": "Diluted earnings (loss) per share | $ | 0.04 | $ | 0.11"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "The chairman says the company covered its dividend in the third quarter and sees improving prospects for 2027.",
+        "quote": "In the third quarter, NMFC covered its dividend, and as we look into 2027, we believe NMFC has improving prospects."
+      },
+      {
+        "id": "M2",
+        "topic": "other",
+        "claim": "The CEO sees positive performance in many equity and PIK-yielding positions and aims to reinvest proceeds in first-lien assets.",
+        "quote": "We’re seeing positive underlying performance in many of our equity and PIK-yielding positions and remain focused on monetizations."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "Management says it believes the company is undervalued and has improving prospects, and it cites positive underlying performance."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1496099-0001628280-26-068916.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1496099/000162828026068916/nmfcearningspressreleaseq3.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1496099/000162828026068916/0001628280-26-068916-index.htm",
+    "saved_at": "2026-11-03T06:07:59+08:00"
   }
 ]

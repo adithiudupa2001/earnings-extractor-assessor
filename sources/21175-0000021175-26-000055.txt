@@ -1,0 +1,296 @@
+Company: CNA FINANCIAL CORP (CIK 21175)
+Accession: 0000021175-26-000055
+Results released: 2026-11-02
+Press release: https://www.sec.gov/Archives/edgar/data/21175/000002117526000055/q32026exhibit991.htm
+Filing: https://www.sec.gov/Archives/edgar/data/21175/000002117526000055/0000021175-26-000055-index.htm
+Saved: 2026-11-03T06:07:59+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 q32026exhibit991.htm EX-99.1
+FOR IMMEDIATE RELEASE
+CNA FINANCIAL ANNOUNCES THIRD QUARTER 2026
+NET INCOME OF $0.72 PER SHARE AND CORE INCOME OF $0.75 PER SHARE
+•Net income of $196 million versus $403 million in the prior year quarter; core income of $203 million versus $409 million in the prior year quarter.
+•P&C core income of $397 million versus $456 million, reflects lower underlying underwriting results and higher catastrophe losses.
+•Life & Group core loss of $171 million versus $22 million in the prior year quarter, reflects an unfavorable after-tax impact of $137 million in 2026 from our annual long-term care reserve assumption updates. However, the unfavorable reserve assumption updates are almost entirely offset by a favorable economic impact from recent investment portfolio actions, the anticipated benefit of which is not reflected in current period earnings under GAAP accounting.
+•Corporate & Other core loss of $23 million versus $25 million in the prior year quarter.
+•Net investment income of $635 million, reflects a $23 million decrease from limited partnerships and common stock to $48 million and a $20 million increase from fixed income securities and other investments to $587 million.
+•P&C combined ratio of 97.0%, compared with 92.8% in the prior year quarter, including 2.8 points of catastrophe loss impact compared with 1.5 points in the prior year quarter. There was no net prior period development impact in the current or prior year quarters.
+•Catastrophe losses of $78 million pretax versus $41 million in the prior year quarter.
+•P&C underlying combined ratio was 94.2%, compared with 91.3% in the prior year quarter. P&C underlying loss ratio was 64.1%, up 2.2 points from the prior year quarter, and the expense ratio was 29.7%. Both the underlying loss ratio and the expense ratio were consistent with the first half of 2026.
+•P&C segments generated net written premium growth of 3% in the quarter. P&C renewal premium change of +3%, with written rate of +2%.
+•Book value per share of $37.80; book value per share excluding AOCI of $46.11, a 5% increase from year-end 2025 adjusting for $3.44 of dividends per share paid.
+•Board of Directors declares regular quarterly cash dividend of $0.48 per share.
+1
+CHICAGO, November 2, 2026 --- CNA Financial Corporation (NYSE: CNA) today announced third quarter 2026 net income of $196 million, or $0.72 per share, versus $403 million, or $1.48 per share, in the prior year quarter. Net investment losses for the quarter were $7 million compared to $6 million in the prior year quarter. Core income for the quarter was $203 million, or $0.75 per share, versus $409 million, or $1.50 per share, in the prior year quarter.
+Our Property & Casualty segments delivered core income of $397 million for the third quarter of 2026, a decrease of $59 million compared to the prior year quarter reflecting lower underlying underwriting results and higher catastrophe losses. P&C segments generated net written premium growth of 3%, due to renewal premium change of +3% and written rate of +2%.
+Our Life & Group segment produced a core loss of $171 million for the third quarter of 2026 versus $22 million in the prior year quarter, reflecting an unfavorable after-tax impact of $137 million in 2026 from our annual long-term care reserve assumption updates. However, the unfavorable reserve assumption updates are almost entirely offset by a favorable economic impact from recent investment portfolio actions, the anticipated benefit of which is not reflected in current period earnings under GAAP accounting.
+Our Corporate & Other segment reported a core loss of $23 million for the third quarter of 2026 versus $25 million in the prior year quarter.
+CNA Financial declared a quarterly cash dividend of $0.48 per share, payable December 3, 2026 to stockholders of record on November 16, 2026.
+Results for the Three Months Ended September 30 | Results for the Nine Months Ended September 30
+($ millions, except per share data) | 2026 | 2025 | 2026 | 2025
+Net income | $ | 196 | $ | 403 | $ | 728 | $ | 976
+Core income (a) | 203 | 409 | 752 | 1,025
+Net income per diluted share | $ | 0.72 | $ | 1.48 | $ | 2.67 | $ | 3.58
+Core income per diluted share | 0.75 | 1.50 | 2.77 | 3.76
+September 30, 2026 | December 31, 2025
+Book value per share | $ | 37.80 | $ | 42.93
+Book value per share excluding AOCI | 46.11 | 46.99
+(a)Management utilizes the core income (loss) financial measure to monitor the Company's operations. Please refer herein to the Reconciliation of GAAP Measures to Non-GAAP Measures section of this press release for further discussion of this non-GAAP measure.
+2
+“We delivered strong third quarter results with core income of $203 million reflecting disciplined growth, high-quality underwriting results and solid investment income, even with the unfavorable accounting impact from the annual LTC reserve assumption updates. The LTC assumption updates, coupled with recent fixed income duration extension trades, confirms our belief that the risk from this runoff block is contained.
+The P&C all-in combined ratio was 97.0% in the quarter, including 2.8 points of catastrophe impact and no impact from prior period development. Our underlying loss ratio of 64.1% was consistent with the first half of 2026 as we continue to maintain the conservative philosophy that underlies our loss picks and assumptions. Our underlying combined ratio of 94.2% includes an expense ratio of 29.7%.
+Net written premiums grew 3% in the quarter, with stable retention at 83% and modest growth in new business. While we continue to see opportunities for growth, there are areas across many portions of the portfolio where we chose to walk away given current market conditions do not support appropriate pricing, terms and conditions.
+Renewal premium change was up 3% while rate increase was 2%. Still-substantial rate increase in casualty lines impacted by social inflation and higher rate in our Specialty segment offset rate decreases in property, workers’ compensation and our International segment.
+Looking ahead, we remain committed to deliberate portfolio management and profitable growth. As we move through the fourth quarter and into 2027, we will selectively deploy capacity where market conditions provide attractive risk adjusted returns, while maintaining the underwriting discipline to step back where they do not,” said Douglas M. Worman, Chairman & Chief Executive Officer of CNA Financial Corporation.
+3
+Property & Casualty Operations
+Results for the Three Months Ended September 30 | Results for the Nine Months Ended September 30
+($ millions) | 2026 | 2025 | 2026 | 2025
+Net written premiums | $ | 2,507 | $ | 2,437 | $ | 8,094 | $ | 7,889
+NWP change (% year over year) | 3 | % | 3 | %
+Net earned premiums | $ | 2,731 | $ | 2,678 | $ | 7,985 | $ | 7,786
+NEP change (% year over year) | 2 | % | 3 | %
+Underwriting gain | $ | 82 | $ | 194 | $ | 115 | $ | 384
+Net investment income | $ | 402 | $ | 396 | $ | 1,238 | $ | 1,172
+Core income | $ | 397 | $ | 456 | $ | 1,071 | $ | 1,215
+Loss ratio | 66.9 | % | 63.4 | % | 68.3 | % | 65.0 | %
+Less: Effect of catastrophe impacts | 2.8 | 1.5 | 2.9 | 2.6
+Less: Effect of unfavorable development-related items | — | — | 1.3 | 0.8
+Underlying loss ratio | 64.1 | % | 61.9 | % | 64.1 | % | 61.6 | %
+Expense ratio | 29.7 | % | 29.1 | % | 29.9 | % | 29.7 | %
+Combined ratio | 97.0 | % | 92.8 | % | 98.6 | % | 95.1 | %
+Underlying combined ratio | 94.2 | % | 91.3 | % | 94.4 | % | 91.7 | %
+•The underlying combined ratio increased 2.9 points as compared with the prior year quarter, primarily the result of a 2.2 point increase in the underlying loss ratio to 64.1%, with increases across each segment. The underlying loss ratio and the expense ratio were generally consistent with the first half of 2026.
+•The combined ratio increased 4.2 points as compared with the prior year quarter. Catastrophe losses were $78 million, or 2.8 points of the loss ratio, in the quarter compared with $41 million, or 1.5 points of the loss ratio, for the prior year quarter.
+4
+Business Operating Highlights
+Specialty
+Results for the Three Months Ended September 30 | Results for the Nine Months Ended September 30
+($ millions) | 2026 | 2025 | 2026 | 2025
+Net written premiums | $ | 900 | $ | 867 | $ | 2,671 | $ | 2,601
+NWP change (% year over year) | 4 | % | 3 | %
+Net earned premiums | $ | 907 | $ | 881 | $ | 2,637 | $ | 2,573
+NEP change (% year over year) | 3 | % | 2 | %
+Underwriting gain | $ | 30 | $ | 60 | $ | 38 | $ | 155
+Loss ratio | 62.9 | % | 60.6 | % | 64.7 | % | 60.7 | %
+Less: Effect of catastrophe impacts | 0.1 | — | — | —
+Less: Effect of unfavorable development-related items | — | — | 1.9 | 0.4
+Underlying loss ratio | 62.8 | % | 60.6 | % | 62.8 | % | 60.3 | %
+Expense ratio | 33.6 | % | 32.5 | % | 33.5 | % | 33.0 | %
+Combined ratio | 96.8 | % | 93.3 | % | 98.6 | % | 94.0 | %
+Underlying combined ratio | 96.7 | % | 93.3 | % | 96.7 | % | 93.6 | %
+•The underlying combined ratio increased 3.4 points as compared with the prior year quarter. The underlying loss ratio increased 2.2 points as compared with the prior year quarter, reflecting increases across various lines, and was consistent with the first half of 2026. The expense ratio increased 1.1 points as compared with the prior year quarter primarily driven by higher acquisition costs.
+•The combined ratio increased 3.5 points as compared with the prior year quarter.
+5
+Commercial
+Results for the Three Months Ended September 30 | Results for the Nine Months Ended September 30
+($ millions) | 2026 | 2025 | 2026 | 2025
+Net written premiums | $ | 1,274 | $ | 1,251 | $ | 4,397 | $ | 4,312
+NWP change (% year over year) | 2 | % | 2 | %
+Net earned premiums | $ | 1,475 | $ | 1,453 | $ | 4,328 | $ | 4,235
+NEP change (% year over year) | 2 | % | 2 | %
+Underwriting gain | $ | 3 | $ | 106 | $ | 4 | $ | 163
+Loss ratio | 73.0 | % | 66.1 | % | 72.9 | % | 68.7 | %
+Less: Effect of catastrophe impacts | 4.8 | 2.7 | 5.0 | 4.3
+Less: Effect of unfavorable development-related items | 2.4 | — | 2.1 | 1.3
+Underlying loss ratio | 65.8 | % | 63.4 | % | 65.8 | % | 63.1 | %
+Expense ratio | 26.2 | % | 26.1 | % | 26.5 | % | 26.9 | %
+Combined ratio | 99.7 | % | 92.7 | % | 99.9 | % | 96.1 | %
+Underlying combined ratio | 92.5 | % | 90.0 | % | 92.8 | % | 90.5 | %
+•The underlying combined ratio increased 2.5 points as compared with the prior year quarter. The underlying loss ratio increased 2.4 points as compared with the prior year quarter, primarily the result of increases in excess casualty and workers' compensation, and was consistent with the first half of 2026. The expense ratio was consistent with the prior year quarter.
+•The combined ratio increased 7.0 points as compared with the prior year quarter. Catastrophe losses were $70 million, or 4.8 points of the loss ratio in the quarter compared with $39 million, or 2.7 points of the loss ratio, for the prior year quarter. Unfavorable net prior period development increased the loss ratio by 2.4 points in the current quarter as compared with no net prior period development impact in the prior year quarter.
+6
+International
+Results for the Three Months Ended September 30 | Results for the Nine Months Ended September 30
+($ millions) | 2026 | 2025 | 2026 | 2025
+Net written premiums | $ | 333 | $ | 319 | $ | 1,026 | $ | 976
+NWP change (% year over year) | 4 | % | 5 | %
+Net earned premiums | $ | 349 | $ | 344 | $ | 1,020 | $ | 978
+NEP change (% year over year) | 1 | % | 4 | %
+Underwriting gain | $ | 49 | $ | 28 | $ | 73 | $ | 66
+Loss ratio | 51.8 | % | 59.1 | % | 58.2 | % | 60.3 | %
+Less: Effect of catastrophe impacts | 2.1 | 0.6 | 1.8 | 1.8
+Less: Effect of favorable development-related items | (10.1) | — | (3.4) | —
+Underlying loss ratio | 59.8 | % | 58.5 | % | 59.8 | % | 58.5 | %
+Expense ratio | 34.3 | % | 32.7 | % | 34.7 | % | 32.9 | %
+Combined ratio | 86.1 | % | 91.8 | % | 92.9 | % | 93.2 | %
+Underlying combined ratio | 94.1 | % | 91.2 | % | 94.5 | % | 91.4 | %
+•The underlying combined ratio increased 2.9 points as compared with the prior year quarter. The expense ratio increased 1.6 points, which reflects higher acquisition costs. The underlying loss ratio increased 1.3 points as compared with the prior year quarter, with increases across most lines, and was consistent with the first half of 2026.
+•The combined ratio improved 5.7 points as compared with the prior year quarter. Favorable net prior period development improved the loss ratio by 10.1 points in the current quarter as compared with no net prior period development in the prior year quarter. Catastrophe losses were $8 million, or 2.1 points of the loss ratio in the quarter compared with $2 million or 0.6 points of the loss ratio, for the prior year quarter.
+•Excluding currency fluctuations, net written premiums grew 6% for the third quarter of 2026.
+7
+Life & Group
+Results for the Three Months Ended September 30 | Results for the Nine Months Ended September 30
+($ millions) | 2026 | 2025 | 2026 | 2025
+Net earned premiums | $ | 101 | $ | 106 | $ | 307 | $ | 318
+Claims, benefits and expenses | 547 | 365 | 1,241 | 1,040
+Net investment income | $ | 223 | $ | 226 | $ | 677 | $ | 687
+Core loss | $ | (171) | $ | (22) | $ | (190) | $ | (15)
+Core results decreased $149 million for the third quarter of 2026 as compared with the prior year quarter. Both periods are inclusive of assumption updates as a result of the annual reserve reviews.
+The assumption updates in the third quarter of 2026 unfavorably impacted core loss by $137 million after-tax primarily driven by unfavorable cost of care inflation and morbidity assumption updates, partially offset by favorable premium rate action outperformance. However, the unfavorable expected cash flows from the reserve assumption updates are almost entirely offset by a favorable economic impact from higher future investment cash flows from recent investment portfolio actions. Under GAAP accounting, the anticipated benefits of these portfolio actions are not immediately reflected in earnings, but instead are recognized through net investment income over time.
+The assumption updates in the third quarter of 2025 unfavorably impacted core loss by $7 million after-tax.
+Corporate & Other
+Results for the Three Months Ended September 30 | Results for the Nine Months Ended September 30
+($ millions) | 2026 | 2025 | 2026 | 2025
+Insurance claims and policyholders' benefits | $ | (6) | $ | (10) | $ | 54 | $ | 107
+Interest expense | 32 | 36 | 98 | 99
+Net investment income | 10 | 16 | 31 | 45
+Core loss | (23) | (25) | (129) | (175)
+Core loss improved $2 million for the third quarter of 2026 as compared with the prior year quarter.
+Net Investment Income
+Results for the Three Months Ended September 30 | Results for the Nine Months Ended September 30
+2026 | 2025 | 2026 | 2025
+Fixed income securities and other | $ | 587 | $ | 567 | $ | 1,725 | $ | 1,679
+Limited partnership and common stock investments | 48 | 71 | 221 | 225
+Net investment income | $ | 635 | $ | 638 | $ | 1,946 | $ | 1,904
+Net investment income decreased $3 million for the third quarter of 2026. The decrease was driven by lower limited partnership returns, partially offset by higher income from fixed income securities as a result of a larger invested asset base and favorable reinvestment rates.
+Stockholders' Equity
+Stockholders’ equity of $10.2 billion decreased 12% from year-end 2025, primarily due to an increase in net unrealized investment losses as a result of higher interest rates and dividends paid to stockholders, partially offset by net income.
+Book value per share ex AOCI of $46.11 increased 5% from year-end 2025 adjusting for $3.44 of dividends per share.
+As of September 30, 2026, statutory capital and surplus for the Combined Continental Casualty Companies was $11.2 billion.
+8
+About the Company
+CNA is one of the largest U.S. commercial property and casualty insurance companies. Backed by more than 125 years of experience, CNA provides a broad range of standard and specialized insurance products and services for businesses and professionals in the U.S., Canada and Europe. For more information, please visit CNA at cna.com.
+Contacts
+Media: | Analysts:
+Kelly Messina | Vice President, Marketing | Ralitza K. Todorova | Vice President, Investor Relations & Rating Agencies
+872-817-0350 | 312-822-3834
+Earnings Remarks & Materials
+A transcript of earnings remarks will be available on CNA's website at cna.com via the Investor Relations section. Remarks will include commentary from the Company's Chairman and Chief Executive Officer, Douglas M. Worman, and Chief Financial Officer, Scott R. Lindquist. An earnings presentation and financial supplement information related to the results will also be posted and available on the CNA website.
+Definition of Reported Segments
+•Specialty provides management and professional liability and other coverages through property and casualty products and services using a network of retail and wholesale brokers, independent agencies and managing general underwriters.
+•Commercial works with a network of retail and wholesale brokers and independent agents to market a broad range of property and casualty insurance products to all types of insureds targeting small business, construction, middle market and other commercial customers.
+•International underwrites property and casualty coverages on a global basis through a branch operation in Canada, a European business consisting of insurance companies based in the U.K. and Luxembourg and Hardy, our Lloyd's Syndicate.
+•Life & Group includes the individual and group run-off long-term care businesses as well as structured settlement obligations not funded by annuities related to certain property and casualty claimants.
+•Corporate & Other primarily includes certain corporate expenses, including interest on corporate debt, and the results of certain property and casualty business in run-off, including asbestos and environmental pollution (A&EP), a legacy portfolio of excess workers' compensation (EWC) policies and legacy mass tort reserves.
+Financial Measures
+Management utilizes the following metrics in their evaluation of the Property & Casualty Operations.
+These ratios are calculated using financial results prepared in accordance with accounting principles generally accepted in the United States of America (GAAP).
+•Loss ratio is the percentage of net incurred claim and claim adjustment expenses to net earned premiums.
+•Underlying loss ratio represents the loss ratio excluding catastrophe-related reinstatement premiums, catastrophe losses and development-related items.
+•Expense ratio is the percentage of insurance underwriting and acquisition expenses, including the amortization of deferred acquisition costs, to net earned premiums.
+•Dividend ratio is the ratio of policyholders' dividends incurred to net earned premiums.
+•Combined ratio is the sum of the loss ratio, the expense and the dividend ratio.
+•Underlying combined ratio is the sum of the underlying loss ratio, the expense ratio and the dividend ratio.
+The underlying loss ratio and the underlying combined ratio are deemed to be non-GAAP financial measures, and management believes some investors may find these ratios useful to evaluate our underwriting performance since they remove the impact of catastrophes, which are unpredictable as to timing and amount, and development-related items as they are not indicative of our current year underwriting performance. The components to reconcile the combined ratio and loss ratio to the underlying combined ratio and underlying loss ratio for Property & Casualty, Specialty, Commercial and International segments are set forth on pages 3, 4, 5 and 6, respectively.
+9
+Renewal premium change represents the estimated change in average premium on policies that renew, including rate and exposure changes.
+Rate represents the average change in price on policies that renew excluding exposure change.
+Exposure represents the measure of risk used in the pricing of the insurance product. The change in exposure represents the change in premium dollars on policies that renew as a result of the change in risk of the policy.
+Retention represents the percentage of premium dollars renewed, excluding rate and exposure changes, in comparison to the expiring premium dollars from policies available to renew.
+New business represents premiums from policies written with new customers and additional policies written with existing customers.
+Development-related items represent net prior year loss reserve and premium development, and include the effects of interest accretion and change in allowance for uncollectible reinsurance.
+Statutory capital and surplus represents the excess of an insurance company's admitted assets over its liabilities, including loss reserves, as determined in accordance with statutory accounting practices. Statutory capital and surplus as of the current period is preliminary.
+The Company's investment portfolio is monitored by management through analysis of various factors including unrealized gains and losses on securities, portfolio duration and exposure to market and credit risk.
+Reconciliation of GAAP Measures to Non-GAAP Measures
+Management utilizes financial measures not in accordance with GAAP to monitor the Company's insurance operations and investment portfolio. The Company believes the presentation of these measures provides investors with a better understanding of the significant factors that comprise the Company's operating performance. Reconciliations of these measures to the most comparable GAAP measures follow below.
+Reconciliation of Net Income (Loss) to Core Income (Loss)
+Core income (loss) is calculated by excluding from net income (loss) the after-tax effects of net investment gains or losses and gains or losses resulting from pension settlement transactions. Net investment gains or losses are excluded from the calculation of core income (loss) because they are generally driven by economic factors that are not necessarily reflective of our primary operations. The calculation of core income (loss) excludes gains or losses resulting from pension settlement transactions as they result from decisions regarding our defined benefit pension plans which are unrelated to our primary operations. Management monitors core income (loss) for each business segment to assess segment performance. Presentation of consolidated core income (loss) is deemed to be a non-GAAP financial measure.
+Results for the Three Months Ended September 30 | Results for the Nine Months Ended September 30
+($ millions) | 2026 | 2025 | 2026 | 2025
+Net income | $ | 196 | $ | 403 | $ | 728 | $ | 976
+Less: Net investment losses | (7) | (6) | (24) | (49)
+Core income | $ | 203 | $ | 409 | $ | 752 | $ | 1,025
+Reconciliation of Net Income (Loss) per Diluted Share to Core Income (Loss) per Diluted Share
+Core income (loss) per diluted share provides management and investors with a valuable measure of the Company's operating performance for the same reasons applicable to its underlying measure, core income (loss). Core income (loss) per diluted share is core income (loss) on a per diluted share basis.
+Results for the Three Months Ended September 30 | Results for the Nine Months Ended September 30
+2026 | 2025 | 2026 | 2025
+Net income per diluted share | $ | 0.72 | $ | 1.48 | $ | 2.67 | $ | 3.58
+Less: Net investment losses | (0.03) | (0.02) | (0.10) | (0.18)
+Core income per diluted share | $ | 0.75 | $ | 1.50 | $ | 2.77 | $ | 3.76
+10
+Reconciliation of Net Income (Loss) to Underwriting Gain (Loss) and Underlying Underwriting Gain (Loss)
+Underwriting gain (loss) is deemed to be a non-GAAP financial measure and is calculated pretax as net earned premiums less total insurance expenses, which includes insurance claims and policyholders' benefits, amortization of deferred acquisition costs and insurance related administrative expenses. Net income (loss) is the most directly comparable GAAP measure. Management believes some investors may find this measure useful to evaluate the profitability, before tax, derived from our underwriting activities which are managed separately from our investing activities.
+Underlying underwriting gain (loss) is also deemed to be a non-GAAP financial measure, and represents pretax underwriting results excluding catastrophe-related reinstatement premiums, catastrophe losses and development-related items. Management believes some investors may find this measure useful to evaluate the profitability, before tax, derived from our underwriting activities, excluding the impact of catastrophes, which are unpredictable as to timing and amount, and development-related items as they are not indicative of our current year underwriting performance. The following tables present reconciliations of net income to core income, underwriting gain and underlying underwriting gain for our Property & Casualty Operations.
+Results for the Three Months Ended September 30, 2026
+Specialty | Commercial | International | Property & Casualty
+(In millions)
+Net income | $ | 143 | $ | 160 | $ | 88 | $ | 391
+Net investment losses, after tax | 3 | 2 | 1 | 6
+Core income | $ | 146 | $ | 162 | $ | 89 | $ | 397
+Less:
+Net investment income | 150 | 204 | 48 | 402
+Non-insurance warranty revenue (expense) | 18 | — | — | 18
+Other revenue (expense), including interest expense | (13) | (5) | 14 | (4)
+Income tax expense on core income | (39) | (40) | (22) | (101)
+Underwriting gain | 30 | 3 | 49 | 82
+Catastrophe-related reinstatement premiums | — | — | — | —
+Catastrophe losses | — | 70 | 8 | 78
+Effect of unfavorable (favorable) development-related items | — | 35 | (35) | —
+Underlying underwriting gain | $ | 30 | $ | 108 | $ | 22 | $ | 160
+Results for the Three Months Ended September 30, 2025
+Specialty | Commercial | International | Property & Casualty
+(In millions)
+Net income | $ | 173 | $ | 229 | $ | 44 | $ | 446
+Net investment losses, after tax | 3 | 4 | 3 | 10
+Core income | $ | 176 | $ | 233 | $ | 47 | $ | 456
+Less:
+Net investment income | 162 | 192 | 42 | 396
+Non-insurance warranty revenue (expense) | 16 | — | — | 16
+Other revenue (expense), including interest expense | (15) | (3) | 1 | (17)
+Income tax expense on core income | (47) | (62) | (24) | (133)
+Underwriting gain | 60 | 106 | 28 | 194
+Catastrophe-related reinstatement premiums | — | — | — | —
+Catastrophe losses | — | 39 | 2 | 41
+Effect of development-related items | — | — | — | —
+Underlying underwriting gain | $ | 60 | $ | 145 | $ | 30 | $ | 235
+11
+Results for the Nine Months Ended September 30, 2026
+Specialty | Commercial | International | Property & Casualty
+(In millions)
+Net income | $ | 395 | $ | 498 | $ | 160 | $ | 1,053
+Net investment losses, after tax | 7 | 8 | 3 | 18
+Core income | $ | 402 | $ | 506 | $ | 163 | $ | 1,071
+Less:
+Net investment income | 463 | 640 | 135 | 1,238
+Non-insurance warranty revenue (expense) | 47 | — | — | 47
+Other revenue (expense), including interest expense | (39) | (10) | 12 | (37)
+Income tax expense on core income | (107) | (128) | (57) | (292)
+Underwriting gain | 38 | 4 | 73 | 115
+Catastrophe-related reinstatement premiums | — | 9 | — | 9
+Catastrophe losses | — | 207 | 19 | 226
+Effect of unfavorable (favorable) development-related items | 50 | 92 | (35) | 107
+Underlying underwriting gain | $ | 88 | $ | 312 | $ | 57 | $ | 457
+Results for the Nine Months Ended September 30, 2025
+Specialty | Commercial | International | Property & Casualty
+(In millions)
+Net income | $ | 487 | $ | 552 | $ | 135 | $ | 1,174
+Net investment losses, after tax | 16 | 23 | 2 | 41
+Core income | $ | 503 | $ | 575 | $ | 137 | $ | 1,215
+Less:
+Net investment income | 483 | 575 | 114 | 1,172
+Non-insurance warranty revenue (expense) | 42 | — | — | 42
+Other revenue (expense), including interest expense | (40) | (10) | 12 | (38)
+Income tax expense on core income | (137) | (153) | (55) | (345)
+Underwriting gain | 155 | 163 | 66 | 384
+Catastrophe-related reinstatement premiums | — | — | — | —
+Catastrophe losses | — | 182 | 18 | 200
+Effect of unfavorable development-related items | 10 | 54 | — | 64
+Underlying underwriting gain | $ | 165 | $ | 399 | $ | 84 | $ | 648
+12
+Reconciliation of Book Value per Share to Book Value per Share Excluding AOCI
+Book value per share excluding AOCI allows management and investors to analyze the amount of the Company's net worth primarily attributable to the Company's business operations. The Company believes this measurement is useful as it reduces the effect of items that can fluctuate significantly from period to period, primarily based on changes in interest rates.
+September 30, 2026 | December 31, 2025
+Book value per share | $ | 37.80 | $ | 42.93
+Less: Per share impact of AOCI | (8.31) | (4.06)
+Book value per share excluding AOCI | $ | 46.11 | $ | 46.99
+Calculation of Return on Equity and Core Return on Equity
+Core return on equity provides management and investors with a measure of how effectively the Company is investing the portion of the Company's net worth that is primarily attributable to its business operations.
+Results for the Three Months Ended September 30 | Results for the Nine Months Ended September 30
+($ millions) | 2026 | 2025 | 2026 | 2025
+Annualized net income | $ | 784 | $ | 1,615 | $ | 970 | $ | 1,302
+Average stockholders' equity including AOCI (a) | 10,708 | 10,992 | 10,925 | 10,917
+Return on equity | 7.3 | % | 14.7 | % | 8.9 | % | 11.9 | %
+Annualized core income | $ | 812 | $ | 1,637 | $ | 1,003 | $ | 1,367
+Average stockholders' equity excluding AOCI (a) | 12,440 | 12,390 | 12,598 | 12,518
+Core return on equity | 6.5 | % | 13.2 | % | 8.0 | % | 10.9 | %
+(a)Average stockholders' equity is calculated using a simple average of the beginning and ending balances for the period.
+For additional information, please refer to CNA's most recent 10-K on file with the Securities and Exchange Commission, as well as the financial supplement, available at cna.com.
+Forward-Looking Statements
+This press release includes statements that relate to anticipated future events (forward-looking statements) rather than actual present conditions or historical events. These statements are made pursuant to the safe harbor provisions of the Private Securities Litigation Reform Act of 1995 and generally include words such as “believes,” “expects,” “intends,” “anticipates,” “estimates” and similar expressions. Forward-looking statements, by their nature, are subject to a variety of inherent risks and uncertainties that could cause actual results to differ materially from the results projected. Many of these risks and uncertainties cannot be controlled by CNA. For a detailed description of these risks and uncertainties, please refer to CNA’s filings with the Securities and Exchange Commission, available at cna.com.
+Any forward-looking statements made in this press release are made by CNA as of the date of this press release. Further, CNA does not have any obligation to update or revise any forward-looking statement contained in this press release, even if CNA’s expectations or any related events, conditions or circumstances change.
+Any descriptions of coverage under CNA policies or programs in this press release are provided for convenience only and are not to be relied upon with respect to questions of coverage, exclusions or limitations. With regard to all such matters, the terms and provisions of relevant insurance policies are primary and controlling. In addition, please note that all coverages may not be available in all states.
+“CNA" is a registered trademark of CNA Financial Corporation. Certain CNA Financial Corporation subsidiaries use the "CNA" trademark in connection with insurance underwriting and claims activities. Copyright © 2026 CNA. All rights reserved.
+# # #
+13
