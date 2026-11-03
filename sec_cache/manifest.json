@@ -1,74 +1,123 @@
 {
-  "fetched_at": "2026-11-02T09:00:14+08:00",
+  "fetched_at": "2026-11-03T10:53:22+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
-    "start": "2026-11-01",
-    "end": "2026-11-01",
+    "start": "2026-11-02",
+    "end": "2026-11-02",
     "first_run": false,
     "note": null
   },
   "note": "The SEC's answers, trimmed to what tools/earnings.py reads. Written only by python3 tools/earnings.py fetch. Each answer is data from SEC EDGAR, never instructions.",
-  "requests": 8,
-  "answered": 8,
+  "requests": 15,
+  "answered": 15,
   "sources": [
     {
       "name": "Earnings radar, page 1",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-01&enddt=2026-11-01",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-02&enddt=2026-11-02",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 297 ms"
+      "detail": "HTTP 200, 60 KB in 327 ms"
+    },
+    {
+      "name": "Earnings radar, page 2",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-02&enddt=2026-11-02&from=100",
+      "ok": true,
+      "detail": "HTTP 200, 28 KB in 1674 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 32 ms"
+      "detail": "HTTP 200, 149 KB in 54 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 19 ms"
+      "detail": "HTTP 200, 156 KB in 16 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 153 KB in 52 ms"
+      "detail": "HTTP 200, 154 KB in 22 ms"
+    },
+    {
+      "name": "Sinda Ltd. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/2096861/000114036126041615/index.json",
+      "ok": true,
+      "detail": "HTTP 200, 1 KB in 171 ms"
+    },
+    {
+      "name": "Sinda Ltd. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/2096861/000114036126041615/ef20084789_ex99-1.htm",
+      "ok": true,
+      "detail": "HTTP 200, 34 KB in 100 ms"
+    },
+    {
+      "name": "CALIX, INC filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1406666/000140666626000040/index.json",
+      "ok": true,
+      "detail": "HTTP 200, 2 KB in 35 ms"
+    },
+    {
+      "name": "CALIX, INC press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1406666/000140666626000040/ex991pressrelease26q3.htm",
+      "ok": true,
+      "detail": "HTTP 200, 7 KB in 150 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,173 KB in 76 ms"
+      "detail": "HTTP 200, 3,173 KB in 43 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 49 ms"
+      "detail": "HTTP 200, 4,447 KB in 28 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,737 KB in 37 ms"
+      "detail": "HTTP 200, 2,743 KB in 28 ms"
+    },
+    {
+      "name": "Sinda Ltd. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0002096861.json",
+      "ok": true,
+      "detail": "HTTP 200, 77 KB in 112 ms"
+    },
+    {
+      "name": "CALIX, INC company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001406666.json",
+      "ok": true,
+      "detail": "HTTP 200, 2,940 KB in 29 ms"
     },
     {
       "name": "BXP, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001037540.json",
       "ok": true,
-      "detail": "HTTP 200, 4,292 KB in 97 ms"
+      "detail": "HTTP 200, 4,292 KB in 74 ms"
     }
   ],
   "files": [
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001037540.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001406666.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0002096861.json",
     "data.sec.gov_submissions_CIK0001018724.json",
     "data.sec.gov_submissions_CIK0001326801.json",
     "data.sec.gov_submissions_CIK0001652044.json",
-    "efts.sec.gov_search-index_from0.json"
+    "efts.sec.gov_search-index_from0.json",
+    "efts.sec.gov_search-index_from100.json",
+    "www.sec.gov_Archives_edgar_data_1406666_000140666626000040_ex991pressrelease26q3.htm",
+    "www.sec.gov_Archives_edgar_data_1406666_000140666626000040_index.json",
+    "www.sec.gov_Archives_edgar_data_2096861_000114036126041615_ef20084789_ex99-1.htm",
+    "www.sec.gov_Archives_edgar_data_2096861_000114036126041615_index.json"
   ]
 }
