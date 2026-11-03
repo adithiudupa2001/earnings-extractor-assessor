@@ -1,0 +1,68 @@
+Company: Sinda Ltd. (CIK 2096861)
+Accession: 0001140361-26-041615
+Results released: 2026-11-02
+Press release: https://www.sec.gov/Archives/edgar/data/2096861/000114036126041615/ef20084789_ex99-1.htm
+Filing: https://www.sec.gov/Archives/edgar/data/2096861/000114036126041615/0001140361-26-041615-index.htm
+Saved: 2026-11-04T06:09:00+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 ef20084789_ex99-1.htm EXHIBIT 99.1
+Exhibit 99.1
+NYSE: SIND | BMV: SIND
+Sinda Ltd. Reports Third Quarter 2026 Results, Highlighting Continued Drilling Success and Notable Progress Toward the Caracol Exploration Decline
+SAN MIGUEL DE ALLENDE, Mexico – November 2, 2026 – Sinda Ltd. (NYSE: SIND) (“Sinda” or the “Company”) today announced third quarter 2026 results and the filing of its Form 10-Q.
+“Sinda is laying the foundations for a world-class silver-gold mine, with the third quarter bringing excellent progress in drilling, exploration and site preparation” said Daniel Muñiz, Sinda’s Executive Chairman. “Our priorities are clear: methodically and consistently take the project up the value chain, invest our capital where it can generate the highest returns, and meet or indeed exceed our key milestones. With a generational discovery, an experienced leadership team, and a disciplined approach to execution of our development plan in a superb location, we are well positioned to deliver exceptional long-term returns for Sinda’s shareholders.”
+Third Quarter 2026 Highlights
+Operational Highlights
+• | Launched earthworks in September, an important milestone in preparing for underground development. Work included preparing the exploration decline portal and the Waste Rock Storage Facility (WRSF), with approximately 6,500 cubic meters of material moved during the quarter.
+• | Advanced Phase 2 drilling, deploying 18 rigs and completing approximately 31,150 meters in the third quarter 2026, with work focused on resource conversion at Caracol, infill drilling at Agaves and exploration along the Don Diego corridor and other priority targets.
+• | Achieved the highest-grade drill intercept to date at Caracol: 3.05 m grading 12,494 g/t silver-equivalent (AgEq), including 0.65 m at 24,548 g/t AgEq1.
+• | Identified, through initial drilling at Don Diego, a possible structural link between Caracol and Agaves, pointing to broader exploration potential across Sinda’s land package in the prolific Guanajuato Mining District.
+• | Maintained a record of more than 501,480 work hours without lost-time incidents, recordable injuries, or disabling accidents, achieving a Total Recordable Injury Frequency Rate (TRIFR) of 0.00 and demonstrating strong occupational health and safety performance.
+• | Upheld strong community relations and operational stability through regular dialogue and local outreach initiatives, including specialized upskilling training for more than 1,500 women.
+• | Continued to deliver an excellent environmental record through the quarter, reflecting Sinda’s ongoing commitment to responsible environmental practices.
+1 Silver-equivalent calculations assumed a silver price of $32.00 per ounce and gold price of $2,750 per ounce, independent of potentially variable metallurgical recovery by metal, as recovery is assumed to be equal for both silver and gold for purposes of calculating silver-equivalent values. The AgEq calculation is derived from the following simplified formula: AgEq = Ag grade + (Au grade * ($2,750.00 ÷ $32.00)).
+SINDA THIRD QUARTER 2026 RESULTS | NEWS RELEASE | 1
+Corporate Highlights
+• | Added to the VanEck Junior Gold Miners ETF (NYSE Arca: GDXJ), effective September 18, 2026.
+• | Listed on the International Quotation System (SIC) of the Mexican Stock Exchange on September 28, 2026, allowing Mexican institutional and retail investors to trade Sinda shares locally.
+• | Further strengthened the Board of Directors with the appointment of Alberto Zinser, a seasoned Mexican legal and business leader, effective October 12, 2026.
+Upcoming Milestones
+• | Phase 2 drilling continues with a total of 122,000 meters currently planned. The assay results will be released as they are received, analyzed, and confirmed by the Company.
+• | Site preparation is on track for completion during the fourth quarter 2026, paving the way for construction of the exploration decline. This marks a key step forward in the development of the project, bringing the Company closer to establishing underground access and accelerating the next phase of Caracol.
+• | Updated Mineral Resource Estimate (“MRE”) targeted for completion by year-end 2026.
+Sinda Project Update
+The project is a world-class silver-gold deposit located approximately 35 kilometers from San Miguel de Allende, Guanajuato, Mexico. Positioned within the heart of Mexico’s Silver Belt in the Guanajuato Mining District, the project spans 6,200 hectares of concessions and benefits from a highly prospective geological setting, major transportation networks, power infrastructure, a skilled workforce, and established mining communities.
+On June 2, 2026, the Company reported an MRE and SEC Technical Report Summary (“Technical Report”) titled “SEC Technical Report Summary Sinda Project, Guanajuato, Mexico”. The MRE features an estimated 369 million AgEq ounces of Inferred Mineral Resources and 16 million AgEq ounces of Indicated Mineral Resources, plus incremental Exploration Targets of 452 – 484 million AgEq ounces. Six vein systems are evaluated in the MRE: Dolores, Morita, Santiago, Lara, Adriana, and Agaves. The northern area of the Sinda Project, which hosts the Dolores, Morita, Santiago, Lara, and Adriana veins, is collectively referred to as the Caracol area. The Agaves vein system is located some 4 kilometers southeast of Caracol. The defined resource footprint covers only approximately 26% of the 6,200 hectares across the project. This indicates that, while already providing a line of sight over 800 million ounces of AgEq, the vast majority of the land package remains largely underexplored.
+In the second quarter of 2026, the Company completed the Phase 1 surface drilling program, totaling 60,810 meters. Approximately 55% of the program, equivalent to 33,134 meters, focused on infill drilling at the Dolores vein system, and the remaining ~45%, equivalent to 27,676 meters, focused on step-out exploration drilling across five target areas, including Don Diego.
+The Don Diego corridor lies between the Caracol and Agaves areas, where the Company has identified a potential structural link between the two mineralized zones.
+SINDA THIRD QUARTER 2026 RESULTS | NEWS RELEASE | 2
+On September 21, 2026, Sinda reported initial drilling results from Don Diego that support this potential structural link and reinforce the district-scale upside across Sinda’s land package in the Guanajuato Mining District.
+Key Phase 1 Drilling Program Results
+• | Drill hole CEAG-26-062, which intercepted approximately 3.0 meters grading approximately 727 g/t AgEq, including 0.5 meters grading over 3,200 g/t AgEq
+• | Drill hole CEAG-26-063, which intercepted a broader interval of 7.95 meters grading 462 g/t AgEq
+• | Drill hole CECA-26-030-A, which returned 0.5 meters grading 14,114 g/t AgEq
+• | Drill hole CEAG-26-065, which intercepted 1.05 meters grading 2,826 g/t AgEq
+• | Drill hole CECA-25-027-C, which returned 0.5 meters grading 10,569 g/t AgEq
+• | Drill hole CECA-26-033-B, which returned 0.6 meters grading 8,376 g/t AgEq
+The Phase 2 drilling program commenced on July 1, 2026, and is focused on systematically advancing drilling south from Caracol and north from Agaves, building on the encouraging mineralized intercepts from both ends of the Don Diego corridor. Drilling will continue across this highly prospective area to unlock the broader potential of the corridor and establish a foundation for a potential future Mineral Resource estimate.
+Exploration Decline and Underground Development
+Sinda received environmental impact authorization for the approximately 9-kilometer exploration decline in March 2026, only nine months after official submission. The cost for the decline is budgeted at approximately $98 million over three and a half years. Its structure is designed to support future exploration as well as future underground mining, with production-sized dimensions of 5.5 meters x 5.5 meters.
+Underground drilling, comprising approximately 223,000 meters across 557 planned holes with a budget of approximately $44 million, is expected to commence as the decline advances.
+Liquidity and Capital Resources
+Sinda successfully raised aggregate net proceeds of $309.3 million through a series of milestone transactions, reflecting strong investor confidence in the Company. Sinda completed its initial public offering on the New York Stock Exchange on June 29, 2026, generating net proceeds of $192.9 million. Building on that momentum, robust demand led the underwriters to exercise their overallotment option on July 15, 2026, delivering additional net proceeds of $21.4 million. Additionally, Sinda further strengthened its financial position on July 27, 2026, with the completion of a concurrent private placement to strategic investor Fresnillo plc, which contributed additional net proceeds of $95.0 million.
+As of September 30, 2026, Sinda had cash resources comprising cash and cash equivalents totaling $305.6 million. The Company is fully funded to execute the ongoing exploration program and underground decline.
+Sinda’s unaudited financial statements and quarterly report on Form 10-Q will be available on the Company’s website at https://investors.sinda.mx/.
+SINDA THIRD QUARTER 2026 RESULTS | NEWS RELEASE | 3
+Qualified Person
+All scientific and technical information in this release has been approved and verified by Berkley J. Tracy, MSc, PG, CPG, PGeo of SRK Consulting (U.S.), Inc., an independent Qualified Person as defined under Item 1300 of Regulation S-K.
+About Sinda Ltd.
+Sinda is a silver-gold exploration and development company with mineral projects in Mexico, featuring an estimated 369 million AgEq ounces of Inferred Mineral Resources and 16 million AgEq ounces of Indicated Mineral Resources, plus incremental Exploration Targets of 452 – 484 million AgEq ounces. Backed by experienced mining investors and a management team with deep Mexican operating experience, Sinda expects to execute an aggressive exploration and drilling program, and to construct its underground decline enroute to commercial production.
+For additional information please contact:
+Alvaro Gomez
+Vice President, Corporate Development and Investor Relations
+Investor relations: ir@sinda.mx
+Media: media@sinda.mx
+Cautionary Note Regarding Forward Looking Statements
+This news release contains forward-looking statements, including statements regarding the Company’s future liquidity position and business strategy, the Company’s plans and objectives for future operations and industry trends. These statements are not historical facts but rather are based on the Company’s current expectations and projections regarding its business, operations and other factors relating thereto. Words such as “may,” “might,” “could,” “would,” “achieve,” “budget,” “scheduled,” “forecasts,” “target”, “should,” “expects,” “plans,” “anticipates,” “believes,” “estimates,” “predicts,” “potential” or “continue” and similar expressions are used to identify these forward-looking statements. All forward-looking statements speak only as of the date on which they are made. These statements are not guarantees of future performance and involve certain risks, uncertainties and assumptions concerning future events that are difficult to predict. Therefore, actual future events or results may differ materially from these statements. We caution you not to place undue reliance on these forward-looking statements.
+SINDA THIRD QUARTER 2026 RESULTS | NEWS RELEASE | 4

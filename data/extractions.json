@@ -989,5 +989,65 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1496099/000162828026068916/nmfcearningspressreleaseq3.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1496099/000162828026068916/0001628280-26-068916-index.htm",
     "saved_at": "2026-11-03T06:07:59+08:00"
+  },
+  {
+    "cik": "2096861",
+    "company": "Sinda Ltd.",
+    "accession": "0001140361-26-041615",
+    "release_date": "2026-11-02",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": null,
+      "operating_income": null,
+      "net_income": null,
+      "diluted_eps": null
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "other",
+        "claim": "The Executive Chairman says the quarter brought excellent progress in drilling, exploration and site preparation.",
+        "quote": "Sinda is laying the foundations for a world-class silver-gold mine, with the third quarter bringing excellent progress in drilling, exploration and site preparation"
+      },
+      {
+        "id": "M2",
+        "topic": "outlook",
+        "claim": "Site preparation is expected to be finished in the fourth quarter of 2026.",
+        "quote": "Site preparation is on track for completion during the fourth quarter 2026"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The Executive Chairman calls progress excellent and the company well positioned; the release names no setback."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/2096861-0001140361-26-041615.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/2096861/000114036126041615/ef20084789_ex99-1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/2096861/000114036126041615/0001140361-26-041615-index.htm",
+    "saved_at": "2026-11-04T06:09:00+08:00"
+  },
+  {
+    "cik": "1406666",
+    "company": "CALIX, INC",
+    "accession": "0001406666-26-000040",
+    "release_date": "2026-11-02",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": null,
+      "operating_income": null,
+      "net_income": null,
+      "diluted_eps": null
+    },
+    "guidance": null,
+    "management": [],
+    "tone": null,
+    "picked_from_radar": true,
+    "source_file": "sources/1406666-0001406666-26-000040.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1406666/000140666626000040/ex991pressrelease26q3.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1406666/000140666626000040/0001406666-26-000040-index.htm",
+    "saved_at": "2026-11-04T06:09:00+08:00"
   }
 ]
