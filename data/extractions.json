@@ -1049,5 +1049,122 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1406666/000140666626000040/ex991pressrelease26q3.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1406666/000140666626000040/0001406666-26-000040-index.htm",
     "saved_at": "2026-11-04T06:09:00+08:00"
+  },
+  {
+    "cik": "717423",
+    "company": "MURPHY OIL CORP",
+    "accession": "0001628280-26-070209",
+    "release_date": "2026-11-04",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 854.974,
+        "unit": "USD millions",
+        "quote": "Total revenues and other income | 854,974"
+      },
+      "operating_income": {
+        "value": 256.484,
+        "unit": "USD millions",
+        "quote": "Operating income from continuing operations | 256,484"
+      },
+      "net_income": {
+        "value": 171.12,
+        "unit": "USD millions",
+        "quote": "NET INCOME (LOSS) ATTRIBUTABLE TO MURPHY | $ | 171,120"
+      },
+      "diluted_eps": {
+        "value": 1.17,
+        "unit": "USD per share",
+        "quote": "Net income attributable to Murphy per common share - Diluted | $ | 1.17"
+      }
+    },
+    "guidance": {
+      "text": "Murphy raised its full year 2026 production range to 176,000 to 178,000 BOEPD.",
+      "quote": "The Company is raising its full year 2026 production range to 176,000 to 178,000 BOEPD"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "other",
+        "claim": "The CEO says the quarter's results reflect value creation at every stage of the asset life cycle.",
+        "quote": "The results we delivered this quarter reflect our ability to create value at every stage of the asset life cycle."
+      },
+      {
+        "id": "M2",
+        "topic": "outlook",
+        "claim": "Murphy produced above its quarterly production guidance.",
+        "quote": "Produced 186,500 BOEPD, above quarterly guidance of 171,000 to 179,000 BOEPD"
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "Murphy raised its full-year production guidance.",
+        "quote": "Raised full-year production guidance to a range of 176,000 to 178,000 BOEPD, reflecting a 6,000 BOEPD midpoint increase"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO speaks of value created at every stage, and the release reports output above guidance and a raised outlook."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/717423-0001628280-26-070209.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/717423/000162828026070209/mur-2026q3xex991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/717423/000162828026070209/0001628280-26-070209-index.htm",
+    "saved_at": "2026-11-05T06:08:28+08:00"
+  },
+  {
+    "cik": "105418",
+    "company": "WEIS MARKETS INC",
+    "accession": "0000105418-26-000056",
+    "release_date": "2026-11-03",
+    "period_end": "2026-09-26",
+    "period_label": "quarter ended 26 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 1279.086,
+        "unit": "USD millions",
+        "quote": "Total revenue | 1,279,086"
+      },
+      "operating_income": {
+        "value": 28.505,
+        "unit": "USD millions",
+        "quote": "Income from operations | 28,505"
+      },
+      "net_income": {
+        "value": 22.21,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 22,210"
+      },
+      "diluted_eps": {
+        "value": 0.9,
+        "unit": "USD per share",
+        "quote": "Basic and diluted earnings per share | $ | 0.90"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says total revenue and earnings rose while customers stayed cautious.",
+        "quote": "In the third quarter we delivered higher total revenue and improved earnings while customers remained cautious with their spending and continued to seek affordability and value"
+      },
+      {
+        "id": "M2",
+        "topic": "margins",
+        "claim": "The CEO says lower shrink and supply chain costs lifted the gross profit margin.",
+        "quote": "Improved store inventory shrink performance and lower costs within our internal supply chain helped drive a higher gross profit margin"
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "The CEO reports higher revenue and earnings but says customers remain cautious and some sales were moderated."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/105418-0000105418-26-000056.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/105418/000010541826000056/wmk-ex99d1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/105418/000010541826000056/0000105418-26-000056-index.htm",
+    "saved_at": "2026-11-05T06:08:28+08:00"
   }
 ]
