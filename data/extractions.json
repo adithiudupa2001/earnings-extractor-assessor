@@ -1166,5 +1166,113 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/105418/000010541826000056/wmk-ex99d1.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/105418/000010541826000056/0000105418-26-000056-index.htm",
     "saved_at": "2026-11-05T06:08:28+08:00"
+  },
+  {
+    "cik": "1656472",
+    "company": "Cronos Group Inc.",
+    "accession": "0001656472-26-000074",
+    "release_date": "2026-11-05",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 63.45,
+        "unit": "USD millions",
+        "quote": "Net revenue | $ | 63,450 | $ | 36,339"
+      },
+      "operating_income": {
+        "value": 9.026,
+        "unit": "USD millions",
+        "quote": "Operating income (loss) | 9,026 | (503)"
+      },
+      "net_income": {
+        "value": 13.804,
+        "unit": "USD millions",
+        "quote": "Net income (loss) attributable to Cronos Group | $ | 13,804 | $ | 25,958"
+      },
+      "diluted_eps": {
+        "value": 0.04,
+        "unit": "USD per share",
+        "quote": "Diluted net income (loss) per share attributable to Cronos Group | $ | 0.04 | $ | 0.07"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Management says Cronos achieved organic records in net revenue, gross profit and Adjusted EBITDA for a second quarter running.",
+        "quote": "Cronos organically achieved records across net revenue, gross profit, and Adjusted EBITDA for the second consecutive quarter"
+      },
+      {
+        "id": "M2",
+        "topic": "other",
+        "claim": "Management says the balance sheet and positive operating cash flow let it invest in growth and return capital to shareholders.",
+        "quote": "We maintain an industry-leading balance sheet, which, coupled with positive operating cash flow for the first nine months of 2026, enables us to invest in our growth strategy while returning capital to shareholders"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO speaks of record results, market share gains and an industry-leading balance sheet, and names no headwind."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1656472-0001656472-26-000074.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1656472/000165647226000074/pressreleaseq32026qformat.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1656472/000165647226000074/0001656472-26-000074-index.htm",
+    "saved_at": "2026-11-06T06:07:51+08:00"
+  },
+  {
+    "cik": "921738",
+    "company": "PENN Entertainment, Inc.",
+    "accession": "0000921738-26-000026",
+    "release_date": "2026-11-05",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 1840.0,
+        "unit": "USD millions",
+        "quote": "Total revenues | 1,840.0 | 1,717.3"
+      },
+      "operating_income": {
+        "value": 127.3,
+        "unit": "USD millions",
+        "quote": "Operating income (loss) | 127.3 | (776.4)"
+      },
+      "net_income": {
+        "value": 33.0,
+        "unit": "USD millions",
+        "quote": "Net income (loss) attributable to PENN Entertainment, Inc. | $ | 33.0 | $ | (864.6)"
+      },
+      "diluted_eps": {
+        "value": 0.24,
+        "unit": "USD per share",
+        "quote": "Diluted earnings (loss) per share | $ | 0.24 | $ | (6.03)"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Management says the Retail segment achieved record third quarter revenue.",
+        "quote": "Our Retail segment achieved record third quarter revenue, reflecting broad-based strength across the portfolio"
+      },
+      {
+        "id": "M2",
+        "topic": "outlook",
+        "claim": "Management says it is confident of reaching its full-year Adjusted EBITDA target in the Interactive segment and that trends continued into October.",
+        "quote": "reinforces our confidence in achieving our full-year Adjusted EBITDA target in our Interactive segment"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO cites record Retail revenue, progress to Interactive profitability and healthy trends continuing through October."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/921738-0000921738-26-000026.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/921738/000092173826000026/pennex991-q32026.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/921738/000092173826000026/0000921738-26-000026-index.htm",
+    "saved_at": "2026-11-06T06:07:51+08:00"
   }
 ]
