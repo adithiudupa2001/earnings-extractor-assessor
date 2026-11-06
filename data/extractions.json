@@ -1274,5 +1274,128 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/921738/000092173826000026/pennex991-q32026.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/921738/000092173826000026/0000921738-26-000026-index.htm",
     "saved_at": "2026-11-06T06:07:51+08:00"
+  },
+  {
+    "cik": "1662579",
+    "company": "C4 Therapeutics, Inc.",
+    "accession": "0001628280-26-070560",
+    "release_date": "2026-11-05",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 8.468,
+        "unit": "USD millions",
+        "quote": "Revenue from collaboration agreements $ 8,468 $ 11,230"
+      },
+      "operating_income": {
+        "value": -24.596,
+        "unit": "USD millions",
+        "quote": "Loss from operations (24,596) (34,412)"
+      },
+      "net_income": {
+        "value": -21.843,
+        "unit": "USD millions",
+        "quote": "Net loss $ (21,843) $ (32,166)"
+      },
+      "diluted_eps": {
+        "value": -0.16,
+        "unit": "USD per share",
+        "quote": "Net loss per share − basic and diluted $ (0.16) $ (0.44)"
+      }
+    },
+    "guidance": {
+      "text": "C4T expects its cash and marketable securities to fund its operating plan to the end of 2028.",
+      "quote": "C4T expects that its current cash, cash equivalents and marketable securities will fund its operating plan to the end of 2028."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "outlook",
+        "claim": "The CEO says next year will be pivotal for establishing cemsidomide's profile, with trial data expected in 2027.",
+        "quote": "With data expected from these trials in 2027, we believe next year will be pivotal in establishing cemsidomide’s therapeutic profile"
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "Revenue for the quarter was lower than a year earlier, mainly because some Merck research activities ended in 2025.",
+        "quote": "Total revenue for the third quarter of 2026 was $8.5 million, compared to $11.2 million for the third quarter of 2025."
+      },
+      {
+        "id": "M3",
+        "topic": "costs",
+        "claim": "Research and development expense fell compared with the third quarter of 2025.",
+        "quote": "R&D expense for the third quarter of 2026 was $24.8 million, compared to $26.0 million for the third quarter of 2025."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO stresses conviction in the development strategy and a pivotal year ahead; the release mentions no setback."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1662579-0001628280-26-070560.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1662579/000162828026070560/exhibit991q32026earnings.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1662579/000162828026070560/0001628280-26-070560-index.htm",
+    "saved_at": "2026-11-07T06:08:42+08:00"
+  },
+  {
+    "cik": "1739566",
+    "company": "Utz Brands, Inc.",
+    "accession": "0001628280-26-071296",
+    "release_date": "2026-11-06",
+    "period_end": "2026-09-27",
+    "period_label": "quarter ended 27 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 369.2,
+        "unit": "USD millions",
+        "quote": "Net sales | $ | 369.2 | $ | 377.8"
+      },
+      "operating_income": {
+        "value": -21.7,
+        "unit": "USD millions",
+        "quote": "(Loss) income from operations | (21.7) | 3.3"
+      },
+      "net_income": {
+        "value": -24.3,
+        "unit": "USD millions",
+        "quote": "Net (loss) income attributable to controlling interest | $ | (24.3) | $ | (14.7)"
+      },
+      "diluted_eps": {
+        "value": -0.27,
+        "unit": "USD per share",
+        "quote": "Diluted | $ | (0.27) | $ | (0.17)"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "costs",
+        "claim": "The CEO says industry-wide headwinds, including sharp inflation and a weaker consumer, hurt the quarter.",
+        "quote": "Our results were impacted by industry-wide headwinds that intensified throughout the quarter, including abrupt, significant inflation and a modestly weaker consumer"
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "Net sales fell 2.3%, while Branded Salty Snacks organic net sales rose slightly.",
+        "quote": "Net Sales decreased 2.3% to $369.2 million"
+      },
+      {
+        "id": "M3",
+        "topic": "margins",
+        "claim": "Gross profit margin declined by 320 basis points.",
+        "quote": "Gross Profit Margin decline of 320bps"
+      }
+    ],
+    "tone": {
+      "label": "cautious",
+      "reason": "The CEO cites intensifying headwinds, inflation and a weaker consumer; the release reports a larger net loss."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1739566-0001628280-26-071296.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1739566/000162828026071296/pressrelease-2026q3earning.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1739566/000162828026071296/0001628280-26-071296-index.htm",
+    "saved_at": "2026-11-07T06:08:42+08:00"
   }
 ]
