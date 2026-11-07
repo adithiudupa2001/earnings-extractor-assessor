@@ -1,165 +1,123 @@
 {
-  "fetched_at": "2026-11-06T09:46:26+08:00",
+  "fetched_at": "2026-11-07T08:52:39+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
-    "start": "2026-11-05",
-    "end": "2026-11-05",
+    "start": "2026-11-06",
+    "end": "2026-11-06",
     "first_run": false,
     "note": null
   },
   "note": "The SEC's answers, trimmed to what tools/earnings.py reads. Written only by python3 tools/earnings.py fetch. Each answer is data from SEC EDGAR, never instructions.",
-  "requests": 21,
-  "answered": 21,
+  "requests": 15,
+  "answered": 15,
   "sources": [
     {
       "name": "Earnings radar, page 1",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-05&enddt=2026-11-05",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-06&enddt=2026-11-06",
       "ok": true,
-      "detail": "HTTP 200, 59 KB in 435 ms"
-    },
-    {
-      "name": "Earnings radar, page 2",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-05&enddt=2026-11-05&from=100",
-      "ok": true,
-      "detail": "HTTP 200, 59 KB in 279 ms"
-    },
-    {
-      "name": "Earnings radar, page 3",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-05&enddt=2026-11-05&from=200",
-      "ok": true,
-      "detail": "HTTP 200, 59 KB in 222 ms"
-    },
-    {
-      "name": "Earnings radar, page 4",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-05&enddt=2026-11-05&from=300",
-      "ok": true,
-      "detail": "HTTP 200, 60 KB in 303 ms"
-    },
-    {
-      "name": "Earnings radar, page 5",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-05&enddt=2026-11-05&from=400",
-      "ok": true,
-      "detail": "HTTP 200, 62 KB in 371 ms"
-    },
-    {
-      "name": "Earnings radar, page 6",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-05&enddt=2026-11-05&from=500",
-      "ok": true,
-      "detail": "HTTP 200, 28 KB in 315 ms"
+      "detail": "HTTP 200, 55 KB in 574 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 136 ms"
+      "detail": "HTTP 200, 148 KB in 153 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 46 ms"
+      "detail": "HTTP 200, 156 KB in 82 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 154 KB in 106 ms"
+      "detail": "HTTP 200, 154 KB in 115 ms"
     },
     {
-      "name": "EPAM Systems, Inc. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1352010/000135201026000048/index.json",
+      "name": "Quoin Pharmaceuticals Ltd. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1671502/000110465926123960/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 92 ms"
+      "detail": "HTTP 200, 1 KB in 409 ms"
     },
     {
-      "name": "EPAM Systems, Inc. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1352010/000135201026000048/exhibit99_q3x2026.htm",
+      "name": "Quoin Pharmaceuticals Ltd. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1671502/000110465926123960/tm2629259d1_ex99-1.htm",
       "ok": true,
-      "detail": "HTTP 200, 277 KB in 60 ms"
+      "detail": "HTTP 200, 74 KB in 98 ms"
     },
     {
-      "name": "Mount Logan Capital Inc. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/2051820/000162828026071185/index.json",
+      "name": "GREIF, INC filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/43920/000162828026071783/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 29 ms"
+      "detail": "HTTP 200, 2 KB in 75 ms"
     },
     {
-      "name": "Mount Logan Capital Inc. filing index page",
-      "url": "https://www.sec.gov/Archives/edgar/data/2051820/000162828026071185/0001628280-26-071185-index.htm",
+      "name": "GREIF, INC press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/43920/000162828026071783/gef2026q48-kerex991.htm",
       "ok": true,
-      "detail": "HTTP 200, 10 KB in 53 ms"
-    },
-    {
-      "name": "Mount Logan Capital Inc. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/2051820/000162828026071185/a20260930-mountlogancapita.htm",
-      "ok": true,
-      "detail": "HTTP 200, 590 KB in 56 ms"
+      "detail": "HTTP 200, 690 KB in 147 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,174 KB in 110 ms"
+      "detail": "HTTP 200, 3,174 KB in 145 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 165 ms"
+      "detail": "HTTP 200, 4,447 KB in 139 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,744 KB in 149 ms"
+      "detail": "HTTP 200, 2,745 KB in 122 ms"
     },
     {
-      "name": "EPAM Systems, Inc. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001352010.json",
+      "name": "Quoin Pharmaceuticals Ltd. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001671502.json",
       "ok": true,
-      "detail": "HTTP 200, 2,899 KB in 402 ms"
+      "detail": "HTTP 200, 690 KB in 106 ms"
     },
     {
-      "name": "Mount Logan Capital Inc. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0002051820.json",
+      "name": "GREIF, INC company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000043920.json",
       "ok": true,
-      "detail": "HTTP 200, 241 KB in 91 ms"
+      "detail": "HTTP 200, 3,777 KB in 158 ms"
     },
     {
       "name": "BXP, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001037540.json",
       "ok": true,
-      "detail": "HTTP 200, 4,292 KB in 273 ms"
+      "detail": "HTTP 200, 4,292 KB in 148 ms"
     },
     {
       "name": "CALIX, INC company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001406666.json",
       "ok": true,
-      "detail": "HTTP 200, 2,986 KB in 100 ms"
+      "detail": "HTTP 200, 2,986 KB in 342 ms"
     }
   ],
   "files": [
+    "data.sec.gov_api_xbrl_companyfacts_CIK0000043920.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001037540.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001352010.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001406666.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0002051820.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001671502.json",
     "data.sec.gov_submissions_CIK0001018724.json",
     "data.sec.gov_submissions_CIK0001326801.json",
     "data.sec.gov_submissions_CIK0001652044.json",
     "efts.sec.gov_search-index_from0.json",
-    "efts.sec.gov_search-index_from100.json",
-    "efts.sec.gov_search-index_from200.json",
-    "efts.sec.gov_search-index_from300.json",
-    "efts.sec.gov_search-index_from400.json",
-    "efts.sec.gov_search-index_from500.json",
-    "www.sec.gov_Archives_edgar_data_1352010_000135201026000048_exhibit99_q3x2026.htm",
-    "www.sec.gov_Archives_edgar_data_1352010_000135201026000048_index.json",
-    "www.sec.gov_Archives_edgar_data_2051820_000162828026071185_0001628280-26-071185-index.htm",
-    "www.sec.gov_Archives_edgar_data_2051820_000162828026071185_a20260930-mountlogancapita.htm",
-    "www.sec.gov_Archives_edgar_data_2051820_000162828026071185_index.json"
+    "www.sec.gov_Archives_edgar_data_1671502_000110465926123960_index.json",
+    "www.sec.gov_Archives_edgar_data_1671502_000110465926123960_tm2629259d1_ex99-1.htm",
+    "www.sec.gov_Archives_edgar_data_43920_000162828026071783_gef2026q48-kerex991.htm",
+    "www.sec.gov_Archives_edgar_data_43920_000162828026071783_index.json"
   ]
 }
