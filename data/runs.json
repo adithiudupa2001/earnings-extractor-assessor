@@ -2349,5 +2349,77 @@
       "match": true
     },
     "offline": false
+  },
+  {
+    "run_at": "2026-11-08T06:08:07+08:00",
+    "agent": "watcher",
+    "brief": "briefs/2026-11-08-watch.md",
+    "brief_checked": true,
+    "sources": {
+      "ok": 8,
+      "total": 8,
+      "failures": []
+    },
+    "counts": {
+      "radar_new": 4,
+      "companies": 3,
+      "new": 2,
+      "saved": 2,
+      "no_new": 3,
+      "failed": 0
+    },
+    "radar": {
+      "ok": true,
+      "start": "2026-11-06",
+      "end": "2026-11-07",
+      "hits": 91,
+      "results_filings": 88,
+      "new": 4,
+      "watchlist_new": [],
+      "detail": null
+    },
+    "companies": [
+      {
+        "cik": "1671502",
+        "company": "Quoin Pharmaceuticals Ltd.",
+        "status": "saved",
+        "accession": "0001104659-26-123960",
+        "release_date": "2026-11-06",
+        "period_label": "quarter ended 30 September 2026"
+      },
+      {
+        "cik": "2030954",
+        "company": "TEN Holdings, Inc.",
+        "status": "saved",
+        "accession": "0001493152-26-050546",
+        "release_date": "2026-11-06",
+        "period_label": "quarter ended 30 September 2026"
+      },
+      {
+        "cik": "1652044",
+        "company": "Alphabet",
+        "status": "no_new",
+        "accession": "0001652044-26-000080",
+        "release_date": "2026-10-28",
+        "period_label": "quarter ended 30 September 2026"
+      },
+      {
+        "cik": "1018724",
+        "company": "Amazon",
+        "status": "no_new",
+        "accession": "0001018724-26-000038",
+        "release_date": "2026-10-29",
+        "period_label": "quarter ended 30 September 2026"
+      },
+      {
+        "cik": "1326801",
+        "company": "Meta Platforms",
+        "status": "no_new",
+        "accession": "0001628280-26-066700",
+        "release_date": "2026-10-21",
+        "period_label": "quarter ended 30 September 2026"
+      }
+    ],
+    "offline": false
   }
 ]

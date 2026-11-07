@@ -1,0 +1,105 @@
+Company: Quoin Pharmaceuticals Ltd. (CIK 1671502)
+Accession: 0001104659-26-123960
+Results released: 2026-11-06
+Press release: https://www.sec.gov/Archives/edgar/data/1671502/000110465926123960/tm2629259d1_ex99-1.htm
+Filing: https://www.sec.gov/Archives/edgar/data/1671502/000110465926123960/0001104659-26-123960-index.htm
+Saved: 2026-11-08T06:08:07+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 tm2629259d1_ex99-1.htm EXHIBIT 99.1
+Exhibit 99.1
+Quoin Pharmaceuticals Provides Corporate Update and Reports Third Quarter 2026 Financial Results
+– Reports Positive Interim Data from Ongoing Phase 2/3 Study of QRX003 in Netherton Syndrome; Primary and Key Secondary Endpoints Achieved Statistical Significance Versus Pre-Specified Alpha-Adjusted Target
+–Announces Private Placement Financing of Up to $50.0 Million with Healthcare-Focused Institutional Investors
+– FDA Clears First-Ever IND for Peeling Skin Syndrome (PSS), Grants Rare Pediatric Disease and Fast Track Designations to QRX003 for PSS; EMA Grants Orphan Drug Designation to QRX003 for PSS Subsequent to Quarter End
+– Advances QRX009 Topical Rapamycin Platform Toward Clinical Testing in a Number of Indications
+– Expands NETHERTON NOW Awareness Campaign with New Video Featuring a Pediatric Critical Care Physician and Her Daughter
+–Peer-Reviewed Paper on QRX003 for Netherton Syndrome Published in Dermatology and Therapy Subsequent to Quarter End
+ASHBURN, Va., Nov. 05, 2026 (GLOBE NEWSWIRE) -- Quoin Pharmaceuticals Ltd. (NASDAQ: QNRX) (the “Company” or “Quoin”), a late clinical-stage specialty pharmaceutical company focused on rare and orphan diseases, today announced recent corporate achievements and provided an update on its progress for the third quarter ended September 30, 2026.
+“The third quarter substantially strengthened Quoin’s clinical, regulatory and financial foundation for long-term growth. Interim clinical results from our Phase 2/3 study of QRX003 in Netherton Syndrome demonstrated statistical significance for the primary and key secondary endpoints, representing what we believe is the first ever overall positive data set published for this disease. In addition, QRX003 was awarded Rare Pediatric Disease and Fast Track Designations in Peeling Skin Syndrome. Finally, our successful August private placement has provided us with funding to fully complete the development of QRX003 for Netherton Syndrome, whilst enabling us to selectively invest in the advancement of our pipeline products. We were pleased to see the participation of both new and existing investors in the raise,” said Dr. Michael Myers, Chief Executive Officer and Co-Founder of Quoin Pharmaceuticals. “Following quarter end, QRX003 was awarded EU Orphan Drug Designation in Peeling Skin Syndrome, and the publication of our paper in Dermatology and Therapy, on a pediatric case report, has added peer-reviewed clinical evidence to the growing body of data supporting QRX003 as a potentially safe and effective treatment for Netherton Syndrome.”
+Dr. Myers added, “Our priorities for the coming months are very clear. We expect to complete recruitment in our Netherton Syndrome study by year end and report topline data in the second quarter of 2027. We also plan to initiate the first-ever formal clinical study in Peeling Skin Syndrome before year end whilst simultaneously advancing our QRX009 topical rapamycin program towards clinical testing in early 2027. These are indeed exciting times for Quoin as we continue to move closer towards achieving our goal of delivering the first approved treatment for Netherton Syndrome.”
+QRX003 – Netherton Syndrome
+Positive Interim Data from Phase 2/3 Study CL-QRX003-004. On August 28, 2026, Quoin reported positive interim results from CL-QRX003-004, its ongoing Phase 2/3 study of QRX003 4% lotion in patients with Netherton Syndrome. In the interim analysis of the first six participants to complete 12 weeks of treatment, four of six (66.7%) achieved the primary endpoint of a 1-grade or greater improvement in Investigator Global Assessment (p=0.0087 vs. a pre-specified alpha of 0.0215). The key secondary endpoint, a Global Statistical Test of Global Impression of Change, also achieved statistical significance at Week 12 (p=0.0070 vs. a pre-specified alpha of 0.0215). All three participants with moderate to severe pruritus at baseline achieved a 3-grade or greater improvement in the Worst Itch Numeric Rating Scale at Week 12, with one participant achieving a greater than 6-grade improvement. No treatment-related serious adverse events were reported. Quoin expects to complete recruitment of all 20 participants by the end of 2026 and to report topline data in the second quarter of 2027.
+Corporate and Financing
+Private Placement of Up to $50.0 Million. On August 28, 2026, Quoin announced a private placement with new and existing healthcare-focused institutional investors for up to approximately $50.0 million in gross proceeds, including initial upfront funding of approximately $30.8 million and up to an additional approximately $19.2 million upon the potential cash exercise of accompanying ordinary warrants.
+QRX003 – Peeling Skin Syndrome
+First-Ever IND for Peeling Skin Syndrome Cleared by FDA. On July 9, 2026, Quoin announced that the FDA had cleared its IND for QRX003 in Peeling Skin Syndrome (PSS), the first IND ever submitted to the FDA for the disease.
+Rare Pediatric Disease and Fast Track Designations Granted by FDA. On September 8, 2026, Quoin announced that the FDA had granted Rare Pediatric Disease (RPD) Designation to QRX003 for PSS, the second RPD designation for QRX003 following Netherton Syndrome. On September 22, 2026, Quoin announced that the FDA had granted Fast Track Designation to QRX003 for PSS, the first Fast Track Designation ever granted for a PSS therapy.
+EMA Orphan Drug Designation Granted. Subsequent to quarter end, on October 14, 2026, Quoin announced that the European Medicines Agency had granted Orphan Drug Designation to QRX003 for PSS. If approved for marketing in the European Union, QRX003 will be granted 10 years of market exclusivity with respect to similar medicines for the treatment of PSS. Across Netherton Syndrome and PSS, QRX003 now holds eight regulatory designations from the FDA, the EMA and Japan’s MHLW.
+The planned Phase 2/3 study in PSS, the first-ever company-sponsored formal clinical study for the disease, is expected to enroll up to 12 pediatric and adult patients in the United States and Europe and to initiate before the end of 2026. There is currently no approved treatment for PSS.
+QRX009 – Topical Rapamycin Platform
+QRX009 Advancing Toward Clinical Testing. Quoin continues to advance its proprietary topical rapamycin platform toward clinical testing. Investigator-led studies are planned across several indications, including Pachyonychia Congenita, Gorlin Syndrome, and Tuberous Sclerosis Complex, and the Company plans to submit an IND to the FDA for an additional indication before the end of 2026.
+Awareness and Advocacy
+New NETHERTON NOW Video Released. On September 10, 2026, Quoin released the latest episode of its NETHERTON NOW video series, featuring Laura Wright-Sexton, MD, a board-certified pediatric critical care physician, and her daughter Aminah. The episode explores the daily realities of raising a child with Netherton Syndrome and its impact on the whole family. NETHERTON NOW is an awareness campaign created by Quoin to increase visibility of Netherton Syndrome among the general public, treating physicians, the patient community, and policy and lawmakers. This video is the sixth in the NETHERTON NOW series, and cumulatively the videos have been viewed more than 2.8 million times with over 28 million impressions.
+Peer-Reviewed Paper Published in Dermatology and Therapy. Subsequent to quarter end, on October 20, 2026, Quoin announced publication of a peer-reviewed paper introducing QRX003 and its mechanism of action in Netherton Syndrome. The paper was published online on October 13, 2026, following acceptance announced on October 6, 2026. It includes a case report from Professor Alan Irvine, Children’s Health Ireland and Trinity College Dublin, describing a pediatric patient treated with QRX003 under Quoin’s Pediatric Compassionate Use Program. The patient’s IGA score improved from 4 (severe) at baseline to 0 (clear) by eight months, and the patient remained mostly at IGA 0 over 21 months of treatment. No adverse events considered treatment-related were reported.
+Financial Highlights
+Quoin had approximately $33.2 million in cash, cash equivalents, and marketable securities as of September 30, 2026.
+Net loss for the quarter ended September 30, 2026, was approximately $4.9 million, compared to approximately $3.9 million for the quarter ended September 30, 2025. Net loss for the nine months ended September 30, 2026, was approximately $15.2 million, compared to approximately $11.5 million for the nine months ended September 30, 2025.
+Investors are encouraged to read the Company’s Quarterly Report on Form 10-Q when filed with the Securities and Exchange Commission, which will contain additional details about Quoin’s financial results as of and for the period ended September 30, 2026.
+About Quoin Pharmaceuticals Ltd.
+Quoin Pharmaceuticals Ltd. is a late clinical-stage specialty pharmaceutical company focused on developing and commercializing therapeutic products that treat rare and orphan diseases. We are committed to addressing unmet medical needs for patients, their families, communities, and care teams. Quoin’s innovative pipeline is focused on two key platform products, QRX003 and QRX009, that collectively have the potential to target a broad number of rare and orphan indications, including Netherton Syndrome, Peeling Skin Syndrome, Palmoplantar Keratoderma, Pachyonychia Congenita, Gorlin Syndrome and Tuberous Sclerosis Complex, Microcystic Lymphatic Malformations, Venous Malformations, Angiofibromas and others. For more information, visit: www.quoinpharma.com or LinkedIn for updates.
+Forward-Looking Statements
+The Company cautions that statements in this press release that are not descriptions of historical facts are forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Forward-looking statements may be identified by the use of words referencing future events or circumstances, such as “expect,” “intend,” “hope,” “plan,” “potential,” “anticipate,” “look forward,” “believe,” “may,” and “will,” among others. This press release contains forward-looking statements. All statements that reflect the Company’s expectations, assumptions, projections, beliefs, or opinions about the future, other than statements of historical fact, are forward-looking statements, including, without limitation, statements relating to: the Company’s clinical, regulatory and financial foundation for long-term growth; the August 2026 private placement providing funding to fully complete the development of QRX003 for Netherton Syndrome while enabling the Company to selectively invest in the advancement of its pipeline products; the potential receipt of up to approximately $19.2 million of additional gross proceeds upon the cash exercise of the ordinary warrants issued in the private placement; QRX003 as a potentially safe and effective treatment for Netherton Syndrome; completing recruitment of all 20 participants in the Phase 2/3 study of QRX003 in Netherton Syndrome by the end of 2026 and reporting topline data from that study in the second quarter of 2027; moving closer towards the Company’s goal of delivering the first approved treatment for Netherton Syndrome; initiating the planned Phase 2/3 study of QRX003 in Peeling Skin Syndrome before the end of 2026, and that study enrolling up to 12 pediatric and adult patients in the United States and Europe; QRX003 being granted 10 years of market exclusivity in the European Union with respect to similar medicines for the treatment of Peeling Skin Syndrome, if approved for marketing in the European Union; advancing the QRX009 topical rapamycin platform toward clinical testing in early 2027, including planned investigator-led studies in Pachyonychia Congenita, Gorlin Syndrome and Tuberous Sclerosis Complex, and submitting an IND to the FDA for an additional indication before the end of 2026; the Company’s belief that its current cash position will fund operations into 2028; and Quoin’s products in development collectively having the potential to target a broad number of rare and orphan indications, including Netherton Syndrome, Peeling Skin Syndrome, Palmoplantar Keratoderma, Pachyonychia Congenita, Gorlin Syndrome, Tuberous Sclerosis Complex, Microcystic Lymphatic Malformations, Venous Malformations, Angiofibromas and others. Because such statements are subject to risks and uncertainties, actual results may differ materially from those expressed or implied by such forward-looking statements. These forward-looking statements are based upon the Company’s current expectations and involve assumptions that may never materialize or may prove to be incorrect. Actual results and the timing of events could differ materially from those anticipated in such forward-looking statements as a result of various risks and uncertainties including, but not limited to, the Company’s ability to pursue its regulatory strategy; the Company’s ability to obtain regulatory approvals for commercialization of product candidates or to comply with ongoing regulatory requirements; the Company’s ability to complete clinical trials on time and achieve desired results and benefits as expected; and other factors discussed in the Company’s Annual Report on Form 10-K for the year ended December 31, 2025 and in other filings the Company has made and may make with the SEC in the future. One should not place undue reliance on these forward-looking statements, which speak only as of the date on which they were made. The Company undertakes no obligation to update such statements to reflect events that occur or circumstances that exist after the date on which they were made, except as may be required by law.
+For further information, contact:
+Quoin Pharmaceuticals Ltd.
+Michael Myers, Ph.D., CEO
+mmyers@quoinpharma.com
+Investor Relations
+PCG Advisory
+Jeff Ramson
+jramson@pcgadvisory.com
+(646) 863-6341
+QUOIN PHARMACEUTICALS LTD.
+Condensed Consolidated Balance Sheets
+September 30, | December 31,
+2026 | 2025
+(unaudited)
+ASSETS
+Current assets:
+Cash and cash equivalents | $ | 10,099,800 | $ | 3,818,096
+Investments | 23,083,738 | 14,927,165
+Prepaid expenses and other current assets | 1,216,529 | 1,261,974
+Total current assets | 34,400,067 | 20,007,235
+Prepaid expenses - long term | 38,643 | -
+Intangible assets, net | 308,334 | 383,334
+Total assets | $ | 34,747,044 | $ | 20,390,569
+LIABILITIES AND SHAREHOLDERS' EQUITY
+Current liabilities:
+Accounts payable | $ | 1,578,247 | $ | 1,262,222
+Accrued expenses | 2,597,281 | 2,538,457
+Accrued interest and financing expense | - | 1,146,251
+Due to officers - short term | 600,000 | 600,000
+Total current liabilities | 4,775,528 | 5,546,930
+Due to officers - long term | 1,273,733 | 1,723,733
+Total liabilities | $ | 6,049,261 | $ | 7,270,663
+Commitments and contingencies
+Shareholders' equity:
+Ordinary shares, no par value per share, 5,000,000,000 authorized at September 30, 2026 and December 31, 2025, respectively - 168,145,655 (4,804,162 ADSs) ordinary shares issued and outstanding at September 30, 2026 and 52,441,360 (1,498,325 ADSs) ordinary shares issued and outstanding at December 31, 2025 | $ | - | $ | -
+Accumulated other comprehensive income (loss) | 2,134 | (613 | )
+Additional paid in capital | 114,905,632 | 84,090,966
+Accumulated deficit | (86,209,983 | ) | (70,970,447 | )
+Total shareholders' equity | 28,697,783 | 13,119,906
+Total liabilities and shareholders' equity | $ | 34,747,044 | $ | 20,390,569
+QUOIN PHARMACEUTICALS LTD.
+Condensed Consolidated Statements of Operations and Other Comprehensive Loss (Unaudited)
+Three months ended September 30, | Nine months ended September 30,
+2026 | 2025 | 2026 | 2025
+Operating expenses
+General and administrative | $ | 2,267,412 | $ | 1,738,751 | $ | 5,811,266 | $ | 5,064,383
+Research and development | 2,655,600 | 2,281,174 | 9,716,530 | 6,705,898
+Total operating expenses | 4,923,012 | 4,019,925 | 15,527,796 | 11,770,281
+Other (income) and expenses
+Unrealized (gain) loss | 72,865 | (9,494 | ) | 84,580 | (3,616 | )
+Realized and accrued interest income | (125,118 | ) | (62,266 | ) | (372,840 | ) | (310,383 | )
+Total other income | (52,253 | ) | (71,760 | ) | (288,260 | ) | (313,999 | )
+Net loss | $ | (4,870,759 | ) | $ | (3,948,165 | ) | $ | (15,239,536 | ) | $ | (11,456,282 | )
+Other comprehensive loss
+Foreign currency translation | 2,716 | - | 2,747 | -
+Comprehensive loss | $ | (4,868,043 | ) | $ | (3,948,165 | ) | $ | (15,236,789 | ) | $ | (11,456,282 | )
+Loss per ADS
+Loss per ADS
+Basic | $ | (0.97 | ) | $ | (6.71 | ) | $ | (4.26 | ) | $ | (19.50 | )
+Fully-diluted | $ | (0.97 | ) | $ | (6.71 | ) | $ | (4.26 | ) | $ | (19.50 | )
+Weighted average number of ADSs outstanding
+Basic | 5,042,201 | 588,166 | 3,576,795 | 587,561
+Fully-diluted | 5,042,201 | 588,166 | 3,576,795 | 587,561

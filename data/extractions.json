@@ -1397,5 +1397,116 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1739566/000162828026071296/pressrelease-2026q3earning.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1739566/000162828026071296/0001628280-26-071296-index.htm",
     "saved_at": "2026-11-07T06:08:42+08:00"
+  },
+  {
+    "cik": "1671502",
+    "company": "Quoin Pharmaceuticals Ltd.",
+    "accession": "0001104659-26-123960",
+    "release_date": "2026-11-06",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": null,
+      "operating_income": null,
+      "net_income": {
+        "value": -4.870759,
+        "unit": "USD millions",
+        "quote": "Net loss | $ | (4,870,759 | ) | $ | (3,948,165"
+      },
+      "diluted_eps": {
+        "value": -0.97,
+        "unit": "USD per share",
+        "quote": "Fully-diluted | $ | (0.97 | ) | $ | (6.71"
+      }
+    },
+    "guidance": {
+      "text": "Quoin expects to finish recruitment in its Netherton Syndrome study by year end and to report topline data in the second quarter of 2027.",
+      "quote": "We expect to complete recruitment in our Netherton Syndrome study by year end and report topline data in the second quarter of 2027."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "other",
+        "claim": "Interim study results for QRX003 in Netherton Syndrome were statistically significant on the primary and key secondary endpoints.",
+        "quote": "Interim clinical results from our Phase 2/3 study of QRX003 in Netherton Syndrome demonstrated statistical significance for the primary and key secondary endpoints"
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "The August private placement funds the full development of QRX003 for Netherton Syndrome.",
+        "quote": "our successful August private placement has provided us with funding to fully complete the development of QRX003 for Netherton Syndrome"
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "Recruitment is expected to finish by year end, with topline data in the second quarter of 2027.",
+        "quote": "We expect to complete recruitment in our Netherton Syndrome study by year end and report topline data in the second quarter of 2027."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO says the quarter strengthened the company's clinical, regulatory and financial foundation."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1671502-0001104659-26-123960.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1671502/000110465926123960/tm2629259d1_ex99-1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1671502/000110465926123960/0001104659-26-123960-index.htm",
+    "saved_at": "2026-11-08T06:08:07+08:00"
+  },
+  {
+    "cik": "2030954",
+    "company": "TEN Holdings, Inc.",
+    "accession": "0001493152-26-050546",
+    "release_date": "2026-11-06",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 0.64,
+        "unit": "USD millions",
+        "quote": "Revenue for the three months ended September 30, 2026 was $640,000, a $97,000 or 17.9% increase compared to revenue of $543,000"
+      },
+      "operating_income": null,
+      "net_income": {
+        "value": -3.734,
+        "unit": "USD millions",
+        "quote": "Net loss for the three months ended September 30, 2026 was $3,734,000, or $(0.31) per share"
+      },
+      "diluted_eps": {
+        "value": -0.31,
+        "unit": "USD per share",
+        "quote": "Net loss for the three months ended September 30, 2026 was $3,734,000, or $(0.31) per share"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Third-quarter revenue rose 17.9% year over year to $640,000.",
+        "quote": "Third quarter revenue increased 17.9% year over year to $640,000"
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "Two expenses that management regards as non-recurring weighed on the quarter.",
+        "quote": "a $1.8 million write-off of previously capitalized service contracts and approximately $0.5 million in legal expenses"
+      },
+      {
+        "id": "M3",
+        "topic": "costs",
+        "claim": "Management says it cut the annual operating cost structure by about $2.5 million over 12 months.",
+        "quote": "Over the past 12 months, we have reduced our annual operating cost structure by approximately $2.5 million through strategic cost reductions"
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "The CEO cites revenue growth and cost cuts, and also names two large one-off expenses."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/2030954-0001493152-26-050546.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/2030954/000149315226050546/ex99-1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/2030954/000149315226050546/0001493152-26-050546-index.htm",
+    "saved_at": "2026-11-08T06:08:07+08:00"
   }
 ]

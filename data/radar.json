@@ -125,6 +125,15 @@
       "results_filings": 591,
       "new": 97,
       "offline": false
+    },
+    {
+      "run_at": "2026-11-08T06:08:07+08:00",
+      "start": "2026-11-06",
+      "end": "2026-11-07",
+      "hits": 91,
+      "results_filings": 88,
+      "new": 4,
+      "offline": false
     }
   ],
   "filings": {
@@ -41082,7 +41091,74 @@
       ],
       "filing_url": "https://www.sec.gov/Archives/edgar/data/1557798/000168316826008358/0001683168-26-008358-index.htm",
       "first_seen": "2026-11-07T06:08:42+08:00"
+    },
+    "0001493152-26-050541": {
+      "accession": "0001493152-26-050541",
+      "file_date": "2026-11-06",
+      "company": "bioAffinity Technologies, Inc.",
+      "tickers": [
+        "BIAF",
+        "BIAFW"
+      ],
+      "cik": "1712762",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1712762/000149315226050541/0001493152-26-050541-index.htm",
+      "first_seen": "2026-11-08T06:08:07+08:00"
+    },
+    "0001628280-26-071783": {
+      "accession": "0001628280-26-071783",
+      "file_date": "2026-11-06",
+      "company": "GREIF, INC",
+      "tickers": [
+        "GEF",
+        "GEF-B"
+      ],
+      "cik": "43920",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "7.01",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/43920/000162828026071783/0001628280-26-071783-index.htm",
+      "first_seen": "2026-11-08T06:08:07+08:00"
+    },
+    "0001104659-26-123960": {
+      "accession": "0001104659-26-123960",
+      "file_date": "2026-11-06",
+      "company": "Quoin Pharmaceuticals Ltd.",
+      "tickers": [
+        "QNRX"
+      ],
+      "cik": "1671502",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1671502/000110465926123960/0001104659-26-123960-index.htm",
+      "first_seen": "2026-11-08T06:08:07+08:00"
+    },
+    "0001493152-26-050546": {
+      "accession": "0001493152-26-050546",
+      "file_date": "2026-11-06",
+      "company": "TEN Holdings, Inc.",
+      "tickers": [
+        "XHLD"
+      ],
+      "cik": "2030954",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/2030954/000149315226050546/0001493152-26-050546-index.htm",
+      "first_seen": "2026-11-08T06:08:07+08:00"
     }
   },
-  "updated_at": "2026-11-07T06:08:42+08:00"
+  "updated_at": "2026-11-08T06:08:07+08:00"
 }
