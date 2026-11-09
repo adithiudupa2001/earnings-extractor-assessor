@@ -1508,5 +1508,121 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/2030954/000149315226050546/ex99-1.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/2030954/000149315226050546/0001493152-26-050546-index.htm",
     "saved_at": "2026-11-08T06:08:07+08:00"
+  },
+  {
+    "cik": "1584549",
+    "company": "Village Farms International, Inc.",
+    "accession": "0001193125-26-452618",
+    "release_date": "2026-11-09",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 66.903,
+        "unit": "USD millions",
+        "quote": "Sales | $ | 66,903 | $ | 66,741"
+      },
+      "operating_income": null,
+      "net_income": {
+        "value": 9.968,
+        "unit": "USD millions",
+        "quote": "Net income attributable to Village Farms International, Inc. shareholders | $ | 9,968 | $ | 10,217"
+      },
+      "diluted_eps": {
+        "value": 0.08,
+        "unit": "USD per share",
+        "quote": "Diluted income per share attributable to Village Farms International, Inc. shareholders | $ | 0.08 | $ | 0.08"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "Management says third quarter cannabis revenues were a record and a large share came from international markets.",
+        "quote": "Our third quarter results were driven by record cannabis revenues of $55 million and approximately 43% of cannabis sales from some of the world’s most attractive and fastest growing international markets."
+      },
+      {
+        "id": "M2",
+        "topic": "margins",
+        "claim": "Management says lower year-on-year margins came from a softer Canadian spot trim market.",
+        "quote": "The year-over-year variance in our margin performance in Q3 was driven primarily by a softer spot trim market in the Canadian wholesale sales channel as compared to the prior year."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "Management expects Canadian wholesale trim conditions to begin normalising in the fourth quarter.",
+        "quote": "We believe wholesale trim volumes and pricing reached trough levels in the Canadian wholesale channel during Q3, and we expect these conditions to begin normalizing in Q4"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO stresses record cannabis sales and positive net income, and expects trim conditions to normalise."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1584549-0001193125-26-452618.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1584549/000119312526452618/vff-ex99_1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1584549/000119312526452618/0001193125-26-452618-index.htm",
+    "saved_at": "2026-11-10T06:09:26+08:00"
+  },
+  {
+    "cik": "65312",
+    "company": "EVI INDUSTRIES, INC.",
+    "accession": "0001437749-26-035892",
+    "release_date": "2026-11-09",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 112.948,
+        "unit": "USD millions",
+        "quote": "Revenues | $ | 112,948 | $ | 108,269"
+      },
+      "operating_income": {
+        "value": 6.228,
+        "unit": "USD millions",
+        "quote": "Operating Income | 6,228 | 3,562"
+      },
+      "net_income": {
+        "value": 3.847,
+        "unit": "USD millions",
+        "quote": "Net Income | $ | 3,847 | $ | 1,847"
+      },
+      "diluted_eps": {
+        "value": 0.24,
+        "unit": "USD per share",
+        "quote": "Diluted | $ | 0.24 | $ | 0.11"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "The release says operating income rose 75% to a record.",
+        "quote": "Operating income increased 75% to a record $6.2 million;"
+      },
+      {
+        "id": "M2",
+        "topic": "margins",
+        "claim": "The release says gross margin expanded to a record level.",
+        "quote": "gross margin expanded from 31.3% to a record 33.7%;"
+      },
+      {
+        "id": "M3",
+        "topic": "margins",
+        "claim": "Management keeps a long-term aim of double-digit consolidated operating margins and says more improvement is needed.",
+        "quote": "achieving double-digit consolidated margins will require further improvement across the businesses."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls the quarter encouraging and the release reports records, though he says the work is not finished."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/65312-0001437749-26-035892.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/65312/000143774926035892/ex_1017435.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/65312/000143774926035892/0001437749-26-035892-index.htm",
+    "saved_at": "2026-11-10T06:09:26+08:00"
   }
 ]
