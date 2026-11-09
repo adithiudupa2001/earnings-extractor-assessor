@@ -2711,5 +2711,103 @@
       }
     ],
     "offline": false
+  },
+  {
+    "run_at": "2026-11-10T06:37:28+08:00",
+    "agent": "assessor",
+    "brief": "briefs/2026-11-10-assess.md",
+    "brief_checked": true,
+    "sources": {
+      "ok": 4,
+      "total": 4,
+      "failures": []
+    },
+    "counts": {
+      "to_assess": 4,
+      "checked": 4,
+      "rechecks": 2,
+      "confirmed": 6,
+      "mismatch": 0,
+      "cannot_check": 10
+    },
+    "companies": [
+      {
+        "cik": "1037540",
+        "company": "BXP, Inc.",
+        "accession": "0001037540-26-000041",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 0,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 4,
+          "S3": 4
+        }
+      },
+      {
+        "cik": "1406666",
+        "company": "CALIX, INC",
+        "accession": "0001406666-26-000040",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 0,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 3,
+          "S2": 1,
+          "S3": 1
+        }
+      },
+      {
+        "cik": "1584549",
+        "company": "Village Farms International, Inc.",
+        "accession": "0001193125-26-452618",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": false,
+        "confirmed": 3,
+        "mismatch": 0,
+        "cannot_check": 1,
+        "claims_match": 2,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 4,
+          "S3": 4
+        }
+      },
+      {
+        "cik": "65312",
+        "company": "EVI INDUSTRIES, INC.",
+        "accession": "0001437749-26-035892",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": false,
+        "confirmed": 3,
+        "mismatch": 0,
+        "cannot_check": 1,
+        "claims_match": 3,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      }
+    ],
+    "headline": "Checked 4 extractions: 6 figures confirmed, 0 mismatches, 10 cannot check.",
+    "radar_check": {
+      "watch_run_at": "2026-11-10T06:09:26+08:00",
+      "watch_brief": "briefs/2026-11-10-watch.md",
+      "brief_says": 201,
+      "saved_for_run": 201,
+      "match": true
+    },
+    "offline": false
   }
 ]
