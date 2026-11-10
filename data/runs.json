@@ -2881,5 +2881,103 @@
       }
     ],
     "offline": false
+  },
+  {
+    "run_at": "2026-11-11T06:37:26+08:00",
+    "agent": "assessor",
+    "brief": "briefs/2026-11-11-assess.md",
+    "brief_checked": true,
+    "sources": {
+      "ok": 4,
+      "total": 4,
+      "failures": []
+    },
+    "counts": {
+      "to_assess": 4,
+      "checked": 4,
+      "rechecks": 2,
+      "confirmed": 8,
+      "mismatch": 0,
+      "cannot_check": 8
+    },
+    "companies": [
+      {
+        "cik": "1037540",
+        "company": "BXP, Inc.",
+        "accession": "0001037540-26-000041",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 0,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 4
+        }
+      },
+      {
+        "cik": "1406666",
+        "company": "CALIX, INC",
+        "accession": "0001406666-26-000040",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 0,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 2
+        }
+      },
+      {
+        "cik": "1779474",
+        "company": "WM TECHNOLOGY, INC.",
+        "accession": "0001779474-26-000039",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": false,
+        "confirmed": 4,
+        "mismatch": 0,
+        "cannot_check": 0,
+        "claims_match": 2,
+        "claims_mismatch": 1,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "928340",
+        "company": "Consolidated Water Co. Ltd.",
+        "accession": "0001104659-26-124594",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": false,
+        "confirmed": 4,
+        "mismatch": 0,
+        "cannot_check": 0,
+        "claims_match": 3,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      }
+    ],
+    "headline": "Checked 4 extractions: 8 figures confirmed, 0 mismatches, 8 cannot check.",
+    "radar_check": {
+      "watch_run_at": "2026-11-11T06:15:46+08:00",
+      "watch_brief": "briefs/2026-11-11-watch.md",
+      "brief_says": 5,
+      "saved_for_run": 5,
+      "match": true
+    },
+    "offline": false
   }
 ]
