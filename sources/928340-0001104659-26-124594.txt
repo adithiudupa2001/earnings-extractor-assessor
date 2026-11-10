@@ -1,0 +1,277 @@
+Company: Consolidated Water Co. Ltd. (CIK 928340)
+Accession: 0001104659-26-124594
+Results released: 2026-11-09
+Press release: https://www.sec.gov/Archives/edgar/data/928340/000110465926124594/cwco-ex99d1.htm
+Filing: https://www.sec.gov/Archives/edgar/data/928340/000110465926124594/0001104659-26-124594-index.htm
+Saved: 2026-11-11T06:15:46+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 cwco-ex99d1.htm EX-99.1
+Exhibit 99.1
+Consolidated Water Reports Third Quarter 2026 Results
+GEORGE TOWN, Grand Cayman, Cayman Islands, November 9, 2026 -- Consolidated Water Co. Ltd. (NASDAQ Global Select Market: CWCO), a leading designer, builder and operator of advanced water treatment plants, reported results for the third quarter ended September 30, 2026. All comparisons are to the same prior-year period unless otherwise noted.
+Consolidated Water will hold a conference call at 11:00 a.m. Eastern time tomorrow to discuss the results (see dial-in information below).
+Third Quarter 2026 Financial Summary
+● | Total revenue decreased 11.9% to $30.9 million from $35.1 million, due to lower services and manufacturing revenue, partially offset by increases in retail and bulk revenue.
+● | Retail revenue increased 5.7% to $8.2 million, principally due to higher energy pass-through charges and an increased rate for a major commercial customer, offsetting lower retail rates under the new license.
+● | Bulk revenue increased 20.8% to $10.1 million, principally due to higher energy pass-through charges and, to a lesser extent, revenue from the new Cat Island, Bahamas desalination plants.
+● | Manufacturing revenue decreased 39.7% to $2.8 million due to a decrease in the total dollar amount of contracts completed and in progress.
+● | Services revenue decreased 31.7% to $9.8 million. Construction revenue declined to $3.5 million from $6.4 million. Recurring operations and maintenance (O&M) revenue decreased to $6.1 million from $7.7 million, primarily due to the expiration of contracts with three customers in California in the first quarter of 2026.
+● | Net income from continuing operations attributable to company stockholders totaled $2.4 million or $0.15 per diluted share, compared to $5.6 million or $0.34 per diluted share in the third quarter of 2025.
+● | Including discontinued operations, net income attributable to company stockholders totaled $2.3 million or $0.14 per diluted share, compared to $5.5 million or $0.34 per diluted share in the third quarter of 2025.
+● | Cash and cash equivalents totaled $129.2 million and working capital was $145.1 million as of September 30, 2026.
+Third Quarter 2026 Operational Summary
+● | Cayman Water’s new 25-year retail water license became effective August 1, 2026, establishing a long-term regulatory framework and preserving the company’s exclusive right to produce, distribute and sell potable water within its licensed service area in Grand Cayman, Cayman Islands.
+● | Received approximately $10.1 million in purchase orders from a municipality on Florida’s east coast to design, fabricate and deliver nanofiltration membrane water treatment equipment and
+horizontal cartridge filters. These represent the company’s largest municipal membrane-based water treatment equipment and horizontal cartridge filter orders to date. Delivery is scheduled for November 2027.
+● | Advanced the Hawaii seawater desalination project. In July 2026, the Honolulu Board of Water Supply issued a Limited Notice to Proceed releasing approximately $6 million for long-lead equipment procurement.
+Management Commentary
+“Increases to our third-quarter retail and bulk revenue were offset by lower construction, O&M and manufacturing revenue,” said Consolidated Water CEO Rick McTaggart.
+“Cayman Water’s new 25-year retail license, effective August 1, 2026, establishes a long-term regulatory framework and provides exclusive rights within our licensed service area. The new rate structure lowers base rates for customers and retains an annual water rate adjustment mechanism, subject to regulatory verification and approval. Although lower retail rates reduced quarterly retail gross profit, higher energy pass-through charges, a 1% increase in water sales volume, and an increased rate for a major commercial customer increased retail revenue.
+“Our bulk segment revenue increased primarily from higher energy pass-through charges and, to a lesser extent, revenue from our new Cat Island, Bahamas desalination plants. Bulk gross profit increased, but higher diesel costs and incremental maintenance expenses reduced gross margin as a percentage of revenue.
+“Manufacturing revenue declined as the total dollar amount of contracts completed and in progress decreased. Based on current projections, we continue to expect full-year 2026 manufacturing revenue to be below 2025 levels. However, during the quarter we announced approximately $10.1 million in purchase orders from a municipality on Florida’s east coast for nanofiltration membrane water treatment equipment and horizontal cartridge filters for delivery in November 2027. These orders, which are our largest municipal membrane equipment and horizontal cartridge filter orders to date, demonstrate the breadth of our manufacturing capabilities.
+“Additionally, we have bid for water equipment manufacturing projects valued at approximately $10 million that are expected to be decided and awarded in the fourth quarter of this year and are tracking approximately $45 million in Florida municipal water projects that are expected to go out for bid within the next six months. Our excellent reputation, world-class manufacturing capabilities, and deep knowledge of the Florida water equipment market should help us be very competitive on these new opportunities. All of this bodes well for a strong 2027 for our manufacturing business.
+“After quarter-end, we announced on October 12 that we had been awarded an approximately $39.8 million design-build agreement by the City of Pismo Beach, California, for the Central Coast Blue Advanced Water Purification Facility. We were selected through a competitive procurement process to design, construct, and test the facility, train City personnel and support initial operations. The project is intended to provide a new local, drought-resistant water supply and help protect the groundwater basin from seawater intrusion. Construction is anticipated to begin in spring 2027, with design, permitting, construction, startup and commissioning expected to span approximately 24 months overall.
+2
+“In Hawaii, the July Limited Notice to Proceed authorized approximately $6 million for critical long-lead equipment for our planned Kalaeloa desalination facility. Early procurement should help reduce scheduling pressure and position us to advance construction efficiently once the remaining permits and approvals are secured.
+“Design and construction of the Hawaii project represents more than $150 million of contracted backlog which has not yet been recognized as revenue. Once construction of this project commences in the first half of 2027, we expect it to have a significant impact on our revenue and earnings. Recent approvals from the State Historic Preservation Division and the Hawaii Department of Health allow us to pursue remaining permits and approvals. The Honolulu Board of Water Supply remains supportive and has granted schedule extensions to reflect the permitting process. We anticipate beginning construction in the first half of 2027, subject to obtaining the remaining permits and approvals. Following commissioning, we are contracted to operate and maintain the Kalaeloa facility for 20 years, with two additional five-year extension options at the client’s discretion.
+“Looking ahead, we remain focused on executing our projects, serving our customers and pursuing opportunities that build on our water-treatment expertise. We believe our diversified business and disciplined approach to growth provide a solid foundation for the future. Our priority remains translating these strengths into sustainable long-term growth and enhanced shareholder value.”
+Third Quarter 2026 Financial Results
+Revenue totaled $30.9 million, decreasing 11.9% from $35.1 million in the third quarter of 2025. The decrease reflected lower services and manufacturing revenue, partially offset by increased retail and bulk revenue.
+Retail revenue increased 5.7% to $8.2 million from $7.8 million, principally due to higher pass-through energy charges and an increased rate for a major commercial water customer. These factors offset the impact of lower retail water rates effective August 1, 2026, under the new retail license. Water sales volume increased approximately 1%.
+Bulk revenue increased 20.8% to $10.1 million from $8.4 million, principally due to higher pass-through energy charges at CW-Bahamas and, to a lesser extent, revenue from its new Cat Island plants.
+Services revenue decreased 31.7% to $9.8 million from $14.3 million. Construction revenue declined to $3.5 million from $6.4 million due to a decrease in the number and total value of construction projects. O&M revenue decreased to $6.1 million from $7.7 million, primarily due to the expiration of contracts with three customers in California in the first quarter of 2026. Design and consulting revenue was $177,000 compared to $214,000.
+Manufacturing revenue decreased 39.7% to $2.8 million from $4.7 million due to a decrease in the total dollar amount of contracts completed and in progress. The company expects full-year 2026 manufacturing revenue to be below 2025 levels based on current projections.
+Gross profit for the third quarter of 2026 was $9.8 million (31.8% of total revenue), compared to $12.9 million (36.9% of total revenue) in the third quarter of 2025.
+3
+Net income from continuing operations attributable to Consolidated Water stockholders for the third quarter of 2026 was $2.4 million or $0.15 per diluted share, compared to $5.6 million or $0.34 per diluted share in the third quarter of 2025.
+Including discontinued operations, net income attributable to Consolidated Water stockholders for the third quarter of 2026 was $2.3 million or $0.14 per diluted share, compared to $5.5 million or $0.34 per diluted share in the third quarter of 2025.
+As of September 30, 2026, cash and cash equivalents totaled $129.2 million, working capital was $145.1 million, and equity attributable to Consolidated Water stockholders was $226.2 million.
+First Nine Months 2026 Financial Results
+Revenue for the first nine months of 2026 was $93.8 million, down 8.5% from $102.4 million in the same year-ago period. Manufacturing revenue decreased by $8.8 million, services revenue decreased by $3.2 million, and retail revenue decreased by $0.4 million. These decreases were partially offset by a $3.7 million increase in bulk revenue.
+Retail revenue decreased to $25.4 million from $25.8 million, reflecting a 4.1% decrease in water sales volume. The decrease in volume was attributable to significantly greater rainfall on Grand Cayman in 2026 compared to 2025, when rainfall was well below historical norms.
+Bulk revenue increased 14.9% to $28.8 million from $25.1 million, principally due to higher pass-through energy charges at CW-Bahamas and, to a lesser extent, revenue from its new Cat Island plants.
+Services revenue decreased 9.0% to $32.6 million from $35.8 million. Construction revenue was $10.9 million compared to $11.4 million in the same year-ago period. O&M revenue decreased 11.2% to $21.0 million from $23.7 million due to the expiration of contracts with three customers in California in the first quarter of 2026. Design and consulting revenue was $642,000 compared to $716,000.
+Manufacturing revenue decreased 56.1% to $6.9 million from $15.7 million due to a decrease in the total dollar amount of contracts completed and in progress.
+Gross profit for the first nine months of 2026 was $31.7 million (33.8% of total revenue), down 16.8% from $38.1 million (37.2% of total revenue) in the same year-ago period.
+Net income from continuing operations attributable to Consolidated Water stockholders for the first nine months of 2026 was $10.2 million or $0.64 per diluted share, compared to $15.7 million or $0.97 per diluted share for the first nine months of 2025.
+Including discontinued operations, net income attributable to Consolidated Water stockholders for the first nine months of 2026 was $10.0 million or $0.62 per diluted share, compared to $15.4 million or $0.96 per diluted share in the same period of 2025.
+4
+Third Quarter 2026 Segment Results
+Three Months Ended September 30, 2026
+Retail | Bulk | Services | Manufacturing | Corporate | Total
+Revenue | $ | 8,211,690 | $ | 10,138,396 | $ | 9,760,608 | $ | 2,811,843 | $ | — | $ | 30,922,537
+Cost of revenue | 4,027,544 | 6,759,416 | 8,439,025 | 1,878,489 | — | 21,104,474
+Gross profit | 4,184,146 | 3,378,980 | 1,321,583 | 933,354 | — | 9,818,063
+General and administrative expenses | 996,481 | 460,820 | 1,579,402 | 524,577 | 4,068,376 | 7,629,656
+Loss on asset dispositions, net | (1,928) | — | — | (100,057) | — | (101,985)
+Income (loss) from operations | 3,185,737 | 2,918,160 | (257,819) | 308,720 | (4,068,376) | 2,086,422
+Interest income | 40,114 | 16,714 | 218,435 | 1 | 200,268 | 475,532
+Interest expense | — | — | (255) | — | (7,849) | (8,104)
+Income from affiliate | — | — | — | — | 81,232 | 81,232
+Other | 24,257 | 3,369 | 300 | 60 | (178) | 27,808
+Other income, net | 64,371 | 20,083 | 218,480 | 61 | 273,473 | 576,468
+Income (loss) before income taxes | 3,250,108 | 2,938,243 | (39,339) | 308,781 | (3,794,903) | 2,662,890
+Provision for income taxes | — | — | 61,534 | 65,731 | — | 127,265
+Net income (loss) from continuing operations | 3,250,108 | 2,938,243 | (100,873) | 243,050 | (3,794,903) | 2,535,625
+Income from continuing operations attributable to non-controlling interests | — | 151,728 | — | — | — | 151,728
+Net income (loss) from continuing operations attributable to Consolidated Water Co. Ltd. stockholders | $ | 3,250,108 | $ | 2,786,515 | $ | (100,873) | $ | 243,050 | $ | (3,794,903) | 2,383,897
+Net loss from discontinued operations | (61,627)
+Net income attributable to Consolidated Water Co. Ltd. stockholders | $ | 2,322,270
+Three Months Ended September 30, 2025
+Retail | Bulk | Services | Manufacturing | Corporate | Total
+Revenue | $ | 7,770,344 | $ | 8,394,614 | $ | 14,289,315 | $ | 4,664,433 | $ | — | $ | 35,118,706
+Cost of revenue | 3,447,262 | 5,484,613 | 10,444,894 | 2,796,028 | — | 22,172,797
+Gross profit | 4,323,082 | 2,910,001 | 3,844,421 | 1,868,405 | — | 12,945,909
+General and administrative expenses | 952,102 | 267,292 | 1,955,186 | 459,038 | 3,585,104 | 7,218,722
+Gain on asset dispositions, net | 6,600 | — | 22,495 | 5,000 | — | 34,095
+Income (loss) from operations | 3,377,580 | 2,642,709 | 1,911,730 | 1,414,367 | (3,585,104) | 5,761,282
+Interest income | 45,787 | 190,772 | 175,407 | 1 | 225,565 | 637,532
+Interest expense | — | — | (901) | — | — | (901)
+Income (loss) from affiliates | — | — | — | (935) | 81,249 | 80,314
+Other | 19,797 | 3,651 | 70,998 | 90 | (254) | 94,282
+Other income (loss), net | 65,584 | 194,423 | 245,504 | (844) | 306,560 | 811,227
+Income (loss) before income taxes | 3,443,164 | 2,837,132 | 2,157,234 | 1,413,523 | (3,278,544) | 6,572,509
+Provision for income taxes | — | — | 492,401 | 334,608 | — | 827,009
+Net income (loss) from continuing operations | 3,443,164 | 2,837,132 | 1,664,833 | 1,078,915 | (3,278,544) | 5,745,500
+Income from continuing operations attributable to non-controlling interests | — | 175,936 | — | — | — | 175,936
+Net income (loss) from continuing operations attributable to Consolidated Water Co. Ltd. stockholders | $ | 3,443,164 | $ | 2,661,196 | $ | 1,664,833 | $ | 1,078,915 | $ | (3,278,544) | 5,569,564
+Net loss from discontinued operations | (37,220)
+Net income attributable to Consolidated Water Co. Ltd. stockholders | $ | 5,532,344
+5
+First Nine Months Segment Results
+Nine Months Ended September 30, 2026
+Retail | Bulk | Services | Manufacturing | Corporate | Total
+Revenue | $ | 25,449,695 | $ | 28,817,225 | $ | 32,597,525 | $ | 6,902,154 | $ | — | $ | 93,766,599
+Cost of revenue | 11,475,671 | 19,217,646 | 26,552,727 | 4,823,090 | — | 62,069,134
+Gross profit | 13,974,024 | 9,599,579 | 6,044,798 | 2,079,064 | — | 31,697,465
+General and administrative expenses | 2,798,587 | 1,205,190 | 4,839,719 | 1,529,557 | 11,918,693 | 22,291,746
+Gain (loss) on asset dispositions, net | (54,093) | — | 19,279 | (100,057) | — | (134,871)
+Income (loss) from operations | 11,121,344 | 8,394,389 | 1,224,358 | 449,450 | (11,918,693) | 9,270,848
+Interest income | 115,166 | 379,033 | 703,489 | 2 | 570,655 | 1,768,345
+Interest expense | — | — | (3,228) | — | (8,091) | (11,319)
+Income (loss) from affiliates | — | — | — | (9,062) | 203,324 | 194,262
+Other | 67,318 | 19,614 | 685 | 7,618 | 150 | 95,385
+Other income (loss), net | 182,484 | 398,647 | 700,946 | (1,442) | 766,038 | 2,046,673
+Income (loss) before income taxes | 11,303,828 | 8,793,036 | 1,925,304 | 448,008 | (11,152,655) | 11,317,521
+Provision for income taxes | — | — | 542,043 | 55,668 | — | 597,711
+Net income (loss) from continuing operations | 11,303,828 | 8,793,036 | 1,383,261 | 392,340 | (11,152,655) | 10,719,810
+Income from continuing operations attributable to non-controlling interests | — | 478,122 | — | — | — | 478,122
+Net income (loss) from continuing operations attributable to Consolidated Water Co. Ltd. stockholders | $ | 11,303,828 | $ | 8,314,914 | $ | 1,383,261 | $ | 392,340 | $ | (11,152,655) | 10,241,688
+Net loss from discontinued operations | (210,243)
+Net income attributable to Consolidated Water Co. Ltd. stockholders | $ | 10,031,445
+Nine Months Ended September 30, 2025
+Retail | Bulk | Services | Manufacturing | Corporate | Total
+Revenue | $ | 25,819,712 | $ | 25,081,146 | $ | 35,815,785 | $ | 15,708,527 | $ | — | $ | 102,425,170
+Cost of revenue | 10,929,083 | 16,807,609 | 26,563,654 | 10,040,643 | — | 64,340,989
+Gross profit | 14,890,629 | 8,273,537 | 9,252,131 | 5,667,884 | — | 38,084,181
+General and administrative expenses | 2,726,531 | 1,008,123 | 6,143,566 | 1,653,668 | 10,991,031 | 22,522,919
+Gain on asset dispositions, net | 37,416 | — | 52,131 | 5,000 | — | 94,547
+Income (loss) from operations | 12,201,514 | 7,265,414 | 3,160,696 | 4,019,216 | (10,991,031) | 15,655,809
+Interest income | 123,702 | 622,345 | 580,061 | 3 | 685,003 | 2,011,114
+Interest expense | — | — | (3,614) | — | — | (3,614)
+Income (loss) from affiliates | — | — | — | (35,198) | 198,265 | 163,067
+Other | 55,500 | 25,526 | 69,038 | 254 | (585) | 149,733
+Other income (loss), net | 179,202 | 647,871 | 645,485 | (34,941) | 882,683 | 2,320,300
+Income (loss) before income taxes | 12,380,716 | 7,913,285 | 3,806,181 | 3,984,275 | (10,108,348) | 17,976,109
+Provision for income taxes | — | — | 870,688 | 962,245 | — | 1,832,933
+Net income (loss) from continuing operations | 12,380,716 | 7,913,285 | 2,935,493 | 3,022,030 | (10,108,348) | 16,143,176
+Income from continuing operations attributable to non-controlling interests | — | 470,741 | — | — | — | 470,741
+Net income (loss) from continuing operations attributable to Consolidated Water Co. Ltd. stockholders | $ | 12,380,716 | $ | 7,442,544 | $ | 2,935,493 | $ | 3,022,030 | $ | (10,108,348) | 15,672,435
+Net loss from discontinued operations | (252,857)
+Net income attributable to Consolidated Water Co. Ltd. stockholders | $ | 15,419,578
+The following table presents the company’s revenue disaggregated by revenue source.
+Three Months Ended September 30, | Nine Months Ended September 30,
+2026 | 2025 | 2026 | 2025
+Retail revenue | $ | 8,211,690 | $ | 7,770,344 | $ | 25,449,695 | $ | 25,819,712
+Bulk revenue | 10,138,396 | 8,394,614 | 28,817,225 | 25,081,146
+Services revenue | 9,760,608 | 14,289,315 | 32,597,525 | 35,815,785
+Manufacturing revenue | 2,811,843 | 4,664,433 | 6,902,154 | 15,708,527
+Total revenue | $ | 30,922,537 | $ | 35,118,706 | $ | 93,766,599 | $ | 102,425,170
+6
+Services revenue consists of the following:
+Three Months Ended September 30, | Nine Months Ended September 30,
+2026 | 2025 | 2026 | 2025
+Construction revenue | $ | 3,483,375 | $ | 6,360,333 | $ | 10,922,555 | $ | 11,404,500
+Operations and maintenance revenue | 6,100,605 | 7,715,000 | 21,033,065 | 23,695,704
+Design and consulting revenue | 176,628 | 213,982 | 641,905 | 715,581
+Total services revenue | $ | 9,760,608 | $ | 14,289,315 | $ | 32,597,525 | $ | 35,815,785
+Conference Call
+Consolidated Water management will host a conference call tomorrow to discuss these results, followed by a question-and-answer period.
+Date: Tuesday, November 10, 2026
+Time: 11:00 a.m. Eastern time (8:00 a.m. Pacific time)
+Toll-free dial-in number: 1-844-875-6913
+International dial-in number: 1-412-317-6709
+Participant web phone: click here
+Please call the conference telephone number five minutes prior to the start time. An operator will register your name and organization. If you require any assistance connecting with the call, please contact Encore at 1-949-432-7450.
+A replay of the call will be available after 1:00 p.m. Eastern time on the same day through November 17, 2026, as well as available for replay via the Investors section of the Consolidated Water website at www.cwco.com.
+Toll-free replay number: 1-855-669-9658
+International replay number: 1-412-317-0088
+Replay ID: 5866966
+About Consolidated Water Co. Ltd.
+Consolidated Water Co. Ltd. develops and operates advanced water treatment plants and water distribution systems. The company designs, constructs and operates seawater desalination facilities in the Cayman Islands, The Bahamas and the British Virgin Islands, and designs, constructs and operates water treatment and reuse facilities in the United States.
+The company also manufactures and services a wide range of products and provides design, engineering, management, operating and other services applicable to commercial and municipal water production, supply and treatment, and industrial water and wastewater treatment.
+For more information, visit cwco.com.
+Cautionary Note Regarding Forward-Looking Statements
+This press release includes statements that may constitute "forward-looking" statements, usually containing the words "believe", "estimate", "project", "intend", "expect", "should", "will" or similar expressions. These forward-looking statements include, but are not limited to, statements regarding the anticipated construction schedule and completion of the Kalaeloa desalination facility; the effect of permitting delays on
+7
+that schedule; the company’s and the Honolulu Board of Water Supply’s efforts to mitigate those delays; the company’s ability to perform its design, build, operate and maintain obligations with respect to the Kalaeloa facility, including the anticipated 20-year operating term and any exercise of the related extension options; the company’s ability to design, fabricate and deliver the Florida purchase orders on the anticipated schedule, including by November 2027; expected 2026 and 2027 manufacturing revenue; the outcome of pending bids and anticipated future bid opportunities; the anticipated schedule for, and the company’s performance under, the City of Pismo Beach design-build agreement; and the expected effects of the new Cayman Water retail license on the company’s retail revenue and operating income. These forward-looking statements are made pursuant to the safe harbor provisions of the Private Securities Litigation Reform Act of 1995. Forward-looking statements inherently involve risks and uncertainties that could cause actual results to differ materially from the forward-looking statements. Factors that would cause or contribute to such differences include, but are not limited to, (i) continued acceptance of the company's products and services in the marketplace; (ii) changes in its relationships with the governments and clients of the jurisdictions in which it operates; (iii) the timing and outcome of permitting and other regulatory approvals affecting the Kalaeloa facility; (iv) the company’s ability to procure equipment and perform its contractual obligations on the anticipated timeline and budget, including with respect to the Kalaeloa facility, the Pismo Beach design-build agreement and the Florida purchase orders; (v) the collection of its delinquent accounts receivable in The Bahamas; (vi) future rate determinations by the Utility Regulation and Competition Office and Cayman Water’s compliance with the terms of its retail license; (vii) cost overruns and liquidated damages under fixed-price contracts; and (viii) various other risks such as economic, operational, and industry-specific risks, as detailed in the company's periodic report filings with the Securities and Exchange Commission (“SEC”). For more information about risks and uncertainties associated with the company’s business, please refer to the “Management’s Discussion and Analysis of Financial Condition and Results of Operations” and “Risk Factors” sections of the company’s SEC filings, including, but not limited to, its annual report on Form 10-K and quarterly reports on Form 10-Q, copies of which may be obtained by contacting the company’s Secretary at the company’s executive offices or at the “Investors – SEC Filings” page of the company’s website at ir.cwco.com/docs. Except as otherwise required by law, the company undertakes no obligation to update or revise publicly any forward-looking statements, whether as a result of new information, future events or otherwise.
+Company Contact:
+David W. Sasnett
+Executive Vice President and CFO
+Tel (954) 509-8200
+Email Contact
+Investor & Media Contact:
+Ron Both or Grant Stude
+Encore Investor Relations
+Tel (949) 432-7450
+Email Contact
+8
+CONSOLIDATED WATER CO. LTD.
+CONDENSED CONSOLIDATED BALANCE SHEETS
+September 30, | December 31,
+2026 | 2025
+(Unaudited)
+ASSETS
+Current assets
+Cash and cash equivalents | $ | 129,150,692 | $ | 123,788,390
+Accounts receivable, net | 32,249,730 | 32,768,537
+Inventory | 5,943,853 | 3,736,845
+Prepaid expenses and other current assets | 6,591,268 | 5,927,675
+Contract assets | 2,434,620 | 3,290,815
+Current assets of discontinued operations | 139,315 | 124,630
+Total current assets | 176,509,478 | 169,636,892
+Property, plant and equipment, net | 58,663,871 | 55,151,758
+Construction in progress | 4,300,489 | 6,695,656
+Inventory, noncurrent | 5,751,769 | 5,563,142
+Investment in affiliates | 1,191,736 | 1,186,849
+Goodwill | 12,861,404 | 12,861,404
+Intangible assets, net | 1,884,276 | 2,101,555
+Operating lease right-of-use assets | 2,562,762 | 2,930,441
+Other assets | 1,032,998 | 1,437,648
+Total assets | $ | 264,758,783 | $ | 257,565,345
+LIABILITIES AND EQUITY
+Current liabilities
+Accounts payable, accrued expenses and other current liabilities | $ | 10,340,948 | $ | 9,620,880
+Accrued compensation | 3,490,382 | 3,039,142
+Dividends payable | 2,289,216 | 2,285,317
+Current maturities of operating leases | 781,019 | 661,047
+Current portion of long-term debt | — | 47,549
+Contract liabilities | 14,211,398 | 11,528,634
+Deferred revenue | 62,937 | 248,719
+Current liabilities of discontinued operations | 277,497 | 271,159
+Total current liabilities | 31,453,397 | 27,702,447
+Long-term debt, noncurrent | — | 25,954
+Deferred tax liabilities | 568,397 | 707,444
+Noncurrent operating leases | 1,805,606 | 2,297,161
+Other liabilities | 78,000 | 153,000
+Total liabilities | 33,905,400 | 30,886,006
+Commitments and contingencies
+Equity
+Consolidated Water Co. Ltd. stockholders' equity
+Redeemable preferred stock, $0.60 par value. Authorized 200,000 shares; issued and outstanding 35,580 and 39,507 shares, respectively | 21,348 | 23,704
+Common stock, $0.60 par value. Authorized 49,800,000 and 24,800,000 shares, respectively; issued and outstanding 16,015,573 and 15,945,233 shares, respectively | 9,609,344 | 9,567,140
+Additional paid-in capital | 96,495,857 | 95,310,630
+Retained earnings | 120,041,877 | 116,749,048
+Total Consolidated Water Co. Ltd. stockholders' equity | 226,168,426 | 221,650,522
+Non-controlling interests | 4,684,957 | 5,028,817
+Total equity | 230,853,383 | 226,679,339
+Total liabilities and equity | $ | 264,758,783 | $ | 257,565,345
+9
+CONSOLIDATED WATER CO. LTD.
+CONDENSED CONSOLIDATED STATEMENTS OF INCOME
+(UNAUDITED)
+Three Months Ended September 30, | Nine Months Ended September 30,
+2026 | 2025 | 2026 | 2025
+Revenue | $ | 30,922,537 | $ | 35,118,706 | $ | 93,766,599 | $ | 102,425,170
+Cost of revenue | 21,104,474 | 22,172,797 | 62,069,134 | 64,340,989
+Gross profit | 9,818,063 | 12,945,909 | 31,697,465 | 38,084,181
+General and administrative expenses | 7,629,656 | 7,218,722 | 22,291,746 | 22,522,919
+Gain (loss) on asset dispositions, net | (101,985) | 34,095 | (134,871) | 94,547
+Income from operations | 2,086,422 | 5,761,282 | 9,270,848 | 15,655,809
+Other income (expense):
+Interest income | 475,532 | 637,532 | 1,768,345 | 2,011,114
+Interest expense | (8,104) | (901) | (11,319) | (3,614)
+Equity in the earnings of affiliates | 81,232 | 80,314 | 194,262 | 163,067
+Other | 27,808 | 94,282 | 95,385 | 149,733
+Other income, net | 576,468 | 811,227 | 2,046,673 | 2,320,300
+Income before income taxes | 2,662,890 | 6,572,509 | 11,317,521 | 17,976,109
+Provision for income taxes | 127,265 | 827,009 | 597,711 | 1,832,933
+Net income from continuing operations | 2,535,625 | 5,745,500 | 10,719,810 | 16,143,176
+Income from continuing operations attributable to non-controlling interests | 151,728 | 175,936 | 478,122 | 470,741
+Net income from continuing operations attributable to Consolidated Water Co. Ltd. stockholders | 2,383,897 | 5,569,564 | 10,241,688 | 15,672,435
+Net loss from discontinued operations | (61,627) | (37,220) | (210,243) | (252,857)
+Net income attributable to Consolidated Water Co. Ltd. stockholders | $ | 2,322,270 | $ | 5,532,344 | $ | 10,031,445 | $ | 15,419,578
+Basic earnings (loss) per common share attributable to Consolidated Water Co. Ltd. common stockholders
+Continuing operations | $ | 0.15 | $ | 0.35 | $ | 0.64 | $ | 0.98
+Discontinued operations | (0.00) | (0.00) | (0.01) | (0.01)
+Basic earnings per share | $ | 0.14 | $ | 0.35 | $ | 0.63 | $ | 0.97
+Diluted earnings (loss) per common share attributable to Consolidated Water Co. Ltd. common stockholders
+Continuing operations | $ | 0.15 | $ | 0.34 | $ | 0.64 | $ | 0.97
+Discontinued operations | (0.00) | (0.00) | (0.01) | (0.01)
+Diluted earnings per share | $ | 0.14 | $ | 0.34 | $ | 0.62 | $ | 0.96
+Dividends declared per common and redeemable preferred shares | $ | 0.14 | $ | 0.14 | $ | 0.42 | $ | 0.39
+Weighted average number of common shares used in the determination of:
+Basic earnings per share | 16,010,729 | 15,924,851 | 16,003,706 | 15,919,167
+Diluted earnings per share | 16,115,520 | 16,054,557 | 16,110,340 | 16,047,312
+10

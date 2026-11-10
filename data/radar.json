@@ -152,6 +152,15 @@
       "results_filings": 201,
       "new": 201,
       "offline": false
+    },
+    {
+      "run_at": "2026-11-11T06:15:46+08:00",
+      "start": "2026-11-09",
+      "end": "2026-11-09",
+      "hits": 215,
+      "results_filings": 204,
+      "new": 5,
+      "offline": false
     }
   ],
   "filings": {
@@ -44471,7 +44480,85 @@
       ],
       "filing_url": "https://www.sec.gov/Archives/edgar/data/1937653/000193765326000067/0001937653-26-000067-index.htm",
       "first_seen": "2026-11-10T06:09:26+08:00"
+    },
+    "0001104659-26-124594": {
+      "accession": "0001104659-26-124594",
+      "file_date": "2026-11-09",
+      "company": "Consolidated Water Co. Ltd.",
+      "tickers": [
+        "CWCO"
+      ],
+      "cik": "928340",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/928340/000110465926124594/0001104659-26-124594-index.htm",
+      "first_seen": "2026-11-11T06:15:46+08:00"
+    },
+    "0001104659-26-124601": {
+      "accession": "0001104659-26-124601",
+      "file_date": "2026-11-09",
+      "company": "Lafayette Square USA, Inc.",
+      "tickers": [],
+      "cik": "1849089",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1849089/000110465926124601/0001104659-26-124601-index.htm",
+      "first_seen": "2026-11-11T06:15:46+08:00"
+    },
+    "0001213900-26-117631": {
+      "accession": "0001213900-26-117631",
+      "file_date": "2026-11-09",
+      "company": "Solidion Technology Inc.",
+      "tickers": [
+        "STI"
+      ],
+      "cik": "1881551",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1881551/000121390026117631/0001213900-26-117631-index.htm",
+      "first_seen": "2026-11-11T06:15:46+08:00"
+    },
+    "0001104659-26-124599": {
+      "accession": "0001104659-26-124599",
+      "file_date": "2026-11-09",
+      "company": "UR-ENERGY INC",
+      "tickers": [
+        "URG"
+      ],
+      "cik": "1375205",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1375205/000110465926124599/0001104659-26-124599-index.htm",
+      "first_seen": "2026-11-11T06:15:46+08:00"
+    },
+    "0001779474-26-000039": {
+      "accession": "0001779474-26-000039",
+      "file_date": "2026-11-09",
+      "company": "WM TECHNOLOGY, INC.",
+      "tickers": [
+        "MAPS"
+      ],
+      "cik": "1779474",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1779474/000177947426000039/0001779474-26-000039-index.htm",
+      "first_seen": "2026-11-11T06:15:46+08:00"
     }
   },
-  "updated_at": "2026-11-10T06:09:26+08:00"
+  "updated_at": "2026-11-11T06:15:46+08:00"
 }

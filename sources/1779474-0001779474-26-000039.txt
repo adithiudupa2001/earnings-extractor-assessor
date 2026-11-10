@@ -1,0 +1,196 @@
+Company: WM TECHNOLOGY, INC. (CIK 1779474)
+Accession: 0001779474-26-000039
+Results released: 2026-11-09
+Press release: https://www.sec.gov/Archives/edgar/data/1779474/000177947426000039/wmtechnologyincearningsrel.htm
+Filing: https://www.sec.gov/Archives/edgar/data/1779474/000177947426000039/0001779474-26-000039-index.htm
+Saved: 2026-11-11T06:15:46+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 wmtechnologyincearningsrel.htm EX-99.1
+Exhibit 99.1
+WM Technology, Inc. Reports Third Quarter 2026 Financial Results
+Irvine, Calif.--(BUSINESS WIRE)--November 9, 2026-- WM Technology, Inc. (“WM Technology” or the “Company”) (OTC: MAPS), a leading marketplace and technology solutions provider to the cannabis industry, today announced its financial results for the third quarter ended September 30, 2026.
+“During the third quarter, we saw decreases in revenue and Adjusted EBITDA, as well as increased cash utilization,” said Susan Echard, Chief Financial Officer of WM Technology. “Revenue was primarily impacted by client payment difficulties. A significant portion of our operating expenses and cash spend went toward increased marketing spend, while the remainder primarily covered one-time expenses, including a securities litigation settlement and severance costs associated with our workforce reduction in the third quarter.”
+“We have continued to focus on collections and stepped up our efforts to terminate clients when they are late with payments. While this had an impact on our top line during the quarter, we made this deliberate decision with the long-term health of our business in mind. We expect some of the clients who churned or decreased their spend during the quarter to return because of the importance of our platform to their businesses. Though we continue to see softness in challenged markets like Michigan, Colorado, and Oklahoma due to heavy regulation and price compression, our marketing momentum in these regions remains strong, and we believe the revenue will follow.”
+“Optically, our third-quarter results reflect near-term pressures, but operationally, it was a successful quarter that we believe has laid the foundation for future growth,” said Doug Francis, Chief Executive Officer of WM Technology.
+“Improvements to our digital marketing strategies in the third quarter presented us with opportunities to attract more consumers to the platform, and so we meaningfully increased our user acquisition budget. These strategies have been successful at driving key elements of our value proposition to clients, and we believe that this will lead to revenue growth. Additionally, we are launching a new sponsored ad product for brands this month. We anticipate this product will contribute to revenue shortly after launch.”
+“As we look toward 2027, our corporate governance and strategic footprint are evolving to match our ambitions. Earlier this year, we voluntarily delisted from Nasdaq and announced our intention to deregister as an SEC reporting company. We expect that the transition away from public reporting will reduce our administrative overhead and compliance costs, and more importantly, grant us the operating latitude to execute our long-term strategy.”
+“We believe this regulatory and structural freedom will directly support our strategic expansion deeper into the cannabis supply chain. Following our Nasdaq delisting, we established a clear roadmap for our growth strategy. We are being highly disciplined and targeting best-in-class assets that we believe will generate positive cash flow at reasonable multiples. We have identified some potential targets who we think may fit this profile and we plan to continue to evaluate other potential strategic transactions and opportunities.”
+“We are playing the long game. We believe that the foundational work we completed in the third quarter—cleaning up our client base, optimizing our user acquisition costs, and finalizing our strategic expansion infrastructure—positions us incredibly well for the next phase of our growth.”
+Third Quarter 2026 Financial Highlights
+•Revenues for the third quarter ended September 30, 2026 were $38.5 million as compared to $42.2 million in the prior year period. The overall decrease in revenues from the prior year period was primarily driven by decreases in revenues across core markets, reflecting a challenging operating environment for certain of our customers who have faced margin compression and cash flow constraints affecting spending.
+◦Average monthly paying clients(1) of 4,899 was down from 5,221 from the prior year period, largely due to churn in more established markets, partially offset by new client acquisitions across certain developing markets.
+1
+◦Average monthly revenues per paying client(2) decreased to $2,618 from $2,693 in the prior year period, due to spend declines in established markets driven by continued industry challenges, such as price deflation and ongoing consolidation, partially offset by the churn of lower-spending clients, which raised the average across our remaining clients.
+•Net loss was $5.9 million as compared to net income of $3.6 million in the prior year.
+•Adjusted EBITDA(3) was $0.8 million as compared to $7.6 million in the prior year.
+•Total shares outstanding across Class A and Class V Common Stock were 161.1 million as of September 30, 2026.
+•Cash and cash equivalents totaled $51.0 million as of September 30, 2026, as compared to $62.4 million as of December 31, 2025.
+Reconciliations of GAAP to non-GAAP financial measures have been provided in the tables below.
+______________________________
+1.Average monthly paying clients are defined as the average of the number of paying clients billed in a month across a particular period (and for which services were provided).
+2.Average monthly revenues per paying client is defined as the average monthly revenues for any particular period divided by the average monthly paying clients in the same respective period.
+3.For further information about how we calculate EBITDA and Adjusted EBITDA as well as limitations of their use and a reconciliation of EBITDA and Adjusted EBITDA to net income, see “Reconciliation of Net Income (Loss) to EBITDA and Adjusted EBITDA” below.
+Business Outlook
+Based on information available as of November 9, 2026, the Company expects fourth quarter 2026 revenue to decline by a low-single digit percentage compared with the third quarter. The guidance provided above is only an estimate of what we believe is realizable as of the date of this release. This guidance assumes that no business acquisitions, investments, restructurings, or legal settlements are concluded in the period. Our guidance is based on assumptions that we believe to be reasonable as of this date, but may be materially affected by many factors, as discussed below in “Forward-Looking Statements.” Actual results may vary from the guidance and the variations may be material. We undertake no intent or obligation to publicly update or revise any of these projections, whether as a result of new information, future events or otherwise, except as required by law.
+About WM Technology
+Founded in 2008, and headquartered in Irvine, California, WM Technology, Inc. operates a leading online cannabis marketplace for consumers together with a comprehensive set of commerce and compliant advertising solutions for cannabis businesses, which are sold to both storefront locations and delivery operators (“retailers”) and brands in the legalized cannabis markets in states and territories of the United States. WM Technology holds a strong belief in the power of cannabis and the importance of enabling safe, legal access to consumers worldwide.
+Over the past 18 years, the Weedmaps marketplace has become a premier destination for cannabis consumers to discover and browse cannabis-related products, access daily dispensary deals, order ahead for pick-up and delivery by participating retailers (where applicable) and learn about the plant. The Company also offers commerce and compliant advertising solutions designed to help cannabis retailers and brands reach consumers, create business efficiency, and manage industry-specific compliance needs.
+The Company is committed to advocating for full U.S. legalization, industry-wide social equity, and continued education about the plant through key partnerships and cannabis subject matter experts. Visit us at www.weedmaps.com.
+Forward-Looking Statements
+This press release includes “forward-looking statements” regarding the Company’s future business expectations which involve risks and uncertainties. Forward-looking statements may be identified by the use of words such as “estimate,” “plan,” “project,” “forecast,” “intend,” “will,” “expect,” “anticipate,” “believe,” “seek,” “target” or other similar expressions that predict or indicate future events or trends or that are not statements of historical matters. These forward-looking statements include, but are not limited to, statements regarding estimates and forecasts of financial performance for the fourth quarter of 2026. These statements are based on various assumptions, whether or not identified in this press release, and on the current expectations of the Company’s management and are not predictions of actual performance. These forward-looking statements are provided for illustrative purposes only and are not intended to serve as, and must not be relied on by any investor as, a guarantee, an assurance, a prediction or a definitive statement of fact or probability. Actual events and circumstances are difficult or impossible to predict and will differ from assumptions. Many actual events and circumstances are beyond the control of the Company. These forward-looking statements are subject to a number of risks and uncertainties, including those related to market reactions or impacts resulting from the Company’s delisting of its securities from the Nasdaq Stock Market LLC and deregistration of its securities under Section 12(b) of the Securities Exchange Act of 1934, including the impact on the
+2
+Company’s liquidity and the price of its securities; the Company’s ability to maintain its listing on the OTC Markets Group, Inc. (“OTC”); the possibility that trading in the Company’s securities on the OTC markets may be significantly less liquid and/or have greater price volatility; the Company’s financial and business performance, including key business metrics and any underlying assumptions thereunder; market opportunity and the Company’s ability to acquire new clients and retain existing clients; expectations and timing related to commercial product launches; success of the Company’s go-to-market strategy; the Company’s ability to scale its business and expand its offerings; the Company’s competitive advantages and growth strategies; the Company’s future capital requirements and sources and uses of cash; the impact of the material weaknesses in the Company’s internal controls and ability to remediate these material weaknesses in the timing the Company anticipates, or at all; the outcome of any known and unknown litigation and regulatory proceedings; changes in domestic and foreign business, market, financial, political and legal conditions; the effect of macroeconomic conditions, including but not limited to inflation, tariffs, public health crises, uncertain credit and global financial markets, past and potential future disruptions in access to bank deposits or lending commitments due to bank failures, current and potential future geopolitical events and military conflicts, and the occurrence of a catastrophic event, including but not limited to severe weather, war, or terrorist attack; future global, regional or local economic and market conditions affecting the cannabis industry; the development, effects and enforcement of and changes to laws and regulations, including with respect to the cannabis and hemp industries; the Company’s ability to successfully capitalize on new and existing cannabis markets, including its ability to successfully monetize its solutions in those markets; the anticipated benefits of the Company’s reduction in force completed during the third quarter of 2026; the Company’s ability to manage future growth; the Company’s ability to effectively anticipate and address changes in the end-user market in the cannabis industry; the Company’s ability to develop new products and solutions, bring them to market in a timely manner, and make enhancements to its platform; the Company’s ability to maintain and grow its two-sided marketplace, including its ability to acquire and retain paying clients; the Company’s ability to continue to collect on outstanding receivables; the Company’s ability to realize the expected benefits of any strategic acquisitions; the effects of competition on the Company’s future business; the Company’s success in retaining or recruiting, or changes required in, officers, key employees or directors; cyber-attacks and security vulnerabilities; the possibility that the Company may be adversely affected by other economic, business or competitive factors and those factors discussed in the Company’s Annual Report on Form 10-K for the fiscal year ended December 31, 2025, filed with the SEC on March 12, 2026 and subsequent Quarterly Reports on Form 10-Q filed with the SEC. If any of these risks materialize or these assumptions prove incorrect, actual results could differ materially from the results implied by these forward-looking statements. There may be additional risks that the Company does not presently know or that the Company currently believes are immaterial that could also cause actual results to differ from those contained in the forward-looking statements. In addition, forward-looking statements reflect the Company’s expectations, plans or forecasts of future events and views as of the date of this press release. The Company anticipates that subsequent events and developments will cause the Company’s assessments to change. However, while the Company may elect to update these forward-looking statements at some point in the future, the Company specifically disclaims any obligation to do so, except as required by law. These forward-looking statements should not be relied upon as representing the Company’s assessments as of any date subsequent to the date of this press release. Accordingly, undue reliance should not be placed upon the forward-looking statements.
+Use of Non-GAAP Financial Measures
+Our financial statements, including net income, are prepared in accordance with principles generally accepted in the United States of America (“GAAP”).
+To provide investors with additional information regarding our financial results, we have disclosed EBITDA and Adjusted EBITDA, both of which are non-GAAP financial measures that we calculate as net income (loss) before interest, taxes and depreciation and amortization expense in the case of EBITDA and further adjusted to exclude stock-based compensation, change in fair value of warrant liability, legal costs and other non-recurring charges, reduction in force expense, loss contingency, sale of domains, change in the TRA liability and other non-cash, unusual and/or infrequent costs in the case of Adjusted EBITDA. Below we have provided a reconciliation of net income (the most directly comparable GAAP financial measure) to EBITDA; and from EBITDA to Adjusted EBITDA.
+We present EBITDA and Adjusted EBITDA because these metrics are key measures used by our management to evaluate our operating performance, generate future operating plans and make strategic decisions regarding the allocation of investment capacity. Accordingly, we believe that EBITDA and Adjusted EBITDA provide useful information to investors and others in understanding and evaluating our operating results in the same manner as our management.
+Each of EBITDA and Adjusted EBITDA has limitations as an analytical tool, and you should not consider any of these non-GAAP financial measures in isolation or as a substitute for analysis of our results as reported under GAAP. Some of these limitations are as follows:
+3
+•although depreciation and amortization are non-cash charges, the assets being depreciated and amortized may have to be replaced in the future, and EBITDA and Adjusted EBITDA do not reflect cash capital expenditure requirements for such replacements or for new capital expenditure requirements;
+•EBITDA and Adjusted EBITDA do not reflect changes in, or cash requirements for, our working capital needs; and
+•EBITDA and Adjusted EBITDA do not reflect tax payments that may represent a reduction in cash available to us.
+Because of these limitations, you should consider EBITDA and Adjusted EBITDA alongside other financial performance measures, including net income (loss) and our other GAAP results.
+4
+WM TECHNOLOGY, INC. AND SUBSIDIARIES
+CONDENSED CONSOLIDATED BALANCE SHEETS
+(Unaudited)
+(In thousands, except for share data)
+September 30, 2026 | December 31, 2025
+Assets
+Current assets
+Cash and cash equivalents | $ | 50,988 | $ | 62,401
+Accounts receivable, net | 16,088 | 14,619
+Prepaid expenses and other current assets | 6,150 | 7,900
+Total current assets | 73,226 | 84,920
+Property and equipment, net | 25,830 | 24,986
+Goodwill | 61,274 | 61,274
+Intangible assets, net | 1,094 | 1,510
+Right-of-use assets | 10,443 | 12,219
+Other assets | 6,101 | 5,758
+Total assets | $ | 177,968 | $ | 190,667
+Liabilities and Stockholders’ Equity
+Current liabilities
+Accounts payable and accrued expenses | $ | 15,409 | $ | 23,962
+Deferred revenue | 4,830 | 5,499
+Operating lease liabilities, current | 4,378 | 3,922
+Tax receivable agreement liability, current | — | 2,658
+Warrant liability, current | — | 195
+Total current liabilities | 24,617 | 36,236
+Operating lease liabilities, non-current | 19,282 | 22,631
+Total liabilities | 43,899 | 58,867
+Commitments and contingencies
+Stockholders’ equity
+Preferred Stock - $0.0001 par value; 75,000,000 shares authorized; no shares issued and outstanding at September 30, 2026 and December 31, 2025 | — | —
+Class A Common Stock - $0.0001 par value; 1,500,000,000 shares authorized; 113,199,207 shares issued and outstanding at September 30, 2026 and 109,990,343 shares issued and outstanding at December 31, 2025 | 11 | 11
+Class V Common Stock - $0.0001 par value; 500,000,000 shares authorized, 47,852,652 shares issued and outstanding at September 30, 2026 and 47,852,652 shares issued and outstanding at December 31, 2025 | 5 | 5
+Additional paid-in capital | 115,681 | 112,076
+Accumulated other comprehensive loss | (13) | —
+Accumulated deficit | (55,887) | (54,917)
+Total WM Technology, Inc. stockholders’ equity | 59,797 | 57,175
+Non-controlling interests | 74,272 | 74,625
+Total stockholders’ equity | 134,069 | 131,800
+Total liabilities and stockholders’ equity | $ | 177,968 | $ | 190,667
+5
+WM TECHNOLOGY, INC. AND SUBSIDIARIES
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+(Unaudited)
+(In thousands, except for share data)
+Three Months Ended September 30, | Nine Months Ended September 30,
+2026 | 2025 | 2026 | 2025
+Revenues | $ | 38,482 | $ | 42,176 | $ | 124,486 | $ | 131,635
+Costs and expenses
+Cost of revenues (exclusive of depreciation and amortization shown separately below) | 2,269 | 2,118 | 6,997 | 6,639
+Sales and marketing | 12,923 | 11,282 | 32,706 | 30,750
+Product development | 8,007 | 8,131 | 25,006 | 26,363
+General and administrative | 18,137 | 15,618 | 53,818 | 51,561
+Depreciation and amortization | 3,503 | 3,068 | 9,765 | 9,847
+Total costs and expenses | 44,839 | 40,217 | 128,292 | 125,160
+Operating income (loss) | (6,357) | 1,959 | (3,806) | 6,475
+Other income (expenses), net
+Change in fair value of warrant liability | — | (390) | 195 | —
+Change in tax receivable agreement liability | — | 1,550 | — | 460
+Other income | 465 | 535 | 2,328 | 1,381
+Income (loss) before income taxes | (5,892) | 3,654 | (1,283) | 8,316
+Provision for income taxes | 7 | 13 | 40 | 22
+Net income (loss) | (5,899) | 3,641 | (1,323) | 8,294
+Net income (loss) attributable to non-controlling interests | (1,735) | 1,181 | (353) | 2,760
+Net income (loss) attributable to WM Technology, Inc. | $ | (4,164) | $ | 2,460 | $ | (970) | $ | 5,534
+Class A Common Stock:
+Basic income (loss) per share | $ | (0.04) | $ | 0.02 | $ | (0.01) | $ | 0.05
+Diluted income (loss) per share | $ | (0.04) | $ | 0.02 | $ | (0.01) | $ | 0.05
+Class A Common Stock:
+Weighted average basic shares outstanding | 112,174,531 | 107,569,086 | 111,687,280 | 105,797,793
+Weighted average diluted shares outstanding | 112,174,531 | 109,112,744 | 111,687,280 | 108,144,795
+6
+WM TECHNOLOGY, INC. AND SUBSIDIARIES
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+(Unaudited)
+(In thousands)
+Nine Months Ended September 30,
+2026 | 2025
+Cash flows from operating activities
+Net income (loss) | $ | (1,323) | $ | 8,294
+Adjustments to reconcile net income (loss) to net cash provided by operating activities:
+Depreciation and amortization | 9,765 | 9,847
+Change in fair value of warrant liability | (195) | —
+Change in tax receivable agreement liability | — | (460)
+Amortization of right-of-use lease assets | 1,776 | 1,894
+Gain on sale of domain name | (1,000) | —
+Stock-based compensation | 3,796 | 6,369
+Loss contingency | (2,324) | 2,324
+Provision for credit losses | 13,005 | 2,618
+Other reconciling items included in net income | (132) | —
+Changes in operating assets and liabilities:
+Accounts receivable | (14,475) | (3,268)
+Prepaid expenses and other current assets | 1,750 | (798)
+Other assets | (431) | 450
+Accounts payable and accrued expenses | (5,593) | (1,154)
+Deferred revenue | (669) | (319)
+Operating lease liabilities | (2,893) | (2,655)
+Net cash provided by operating activities | 1,057 | 23,142
+Cash flows from investing activities
+Capitalized software and expenditures | (10,807) | (9,359)
+Purchase of marketable securities | (13,472) | —
+Proceeds from sale of marketable securities | 13,591 | —
+Proceeds from sale of domain name | 1,000 | —
+Net cash used in investing activities | (9,688) | (9,359)
+Cash flows from financing activities
+Distributions to non-controlling interests | — | (1,916)
+Proceeds from repayment of related party note | 89 | 183
+Tax receivable agreement payment | (2,659) | (1,422)
+Taxes paid related to net share settlement of equity awards | (212) | (3)
+Net cash used in financing activities | (2,782) | (3,158)
+Net increase (decrease) in cash | (11,413) | 10,625
+Cash – beginning of period | 62,401 | 51,966
+Cash – end of period | $ | 50,988 | $ | 62,591
+7
+WM TECHNOLOGY, INC. AND SUBSIDIARIES
+RECONCILIATION OF NET INCOME (LOSS) TO EBITDA AND ADJUSTED EBITDA
+(Unaudited)
+(In thousands)
+Three Months Ended September 30, | Nine Months Ended September 30,
+2026 | 2025 | 2026 | 2025
+(in thousands)
+Net income (loss) | $ | (5,899) | $ | 3,641 | $ | (1,323) | $ | 8,294
+Provision for income taxes | 7 | 13 | 40 | 22
+Depreciation and amortization expenses | 3,503 | 3,068 | 9,765 | 9,847
+Interest income | (465) | (472) | (1,427) | (1,312)
+EBITDA | (2,854) | 6,250 | 7,055 | 16,851
+Stock-based compensation | 1,273 | 1,551 | 3,796 | 6,369
+Change in fair value of warrant liability | — | 390 | (195) | —
+Legal costs and other non-recurring charges(1) | 326 | 918 | 1,237 | 3,458
+Reduction in force expense(2) | 2,182 | — | 3,063 | 879
+Sale of domains | — | — | (1,000) | —
+Loss contingency(3) | (119) | — | (2,324) | 2,324
+Change in tax receivable agreement liability | — | (1,550) | — | (460)
+Adjusted EBITDA | $ | 808 | $ | 7,559 | $ | 11,632 | $ | 29,421
+1Represents legal and advisory fees related to ongoing litigation related to shareholder derivative actions. See Note 5, “Commitments and Contingencies” to the condensed consolidated financial statements included in our Quarterly Report on Form 10-Q for the period ended September 30, 2026 to be filed with the SEC for additional information.
+2 Represents severance charges related to our reduction in force actions taken by our management. These reduction in force actions are designed to enhance our operational efficiency and align our resources with strategic priorities in our corporate technology, sales and marketing divisions.
+3 Represents loss contingency under the AWS Enterprise minimum commitment obligation. See Note 5, “Commitments and Contingencies” to the condensed consolidated financial statements included in our Quarterly Report on Form 10-Q for the period ended September 30, 2026 to be filed with the SEC for additional information.
+Contacts
+Investor Relations:
+investors@weedmaps.com
+Media Contact:
+press@weedmaps.com
+8
