@@ -1762,5 +1762,125 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/928340/000110465926124594/cwco-ex99d1.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/928340/000110465926124594/0001104659-26-124594-index.htm",
     "saved_at": "2026-11-11T06:15:46+08:00"
+  },
+  {
+    "cik": "1494558",
+    "company": "Ambow Education Holding Ltd.",
+    "accession": "0001213900-26-118002",
+    "release_date": "2026-11-10",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 1.661,
+        "unit": "USD millions",
+        "quote": "Total net revenues | 6,482 | 6,853 | 1,402 | 1,661"
+      },
+      "operating_income": {
+        "value": -0.777,
+        "unit": "USD millions",
+        "quote": "OPERATING LOSS | (162 | ) | (463 | ) | (629 | ) | (777 | )"
+      },
+      "net_income": {
+        "value": -0.773,
+        "unit": "USD millions",
+        "quote": "NET INCOME (LOSS) ATTRIBUTABLE TO ORDINARY SHAREHOLDERS | $ | 1,271 | $ | (495 | ) | $ | (613 | ) | $ | (773 | )"
+      },
+      "diluted_eps": {
+        "value": -0.0135,
+        "unit": "USD per share",
+        "quote": "Diluted income (loss) per share | $ | 0.0222 | $ | (0.0087 | ) | $ | (0.0107 | ) | $ | (0.0135 | )"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says both business lines contributed to revenue growth in the third quarter.",
+        "quote": "Both of our business lines contributed to revenue growth in the third quarter, reflecting continued progress in our education services and technology businesses"
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "Combined selling and marketing and research and development spending rose by $0.2 million in the quarter to support HybriU launches and CES 2027.",
+        "quote": "During the quarter, we increased combined selling and marketing and research and development expenses by $0.2 million to support the commercial launches of HybriU Events On Demand and the AI-Driven Adaptive Course Generator"
+      },
+      {
+        "id": "M3",
+        "topic": "costs",
+        "claim": "Net cash used in operating activities fell by about half year to date, and general and administrative expenses declined again.",
+        "quote": "Year to date, net cash used in operating activities decreased by approximately 50% compared with the same period last year. General and administrative expenses also declined again during the quarter."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO stresses revenue growth in both business lines, strategic investment and improving operating efficiency, and does not mention the wider operating loss."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1494558-0001213900-26-118002.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1494558/000121390026118002/ea031155001ex99-1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1494558/000121390026118002/0001213900-26-118002-index.htm",
+    "saved_at": "2026-11-12T06:08:46+08:00"
+  },
+  {
+    "cik": "1228627",
+    "company": "Opus Genetics, Inc.",
+    "accession": "0001628280-26-072493",
+    "release_date": "2026-11-10",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 1.137,
+        "unit": "USD millions",
+        "quote": "License and collaborations revenue | $ | 1,137"
+      },
+      "operating_income": {
+        "value": -19.247,
+        "unit": "USD millions",
+        "quote": "Loss from operations | (19,247)"
+      },
+      "net_income": {
+        "value": -46.495,
+        "unit": "USD millions",
+        "quote": "Net loss | (46,495)"
+      },
+      "diluted_eps": {
+        "value": -0.46,
+        "unit": "USD per share",
+        "quote": "Basic and diluted | $ | (0.46)"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "other",
+        "claim": "The CEO says the last several months marked tremendous advancement for the leading gene therapy programmes.",
+        "quote": "The last several months have marked a period of tremendous advancement for our leading gene therapy programs"
+      },
+      {
+        "id": "M2",
+        "topic": "outlook",
+        "claim": "Cohort 2 data for OPGx-BEST1 are expected in Q1 2027, with a potential pivotal Phase 3 trial to begin dosing in the second half of 2027.",
+        "quote": "we expect to have data in Q1 2027, followed by dosing in a potential pivotal Phase 3 trial anticipated to begin in the second half of 2027"
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "Management says the company's cash runway reaches into 2029.",
+        "quote": "With our cash runway into 2029, we remain focused on bringing potentially transformative gene therapies to patients with rare inherited retinal diseases"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO speaks of tremendous advancement, positive data and a cash runway into 2029, and does not discuss the larger net loss."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1228627-0001628280-26-072493.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1228627/000162828026072493/ird-20261110xex991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1228627/000162828026072493/0001628280-26-072493-index.htm",
+    "saved_at": "2026-11-12T06:08:46+08:00"
   }
 ]

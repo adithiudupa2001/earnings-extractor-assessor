@@ -1,0 +1,153 @@
+Company: Ambow Education Holding Ltd. (CIK 1494558)
+Accession: 0001213900-26-118002
+Results released: 2026-11-10
+Press release: https://www.sec.gov/Archives/edgar/data/1494558/000121390026118002/ea031155001ex99-1.htm
+Filing: https://www.sec.gov/Archives/edgar/data/1494558/000121390026118002/0001213900-26-118002-index.htm
+Saved: 2026-11-12T06:08:46+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 ea031155001ex99-1.htm PRESS RELEASE OF AMBOW EDUCATION HOLDING LTD., DATED NOVEMBER 10, 2026
+Exhibit 99.1
+FOR IMMEDIATE RELEASE
+Ambow Education Holding Ltd. (NYSE American: AMBO) Announces Third Quarter and First Nine Months of 2026 Financial Results
+Both business lines grew in the quarter; investment in HybriU product launches and go-to-market increased ahead of CES 2027; net cash used in operating activities cut in half year to date
+Key Facts At-a-Glance
+● | Who: Ambow Education Holding Ltd. (NYSE American: AMBO), an AI-driven technology company delivering phygital intelligence solutions for education, enterprise collaboration and live events.
+● | What: Unaudited financial and operating results for the three-month and nine-month periods ended September 30, 2026.
+● | When: Reported November 10, 2026; Quarterly Report on Form 10-Q filed with the SEC the same day.
+● | Revenue: Third quarter net revenues increased 21.4% to $1.7 million from $1.4 million, with educational programs and services and HybriU licensing and sales both up year over year; nine-month net revenues increased 6.2% to $6.9 million from $6.5 million.
+● | Growth Investment: Combined selling and marketing and research and development expenses increased by $0.5 million year over year to $1.6 million for the first nine months of 2026, reflecting continued investment in HybriU product launches, partner channel development, and NewSchool student recruitment initiatives.
+● | Cost Discipline: General and administrative expenses decreased 8.7% to $2.1 million for the first nine months of 2026; net cash used in operating activities decreased by half to $0.7 million from $1.4 million.
+● | Balance Sheet: Cash, restricted cash and short-term investments totaled $6.1 million, with positive working capital of $3.9 million and net assets of $7.9 million as of September 30, 2026; total liabilities decreased to $10.4 million from $12.5 million as of December 31, 2025.
+CUPERTINO, Calif., November 10, 2026 (GLOBE NEWSWIRE) — Ambow Education Holding Ltd. (“Ambow” or the “Company”) (NYSE American: AMBO), an AI-driven technology company delivering phygital intelligence solutions for education, enterprise collaboration and live events, today announced its unaudited financial and operating results for the three-month and nine-month periods ended September 30, 2026.
+Third Quarter and First Nine Months 2026 and Recent Financial and Operating Highlights
+Growth
+● | Net revenues for the third quarter of 2026 increased 21.4% year over year to $1.7 million, with both business lines contributing. Educational programs and services revenue increased to $1.3 million from $1.1 million, and HybriU licensing and sales revenue increased to $0.4 million from $0.3 million.
+● | Net revenues for the first nine months of 2026 increased 6.2% year over year to $6.9 million, led by educational programs and services, which increased to $5.3 million from $5.0 million.
+Subsequent Event
+● | Subsequent to quarter end, Ambow announced that HybriU will exhibit at CES 2027, January 6 through 9, 2027, at Booth #10308 in the Las Vegas Convention Center North Hall, where the Company will demonstrate a working phygital classroom, meeting room and event environment to the channel partners, integrators, enterprises and institutions that deploy and use HybriU.
+“Both of our business lines contributed to revenue growth in the third quarter, reflecting continued progress in our education services and technology businesses,” said Dr. Jin Huang, Chief Executive Officer and Chair of the Board of Ambow Education Holding Ltd.
+“During the quarter, we increased combined selling and marketing and research and development expenses by $0.2 million to support the commercial launches of HybriU Events On Demand and the AI-Driven Adaptive Course Generator, further strengthen HybriU’s positioning as Digital Intelligent Infrastructure, and prepare for CES 2027 in January.
+These strategic investments were supported by continued improvements in operating efficiency. Year to date, net cash used in operating activities decreased by approximately 50% compared with the same period last year. General and administrative expenses also declined again during the quarter. As of September 30, 2026, the Company had $6.1 million in cash, restricted cash and short-term investments.”
+Third Quarter 2026 Financial Results
+Net revenues for the third quarter of 2026 increased by 21.4% to $1.7 million from $1.4 million for the same period of 2025. Educational programs and services revenue increased to $1.3 million from $1.1 million, and HybriU licensing and sales revenue increased to $0.4 million from $0.3 million.
+Gross profit for the third quarter of 2026 was $0.5 million, compared with $0.5 million for the same period of 2025. Gross profit margin was 30.6% for the third quarter of 2026, compared with 35.7% for the third quarter of 2025.
+Operating expenses for the third quarter of 2026 increased by 18.2% to $1.3 million from $1.1 million for the same period of 2025. The increase was attributable to growth investment: selling and marketing expenses increased to $0.4 million from $0.3 million and research and development expenses increased to $0.2 million from $0.1 million, a combined increase of $196 thousand, while general and administrative expenses decreased by $40 thousand to $0.7 million.
+Operating loss for the third quarter of 2026 was $0.8 million, compared with an operating loss of $0.6 million for the same period of 2025. The $148 thousand increase in operating loss reflected the $196 thousand increase in combined selling and marketing and research and development expenses, partially offset by the reduction in general and administrative expenses.
+Net loss attributable to ordinary shareholders for the third quarter of 2026 was $0.8 million, or $0.27 per basic and diluted ADS, compared with a net loss of $0.6 million, or $0.21 per basic and diluted ADS, for the same period of 2025.
+First Nine Months 2026 Financial Results
+Net revenues for the first nine months of 2026 increased by 6.2% to $6.9 million from $6.5 million for the same period of 2025. The increase was primarily due to net revenues generated by educational programs and services, which increased to $5.3 million from $5.0 million. HybriU licensing and sales revenue was $1.5 million in both periods.
+Gross profit for the first nine months of 2026 increased by 3.0% to $3.4 million from $3.3 million for the same period of 2025. Gross profit margin was 50.0% for the first nine months of 2026, compared with 51.1% for the same period of 2025. The change in gross margin was mainly attributable to an increase in academic costs associated with the delivery of educational programs, which exceeded the growth in revenue during the period.
+2
+Operating expenses for the first nine months of 2026 increased by 11.4% to $3.9 million from $3.5 million for the same period of 2025. Selling and marketing expenses increased to $1.0 million from $0.8 million and research and development expenses increased to $0.6 million from $0.3 million, a combined increase of $489 thousand directed to HybriU product launches, go-to-market programs and NewSchool enrollment. General and administrative expenses decreased 8.7% to $2.1 million from $2.3 million. Operating expenses for 2026 also included a $161 thousand non-cash impairment loss on construction in progress recognized in the second quarter.
+Operating loss for the first nine months of 2026 was $0.5 million, compared with an operating loss of $0.2 million for the same period of 2025. The $301 thousand increase in operating loss reflected the $489 thousand increase in combined selling and marketing and research and development expenses and the $161 thousand impairment loss, partially offset by a $236 thousand reduction in general and administrative expenses and a $113 thousand increase in gross profit.
+Net loss attributable to ordinary shareholders for the first nine months of 2026 was $0.5 million, or $0.17 per basic and diluted ADS, compared with net income of $1.3 million, or $0.44 per basic and diluted ADS, for the same period of 2025. Net income for the first nine months of 2025 included a one-time gain on lease settlement of $1.5 million recognized in the second quarter of 2025.
+Balance Sheet and Liquidity
+As of September 30, 2026, Ambow maintained cash resources of $6.1 million, comprising cash and cash equivalents of $2.4 million, restricted cash of $2.7 million and short-term investments of $1.0 million in time deposits. Cash and cash equivalents increased from $0.8 million as of December 31, 2025, as $4.6 million of restricted cash was released during the period. As of September 30, 2026, the Company’s consolidated current assets exceeded its consolidated current liabilities by $3.9 million, and consolidated net assets were $7.9 million.
+Total liabilities decreased to $10.4 million as of September 30, 2026 from $12.5 million as of December 31, 2025, including a reduction in accounts payable to $0.9 million from $1.6 million, while borrowings were unchanged at $3.2 million. Net cash used in operating activities was $0.7 million for the first nine months of 2026, compared with $1.4 million for the same period of 2025.
+The Company’s financial and operating results for the third quarter and first nine months of 2026 are also available in its Quarterly Report on Form 10-Q, filed with the U.S. Securities and Exchange Commission (the “SEC”) at www.sec.gov.
+About Ambow Education Holding Ltd.
+Ambow Education Holding Ltd. (NYSE American: AMBO) is an AI-driven technology company delivering phygital intelligence solutions for education, enterprise collaboration and live events.
+Founded in 2000 and headquartered in Cupertino, California, Ambow develops technologies that connect physical environments, artificial intelligence, digital systems, workflows and institutional knowledge.
+Through HybriU, Ambow enables institutions and professionals to capture, organize, activate and reuse knowledge generated across classrooms, meetings and events, creating intelligence assets that can become more valuable over time.
+For more information, visit www.ambow.com and www.hybriu.com.
+Follow Ambow on X: @Ambow_Education
+Follow Ambow on LinkedIn: Ambow Education Group
+Safe Harbor Statement
+This press release contains statements of a forward-looking nature. These statements are made under the “safe harbor” provisions of the U.S. Private Securities Litigation Reform Act of 1995. You can identify these forward-looking statements by terminology such as “will,” “expects,” “believes,” “anticipates,” “intends,” “estimates” and similar statements. These forward-looking statements involve known and unknown risks and uncertainties and are based on current expectations, assumptions, estimates and projections about Ambow and the industry. Additional information regarding these and other risks is included in the Company’s filings with the SEC. All information provided in this press release is as of the date hereof, and Ambow undertakes no obligation to update any forward-looking statements to reflect subsequent occurring events or circumstances, or changes in its expectations, except as may be required by law. Although Ambow believes that the expectations expressed in these forward-looking statements are reasonable, it cannot assure you that its expectations will turn out to be correct, and investors are cautioned that actual results may differ materially from the anticipated results.
+Investor and Media Contact
+Ambow Education Holding Ltd.
+Email: ir@ambow.com
+3
+AMBOW EDUCATION HOLDING LTD.
+CONDENSED CONSOLIDATED BALANCE SHEETS
+(All amounts in thousands, except for share and per share data)
+As of December 31, | As of September 30,
+2025 | 2026
+(Audited) | (Unaudited)
+ASSETS
+Current assets:
+Cash and cash equivalent | $ | 831 | $ | 2,404
+Restricted cash | 7,260 | 2,700
+Short-term investments | — | 1,000
+Accounts receivable, net | 2,288 | 929
+Inventory | 80 | 380
+Prepaid and other current assets, net | 410 | 456
+Total current assets | 10,869 | 7,869
+Non-current assets:
+Property and equipment, net | 1,984 | 1,747
+Intangible assets, net | 1,662 | 3,302
+Other non-current assets, net | 969 | 834
+Operating lease right-of-use asset | 5,312 | 4,528
+Total non-current assets | 9,927 | 10,411
+Total assets | $ | 20,796 | $ | 18,280
+LIABILITIES
+Current liabilities:
+Short-term borrowings | $ | 500 | $ | 500
+Accounts payable | 1,609 | 902
+Accrued and other liabilities | 1,542 | 1,060
+Income taxes payable, current | 1 | 1
+Operating lease liability, current | 1,285 | 1,506
+Total current liabilities | 4,937 | 3,969
+Non-current liabilities:
+Long-term borrowings | 2,700 | 2,700
+Other non-current liabilities | 167 | —
+Operating lease liability, non-current | 4,742 | 3,761
+Total non-current liabilities | 7,609 | 6,461
+Total liabilities | $ | 12,546 | $ | 10,430
+Commitments and contingencies | — | —
+EQUITY
+Class A Ordinary shares
+($0.003 par value; 66,666,667 and 66,666,667 shares authorized; 52,419,109 and 52,419,109 shares issued and outstanding as of December 31, 2025 and September 30, 2026, respectively) | 146 | 146
+Class C Ordinary shares
+($0.003 par value; 8,333,333 and 8,333,333 shares authorized; 4,708,415 and 4,708,415 shares issued and outstanding as of December 31, 2025 and September 30, 2026, respectively) | 13 | 13
+Additional paid-in capital | 517,185 | 517,280
+Accumulated deficit | (508,966 | ) | (509,461 | )
+Accumulated other comprehensive loss | (128 | ) | (128 | )
+Total equity | 8,250 | 7,850
+Total liabilities and equity | $ | 20,796 | $ | 18,280
+4
+AMBOW EDUCATION HOLDING LTD.
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS AND COMPREHENSIVE INCOME (LOSS)
+(All amounts in thousands, except for share and per share data) (Unaudited)
+For the nine months ended September 30, | For the three months ended September 30,
+2025 | 2026 | 2025 | 2026
+NET REVENUES
+- Educational program and services | $ | 4,976 | $ | 5,332 | $ | 1,074 | $ | 1,258
+- HybriU licensing and sales | 1,506 | 1,521 | 328 | 403
+Total net revenues | 6,482 | 6,853 | 1,402 | 1,661
+COST OF REVENUES
+- Educational program and services | (2,950 | ) | (3,428 | ) | (901 | ) | (1,152 | )
+- HybriU licensing and sales | (220 | ) | — | — | —
+Total cost of revenues | (3,170 | ) | (3,428 | ) | (901 | ) | (1,152 | )
+GROSS PROFIT | 3,312 | 3,425 | 501 | 509
+OPERATING EXPENSES
+Selling and marketing | (778 | ) | (1,018 | ) | (279 | ) | (399 | )
+General and administrative | (2,348 | ) | (2,112 | ) | (706 | ) | (666 | )
+Research and development | (348 | ) | (597 | ) | (145 | ) | (221 | )
+Impairment loss | — | (161 | ) | — | —
+Total operating expenses | (3,474 | ) | (3,888 | ) | (1,130 | ) | (1,286 | )
+OPERATING LOSS | (162 | ) | (463 | ) | (629 | ) | (777 | )
+OTHER (EXPENSE) INCOME
+Interest income (expenses), net | 35 | 2 | 76 | (9 | )
+Other (expenses) income, net | (45 | ) | (6 | ) | (58 | ) | 27
+Gain on lease settlement | 1,492 | — | — | —
+Total other income (expenses), net | 1,482 | (4 | ) | 18 | 18
+INCOME (LOSS) BEFORE INCOME TAX AND NON-CONTROLLING INTERESTS | 1,320 | (467 | ) | (611 | ) | (759 | )
+Income tax expenses | (49 | ) | (28 | ) | (2 | ) | (14 | )
+NET INCOME (LOSS) | $ | 1,271 | $ | (495 | ) | $ | (613 | ) | $ | (773 | )
+NET INCOME (LOSS) ATTRIBUTABLE TO ORDINARY SHAREHOLDERS | $ | 1,271 | $ | (495 | ) | $ | (613 | ) | $ | (773 | )
+OTHER COMPREHENSIVE INCOME, NET OF TAX
+Other comprehensive income | — | — | — | —
+TOTAL COMPREHENSIVE INCOME (LOSS) | 1,271 | (495 | ) | (613 | ) | (773 | )
+Basic income (loss) per share | $ | 0.0222 | $ | (0.0087 | ) | $ | (0.0107 | ) | $ | (0.0135 | )
+Diluted income (loss) per share | $ | 0.0222 | $ | (0.0087 | ) | $ | (0.0107 | ) | $ | (0.0135 | )
+Basic income (loss) per ADS | $ | 0.4440 | $ | (0.1740 | ) | $ | (0.2140 | ) | $ | (0.2700 | )
+Diluted income (loss) per ADS | $ | 0.4440 | $ | (0.1740 | ) | $ | (0.2140 | ) | $ | (0.2700 | )
+Weighted average shares used in calculating basic net income (loss) per share | 57,127,524 | 57,127,524 | 57,127,524 | 57,127,524
+Weighted average shares used in calculating diluted net income (loss) per share | 57,377,554 | 57,127,524 | 57,127,524 | 57,127,524
+Share-based compensation expense included in:
+- Selling and marketing | — | 8 | — | 3
+- General and administrative | — | 37 | — | 12
+- Research and development | — | 50 | — | 17
+5
