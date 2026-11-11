@@ -1,10 +1,10 @@
 {
-  "fetched_at": "2026-11-10T11:46:51+08:00",
+  "fetched_at": "2026-11-11T09:13:14+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
     "start": "2026-11-09",
-    "end": "2026-11-09",
+    "end": "2026-11-10",
     "first_run": false,
     "note": null
   },
@@ -14,131 +14,131 @@
   "sources": [
     {
       "name": "Earnings radar, page 1",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-09&enddt=2026-11-09",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-09&enddt=2026-11-10",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 1214 ms"
+      "detail": "HTTP 200, 60 KB in 140 ms"
     },
     {
       "name": "Earnings radar, page 2",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-09&enddt=2026-11-09&from=100",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-09&enddt=2026-11-10&from=100",
       "ok": true,
-      "detail": "HTTP 200, 60 KB in 569 ms"
+      "detail": "HTTP 200, 60 KB in 125 ms"
     },
     {
       "name": "Earnings radar, page 3",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-09&enddt=2026-11-09&from=200",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-09&enddt=2026-11-10&from=200",
       "ok": true,
-      "detail": "HTTP 200, 13 KB in 1597 ms"
+      "detail": "HTTP 200, 60 KB in 89 ms"
+    },
+    {
+      "name": "Earnings radar, page 4",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-09&enddt=2026-11-10&from=300",
+      "ok": true,
+      "detail": "HTTP 200, 52 KB in 151 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 68 ms"
+      "detail": "HTTP 200, 148 KB in 74 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 16 ms"
+      "detail": "HTTP 200, 156 KB in 39 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 153 KB in 19 ms"
+      "detail": "HTTP 200, 153 KB in 39 ms"
     },
     {
-      "name": "WM TECHNOLOGY, INC. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/1779474/000177947426000039/index.json",
+      "name": "KULR Technology Group, Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1662684/000110465926124826/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 56 ms"
+      "detail": "HTTP 200, 1 KB in 77 ms"
     },
     {
-      "name": "WM TECHNOLOGY, INC. filing index page",
-      "url": "https://www.sec.gov/Archives/edgar/data/1779474/000177947426000039/0001779474-26-000039-index.htm",
+      "name": "KULR Technology Group, Inc. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1662684/000110465926124826/tm2629340d2_ex99-1.htm",
       "ok": true,
-      "detail": "HTTP 200, 10 KB in 29 ms"
+      "detail": "HTTP 200, 27 KB in 89 ms"
     },
     {
-      "name": "WM TECHNOLOGY, INC. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/1779474/000177947426000039/wmtechnologyincearningsrel.htm",
+      "name": "KORU Medical Systems, Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/704440/000116169726000243/index.json",
       "ok": true,
-      "detail": "HTTP 200, 195 KB in 49 ms"
+      "detail": "HTTP 200, 1 KB in 83 ms"
     },
     {
-      "name": "Consolidated Water Co. Ltd. filing index",
-      "url": "https://www.sec.gov/Archives/edgar/data/928340/000110465926124594/index.json",
+      "name": "KORU Medical Systems, Inc. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/704440/000116169726000243/ex_99-1.htm",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 30 ms"
-    },
-    {
-      "name": "Consolidated Water Co. Ltd. press release",
-      "url": "https://www.sec.gov/Archives/edgar/data/928340/000110465926124594/cwco-ex99d1.htm",
-      "ok": true,
-      "detail": "HTTP 200, 924 KB in 70 ms"
+      "detail": "HTTP 200, 120 KB in 68 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,174 KB in 31 ms"
+      "detail": "HTTP 200, 3,174 KB in 66 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 85 ms"
+      "detail": "HTTP 200, 4,447 KB in 115 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 23 ms"
+      "detail": "HTTP 200, 2,745 KB in 117 ms"
     },
     {
-      "name": "WM TECHNOLOGY, INC. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001779474.json",
+      "name": "KULR Technology Group, Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001662684.json",
       "ok": true,
-      "detail": "HTTP 200, 1,046 KB in 18 ms"
+      "detail": "HTTP 200, 1,474 KB in 630 ms"
     },
     {
-      "name": "Consolidated Water Co. Ltd. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000928340.json",
+      "name": "KORU Medical Systems, Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000704440.json",
       "ok": true,
-      "detail": "HTTP 200, 2,777 KB in 519 ms"
+      "detail": "HTTP 200, 1,873 KB in 644 ms"
     },
     {
       "name": "BXP, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001037540.json",
       "ok": true,
-      "detail": "HTTP 200, 4,292 KB in 104 ms"
+      "detail": "HTTP 200, 4,292 KB in 100 ms"
     },
     {
       "name": "CALIX, INC company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001406666.json",
       "ok": true,
-      "detail": "HTTP 200, 2,986 KB in 524 ms"
+      "detail": "HTTP 200, 2,986 KB in 436 ms"
     }
   ],
   "files": [
-    "data.sec.gov_api_xbrl_companyfacts_CIK0000928340.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0000704440.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001018724.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001037540.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001406666.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001779474.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001662684.json",
     "data.sec.gov_submissions_CIK0001018724.json",
     "data.sec.gov_submissions_CIK0001326801.json",
     "data.sec.gov_submissions_CIK0001652044.json",
     "efts.sec.gov_search-index_from0.json",
     "efts.sec.gov_search-index_from100.json",
     "efts.sec.gov_search-index_from200.json",
-    "www.sec.gov_Archives_edgar_data_1779474_000177947426000039_0001779474-26-000039-index.htm",
-    "www.sec.gov_Archives_edgar_data_1779474_000177947426000039_index.json",
-    "www.sec.gov_Archives_edgar_data_1779474_000177947426000039_wmtechnologyincearningsrel.htm",
-    "www.sec.gov_Archives_edgar_data_928340_000110465926124594_cwco-ex99d1.htm",
-    "www.sec.gov_Archives_edgar_data_928340_000110465926124594_index.json"
+    "efts.sec.gov_search-index_from300.json",
+    "www.sec.gov_Archives_edgar_data_1662684_000110465926124826_index.json",
+    "www.sec.gov_Archives_edgar_data_1662684_000110465926124826_tm2629340d2_ex99-1.htm",
+    "www.sec.gov_Archives_edgar_data_704440_000116169726000243_ex_99-1.htm",
+    "www.sec.gov_Archives_edgar_data_704440_000116169726000243_index.json"
   ]
 }
