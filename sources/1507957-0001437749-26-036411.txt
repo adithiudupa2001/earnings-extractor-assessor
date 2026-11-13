@@ -1,0 +1,129 @@
+Company: Ideal Power Inc. (CIK 1507957)
+Accession: 0001437749-26-036411
+Results released: 2026-11-12
+Press release: https://www.sec.gov/Archives/edgar/data/1507957/000143774926036411/ex_1043661.htm
+Filing: https://www.sec.gov/Archives/edgar/data/1507957/000143774926036411/0001437749-26-036411-index.htm
+Saved: 2026-11-14T06:09:25+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 ex_1043661.htm EXHIBIT 99.1
+Exhibit 99.1
+Ideal Power Reports Third Quarter 2026 Financial Results
+AUSTIN, TX – November 12, 2026 -- Ideal Power Inc. (Nasdaq: IPWR) (“Ideal Power,” the “Company,” “we,” “us” or “our”), developer and provider of its innovative and widely patented B-TRAN® bidirectional semiconductor power switch, reports results for its third quarter ended September 30, 2026.
+“Customer engagements expanded as the transition to higher-voltage DC architectures is accelerating demand for solid-state circuit protection,” said David Somo, President and Chief Executive Officer of Ideal Power. “Since the start of the third quarter, we demonstrated an intelligent circuit breaker prototype in collaboration with Power Integrations, commenced shipment of our new B-TRAN® reference design kits (“RDKs”), advanced our initiative with an industry partner for a funded joint engineering study and modeling project to provide a simulation platform for a U.S. hyperscaler, continued advancing our EV opportunity with Stellantis, and progressed new customer engagements across AI data centers and energy infrastructure.”
+Somo continued, “Reflecting on my first year as CEO, we are materially better positioned to advance customer opportunities through the sales funnel and into production orders. We have assembled an experienced semiconductor leadership and engineering team, expanded our sales funnel to approximately $450 million, released new RDKs, signed a long-term supply agreement with a high-volume, automotive-qualified power semiconductor foundry, and strengthened our balance sheet. Our focus remains on converting opportunities across our expanding sales funnel into volume production orders, revenue growth and long-term shareholder value.”
+Key Third Quarter 2026 and Recent Business Highlights
+Execution of our B-TRAN® commercial strategy continues, including:
+● | Announced a collaboration with Power Integrations to develop a self-powered, intelligent, ultra-fast solid-state circuit breaker (“SSCB”) for 800-volt DC data centers. With a working prototype already demonstrated, the collaboration is now progressing to a joint reference design for potential customers that aims to accelerate commercialization across the data center market.
+● | Finalizing a statement of work with a global industrial technology company for an NRE funded 800-volt DC 125-amp SSCB development project that is planned to begin this quarter. The company serves a broad range of markets, including data centers, other industrial applications, and automotive.
+● | Initiated a new engagement with a large potential customer. They are currently evaluating B-TRAN® in an 800-volt DC 63-amp SSCB for integration in battery energy storage systems. This SSCB can also be used for data center applications. With a successful evaluation, this customer intends to demonstrate and promote the solution during its end-of-year customer exhibition.
+● | Finalizing a statement of work for an NRE funded project with an industry partner, with whom we signed an LOI earlier this year, to jointly conduct an engineering study and modeling work that provides a simulation platform for a U.S. hyperscaler. This project is expected to be confirmed and begin in the fourth quarter.
+● | Expanded distribution of our 800-volt SSCB RDK to accelerate product evaluations and potential adoption. Richardson Electronics now stocks the RDK and has begun accepting customer orders, with additional stocking orders from other distributors, as well as direct orders, expected in the coming months.
+● | Continued advancing our solid-state EV contactor opportunity with Stellantis by supporting its evaluation of Gen 2 B-TRAN® custom-packaged samples and development kits and continuing work on system-level specifications. Deliverables completed to date support the next project milestone scheduled for this quarter. We also continue to expand our broader automotive pipeline with additional global automakers and Tier 1 suppliers.
+● | Advanced manufacturing readiness with continued process flow optimization at our high-volume, automotive-qualified semiconductor wafer foundry in Asia, where we achieved functional B-TRAN® first silicon. The foundry has ample capacity to support high-volume industrial and automotive customers at a cost structure we believe supports targeted gross margins at scale. For JEDEC qualification, we are making progress toward completion by the end of the year.
+● | Started to realize the strategic benefits of our newly formed Advisory Board, with its first member, Dr. Sanjai Parthasarathi, contributing to our multi-year strategic planning and facilitating introductions to leading companies in data centers, AI infrastructure, and related technology markets.
+● | B-TRAN® Patent Estate: Currently at 108 issued B-TRAN® patents with 52 of those issued outside of the United States. Current geographic coverage includes North America, China, Taiwan, Japan, South Korea, India, and Europe.
+Third Quarter 2026 Financial Results
+● | Cash and cash equivalents totaled $38.3 million at September 30, 2026.
+● | Cash used in operating and investing activities in the third quarter of 2026 was $2.9 million compared to $2.7 million in the third quarter of 2025.
+● | Cash used in operating and investing activities in the first nine months of 2026 was $7.7 million compared to $7.4 million in the first nine months of 2025.
+● | No long-term debt was outstanding at September 30, 2026.
+● | Operating expenses in the third quarter of 2026 were $3.9 million compared to $3.0 million in the third quarter of 2025 driven primarily by higher personnel costs, stock-based compensation expense, and non-cash patent impairment charges as we rationalized our pending patent portfolio.
+● | Net loss in the third quarter of 2026 was $3.6 million compared to $2.9 million in the third quarter of 2025. Net loss in the first nine months of 2026 was $10.6 million compared to $8.7 million in the first nine months of 2025.
+Conference Call and Webcast: Third Quarter 2026
+The Company will hold a conference call on Thursday, November 12, 2026 at 10:00 AM Eastern Time to discuss its results and host a question-and-answer session. Analysts and investors may pose questions for management during the live conference call.
+Interested persons may access the live conference call by dialing 888-506-0062 (U.S./Canada callers) or 973-528-0011 (international callers), using passcode 615151. It is recommended that participants call or log in 10 minutes ahead of the scheduled start time to ensure proper connection. An operator will register your name and organization. An audio replay will be available one hour after the live call until Midnight on November 26, 2026 by dialing 877-481-4010 using passcode 54750.
+The live webcast and interactive Q&A will be accessible on the Company's Investor Relations website under the Events tab HERE. The webcast replay will be available at the same link.
+About Ideal Power Inc.
+Ideal Power (Nasdaq: IPWR) is the developer and provider of its innovative and widely patented B-TRAN® bidirectional semiconductor power switch. B-TRAN® offers compelling advantages over conventional technologies and addresses the demanding standards of today's solid-state circuit protection and intelligent power delivery systems. It features very low conduction losses that deliver improved power efficiency, thereby reducing energy consumption and providing cost savings. The unique bidirectional capability of B-TRAN® simplifies the design, control and diagnostics of solid-state power solutions while enabling smaller, lower cost systems. B-TRAN® delivers compelling advantages for a broad spectrum of applications including solid-state circuit breakers, static transfer switches, battery disconnect units and EV contactors that are widely used in data centers, industrial power systems, energy grid and storage systems, and electric vehicles and charging infrastructure. For more information, visit the Company’s website at www.IdealPower.com, on LinkedIn, on Twitter, and on Facebook.
+Safe Harbor Statement
+All statements in this release that are not based on historical fact are “forward-looking statements” within the meaning of the Private Securities Litigation Reform Act of 1995 and the provisions of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. While Ideal Power’s management has based any forward-looking statements included in this release on its current expectations, the information on which such expectations were based may change. Such forward-looking statements include, but are not limited to, statements regarding higher-voltage DC architectures accelerating demand for advanced solid-state circuit protection, that expanded distribution of our 800-volt SSCB RDK will accelerate product evaluations and potential adoption, our expectation that we will secure additional stocking orders from other distributors as well as direct orders in the coming months, our expectation that we will receive NRE funded projects with certain customers, the expected timing of completion of JEDEC qualification, and that our new foundry will provide a cost structure that supports our targeted gross margins at scale. These forward-looking statements rely on a number of assumptions concerning future events and are subject to a number of risks, uncertainties and other factors, many of which are outside of our control that could cause actual results to materially differ from such statements. Such risks, uncertainties, and other factors include, but are not limited to, the success of our B-TRAN® technology, including whether the patents for our technology provide adequate protection and whether we can be successful in maintaining, enforcing and defending our patents, our inability to predict with precision or certainty the pace and timing of development and commercialization of our B-TRAN® technology, the rate and degree of market acceptance for our B-TRAN®, the impact of global health pandemics on our business, supply chain disruptions, and the expected performance of future products incorporating our B-TRAN®, and uncertainties set forth in our quarterly, annual and other reports filed with the Securities and Exchange Commission. Furthermore, we operate in a highly competitive and rapidly changing environment where new and unanticipated risks may arise. Accordingly, investors should not place any reliance on forward-looking statements as a prediction of actual results. We disclaim any intention to, and undertake no obligation to, update or revise forward-looking statements, except as required by applicable law.
+Ideal Power Investor Relations Contact
+Jeff Christensen
+Darrow Associates Investor Relations
+jchristensen@darrowir.com
+703-297-6917
+IDEAL POWER INC.
+Balance Sheets
+(unaudited)
+September 30, 2026 | December 31, 2025
+ASSETS
+Current assets:
+Cash and cash equivalents | $ | 38,270,075 | $ | 6,129,049
+Accounts receivable | 8,200 | 24,000
+Inventory | 35,750 | 9,700
+Prepayments and other current assets | 235,848 | 377,901
+Total current assets | 38,549,873 | 6,540,650
+Property and equipment, net | 485,651 | 376,717
+Intangible assets, net | 2,401,874 | 2,687,466
+Right of use asset | 448,787 | 397,397
+Other assets | 90,094 | 44,459
+Total assets | $ | 41,976,279 | $ | 10,046,689
+LIABILITIES AND STOCKHOLDERS’ EQUITY
+Current liabilities:
+Accounts payable | $ | 338,649 | $ | 408,398
+Accrued expenses | 983,412 | 471,329
+Current portion of lease liability | 123,955 | 93,435
+Total current liabilities | 1,446,016 | 973,162
+Long-term lease liability | 338,622 | 309,900
+Other long-term liabilities | 806,070 | 886,538
+Total liabilities | 2,590,708 | 2,169,600
+Stockholders’ equity:
+Common stock | 16,496 | 8,539
+Additional paid-in capital | 168,055,927 | 125,927,443
+Treasury stock | (13,210 | ) | (13,210 | )
+Accumulated deficit | (128,673,642 | ) | (118,045,683 | )
+Total stockholders’ equity | 39,385,571 | 7,877,089
+Total liabilities and stockholders’ equity | $ | 41,976,279 | $ | 10,046,689
+IDEAL POWER INC.
+Statements of Operations
+(unaudited)
+Three Months Ended September 30, | Nine Months Ended September 30,
+2026 | 2025 | 2026 | 2025
+Revenue | $ | 7,000 | $ | 24,450 | $ | 12,800 | $ | 37,728
+Cost of revenue | 9,768 | 26,069 | 13,776 | 60,408
+Gross loss | (2,768 | ) | (1,619 | ) | (976 | ) | (22,680 | )
+Operating expenses:
+Research and development | 1,828,068 | 1,793,162 | 5,290,515 | 5,261,173
+General and administrative | 1,613,855 | 958,938 | 4,491,838 | 2,755,998
+Sales and marketing | 475,110 | 266,598 | 1,451,642 | 945,791
+Total operating expenses | 3,917,033 | 3,018,698 | 11,233,995 | 8,962,962
+Loss from operations | (3,919,801 | ) | (3,020,317 | ) | (11,234,971 | ) | (8,985,642 | )
+Interest income, net | 336,273 | 79,667 | 607,012 | 305,203
+Net loss | $ | (3,583,528 | ) | $ | (2,940,650 | ) | $ | (10,627,959 | ) | $ | (8,680,439 | )
+Net loss per share – basic and fully diluted | $ | (0.18 | ) | $ | (0.32 | ) | $ | (0.66 | ) | $ | (0.95 | )
+Weighted average number of shares outstanding – basic and fully diluted | 19,859,041 | 9,153,407 | 16,015,877 | 9,124,115
+IDEAL POWER INC.
+Statements of Cash Flows
+(unaudited)
+Nine Months Ended September 30,
+2026 | 2025
+Cash flows from operating activities:
+Net Loss | $ | (10,627,959 | ) | $ | (8,680,439 | )
+Adjustments to reconcile net loss to net cash used in operating activities:
+Depreciation and amortization | 295,587 | 276,332
+Amortization of right of use asset | 75,379 | 63,908
+Write-off of capitalized patents | 393,459 | 34,363
+Write-off of property and equipment | 79 | 6,211
+Stock-based compensation | 2,256,255 | 997,840
+Decrease (increase) in operating assets:
+Accounts receivable | 15,800 | (30,808 | )
+Inventory | (26,050 | ) | 31,319
+Prepaid expenses and other assets | 96,418 | 147,322
+Increase (decrease) in operating liabilities:
+Accounts payable | (69,749 | ) | 125,082
+Accrued expenses and other liabilities | 431,615 | 116,535
+Lease liability | (67,527 | ) | (60,940 | )
+Net cash used in operating activities | (7,226,693 | ) | (6,973,275 | )
+Cash flows from investing activities:
+Purchase of property and equipment | (233,244 | ) | (111,334 | )
+Acquisition of intangible assets | (279,223 | ) | (265,404 | )
+Net cash used in investing activities | (512,467 | ) | (376,738 | )
+Cash flows from financing activities:
+Net proceeds from issuance of common stock and pre-funded warrants | 40,259,375 | -
+Proceeds from exercise of pre-funded warrants | 267 | 110
+Payment of taxes upon vesting of stock units | (379,456 | ) | (98,834 | )
+Net cash provided by (used in) financing activities | 39,880,186 | (98,724 | )
+Net Increase (decrease) in cash and cash equivalents | 32,141,026 | (7,448,737 | )
+Cash and cash equivalents at beginning of period | 6,129,049 | 15,842,850
+Cash and cash equivalents at end of the period | $ | 38,270,075 | $ | 8,394,113

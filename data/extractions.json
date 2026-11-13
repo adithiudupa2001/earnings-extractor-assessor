@@ -1882,5 +1882,127 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1228627/000162828026072493/ird-20261110xex991.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1228627/000162828026072493/0001628280-26-072493-index.htm",
     "saved_at": "2026-11-12T06:08:46+08:00"
+  },
+  {
+    "cik": "1638287",
+    "company": "MetaVia Inc.",
+    "accession": "0001104659-26-126540",
+    "release_date": "2026-11-13",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": null,
+      "operating_income": {
+        "value": -4.693,
+        "unit": "USD millions",
+        "quote": "Loss from operations | (4,693)"
+      },
+      "net_income": {
+        "value": -4.623,
+        "unit": "USD millions",
+        "quote": "Net loss | (4,623)"
+      },
+      "diluted_eps": {
+        "value": -0.69,
+        "unit": "USD per share",
+        "quote": "Loss per share of common stock, basic and diluted | $ | (0.69)"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "other",
+        "claim": "The CEO says interim Phase 1 data showed a 68.1% placebo-adjusted reduction in liver fat after about 16 weeks.",
+        "quote": "Most notably, after approximately 16 weeks, we observed a 68.1% placebo-adjusted reduction in liver fat, with all five of the participants with baseline steatosis achieving MRI-PDFF below 5%."
+      },
+      {
+        "id": "M2",
+        "topic": "outlook",
+        "claim": "The CEO plans a 48-week Phase 2 study of DA-1726 in up to 150 subjects, targeted to begin in the second half of 2027.",
+        "quote": "Based on these results, we are planning a 48-week Phase 2 study in up to 150 subjects with MetALD and ALD, targeted to begin in the second half of 2027."
+      },
+      {
+        "id": "M3",
+        "topic": "costs",
+        "claim": "The release says R&D expenses rose by about $0.7 million in the quarter, mainly from DA-1726 development.",
+        "quote": "The increase of approximately $0.7 million was primarily attributable to higher direct R&D expenses related to DA-1726 product development"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls the interim results positive and describes the new Chief Medical Officer's experience as particularly valuable."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1638287-0001104659-26-126540.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1638287/000110465926126540/mtva-ex99d1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1638287/000110465926126540/0001104659-26-126540-index.htm",
+    "saved_at": "2026-11-14T06:09:25+08:00"
+  },
+  {
+    "cik": "1507957",
+    "company": "Ideal Power Inc.",
+    "accession": "0001437749-26-036411",
+    "release_date": "2026-11-12",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 0.007,
+        "unit": "USD millions",
+        "quote": "Revenue | $ | 7,000"
+      },
+      "operating_income": {
+        "value": -3.919801,
+        "unit": "USD millions",
+        "quote": "Loss from operations | (3,919,801"
+      },
+      "net_income": {
+        "value": -3.583528,
+        "unit": "USD millions",
+        "quote": "Net loss | $ | (3,583,528"
+      },
+      "diluted_eps": {
+        "value": -0.18,
+        "unit": "USD per share",
+        "quote": "Net loss per share – basic and fully diluted | $ | (0.18"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "other",
+        "claim": "The CEO says customer engagements expanded as the move to higher-voltage DC architectures speeds demand for solid-state circuit protection.",
+        "quote": "Customer engagements expanded as the transition to higher-voltage DC architectures is accelerating demand for solid-state circuit protection"
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "The CEO says the sales funnel has expanded to about $450 million.",
+        "quote": "expanded our sales funnel to approximately $450 million"
+      },
+      {
+        "id": "M3",
+        "topic": "costs",
+        "claim": "The release says operating expenses rose to $3.9 million from $3.0 million, driven mainly by personnel, stock-based pay and patent impairment.",
+        "quote": "Operating expenses in the third quarter of 2026 were $3.9 million compared to $3.0 million in the third quarter of 2025 driven primarily by higher personnel costs, stock-based compensation expense, and non-cash patent impairment charges"
+      },
+      {
+        "id": "M4",
+        "topic": "outlook",
+        "claim": "The CEO says the focus remains on turning funnel opportunities into volume production orders and revenue growth.",
+        "quote": "Our focus remains on converting opportunities across our expanding sales funnel into volume production orders, revenue growth and long-term shareholder value."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO says the company is materially better positioned and that demand for solid-state circuit protection is accelerating."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1507957-0001437749-26-036411.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1507957/000143774926036411/ex_1043661.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1507957/000143774926036411/0001437749-26-036411-index.htm",
+    "saved_at": "2026-11-14T06:09:25+08:00"
   }
 ]

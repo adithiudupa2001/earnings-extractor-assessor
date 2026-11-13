@@ -1,0 +1,113 @@
+Company: MetaVia Inc. (CIK 1638287)
+Accession: 0001104659-26-126540
+Results released: 2026-11-13
+Press release: https://www.sec.gov/Archives/edgar/data/1638287/000110465926126540/mtva-ex99d1.htm
+Filing: https://www.sec.gov/Archives/edgar/data/1638287/000110465926126540/0001104659-26-126540-index.htm
+Saved: 2026-11-14T06:09:25+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 mtva-ex99d1.htm EX-99.1
+Exhibit 99.1
+MetaVia Reports Third Quarter 2026 Financial Results and Provides Corporate Update
+Positive DA-1726 16-Week Phase 1 Part 3 Interim Data Support Planned Phase 2 Development in MetALD and ALD
+Appointed Sarah Browne, M.D., as Chief Medical Officer to Help Lead the Next Stage of Clinical Development for DA-1726 and Vanoglipel
+Full Data From the Phase 1 Parts 3A and 3B Expected in the First Quarter of 2027
+CAMBRIDGE, Mass., November 13, 2026 – MetaVia Inc. (Nasdaq: MTVA), a clinical-stage biotechnology company focused on transforming liver-related cardiometabolic diseases, today announced financial results for the third quarter ended September 30, 2026, and provided a corporate strategic update.
+"The positive interim results from our Phase 1 Part 3B study of DA-1726, a novel oxyntomodulin (OXM) analog and dual GLP-1/glucagon receptor agonist, were recently highlighted in an oral presentation at the Precision Liver Symposium. We believe these findings provide important clinical support for DA-1726's potential to treat metabolic dysfunction and alcohol-associated liver disease (MetALD), as well as alcohol-associated liver disease (ALD)," stated Hyung Heon Kim, President and Chief Executive Officer of MetaVia. "Most notably, after approximately 16 weeks, we observed a 68.1% placebo-adjusted reduction in liver fat, with all five of the participants with baseline steatosis achieving MRI-PDFF below 5%. These findings were accompanied by 13.5% placebo-adjusted weight loss, significant reductions in adipose tissue and relative preservation of lean tissue. Recently reported additional interim data also demonstrated a statistically significant 1.47 mg/dL placebo-adjusted reduction in uric acid after 16 weeks of treatment, further supporting DA-1726's liver-focused cardiometabolic profile. Based on these results, we are planning a 48-week Phase 2 study in up to 150 subjects with MetALD and ALD, targeted to begin in the second half of 2027. We also recently hosted an invitation-only KOL dinner during AASLD's The Liver Meeting 2026 featuring Dr. Rohit Loomba, a member of our Scientific Advisory Board. The event provided a valuable opportunity to gather leading experts in the field to discuss the evolving treatment landscape in MetALD and the significant unmet medical need we hope to address."
+Mr. Kim continued, "Last month, we also expanded our clinical leadership team with the appointment of Sarah Browne, M.D., as Chief Medical Officer. Sarah brings more than 20 years of experience spanning clinical development, regulatory science and clinical medicine, including leading the development of pemvidutide, a dual GLP-1/glucagon receptor agonist, through Phase 2 and establishing Phase 3 development strategies. Her extensive experience developing therapies for metabolic and liver diseases will be particularly valuable as we prepare to move DA-1726 into Phase 2 development in MetALD and ALD. In parallel, we continue to advance vanoglipel, our G-protein-coupled receptor 119 (GPR119) agonist, in combination with resmetirom for MASH, with a Phase 2a proof-of-concept study targeted to begin in the first half of 2027."
+Third Quarter 2026 and Subsequent Highlights
+● | November 2026: Announced additional positive Phase 1 Part 3B interim data demonstrating a statistically significant 1.47 mg/dL placebo-adjusted reduction in uric acid after 16 weeks of treatment with DA-1726 (p<0.001), further supporting its liver-focused cardiometabolic profile.
+● | November 2026: Announced the presentation of preclinical data on DA-1726 at ObesityWeek 2026 in a poster entitled, DA-1726 Demonstrates Comparable Weight Loss and Distinct Metabolic Profile Compared With Retatrutide.
+● | November 2026: Presented positive DA-1726 Phase 1 Part 3B interim data in an oral presentation at the Precision Liver Symposium, demonstrating a 68.1% placebo-adjusted reduction in liver fat and 13.5% placebo-adjusted weight loss at Day 109, with all five participants with baseline steatosis achieving MRI-PDFF below 5%. Announced plans to initiate a 48-week Phase 2 study in MetALD and ALD.
+● | October 2026: Appointed Sarah Browne, M.D., as Chief Medical Officer to provide clinical and regulatory leadership as MetaVia advances DA-1726 and vanoglipel through their next stages of development.
+● | September 2026: Announced preclinical tissue distribution findings for DA-1726 showing the highest exposure in adipose tissue and prolonged tissue retention, providing biological support for the reductions in waist circumference observed clinically and DA-1726's once-weekly dosing profile.
+● | July 2026: Announced the completion of dose titration in the 16-week Phase 1 Part 3 study of DA-1726, with all active patients successfully reaching the highest planned dose levels of 48 mg and 64 mg.
+Anticipated Clinical Milestones
+● | DA-1726 in MetALD and ALD:
+o | Full data from Phase 1 Parts 3A and 3B expected in the first quarter of 2027.
+o | Initiation of a 48-week, non-biopsy Phase 2 study in up to 150 subjects with MetALD and ALD is targeted for the second half of 2027.
+● | Vanoglipel (DA-1241) in MASH:
+o | MetaVia is currently working to schedule an End-of-Phase 2 meeting with the FDA before the end of 2026 to discuss the clinical development pathway for vanoglipel in combination with resmetirom.
+o | Initiation of a randomized, 12-week Phase 2a non-biopsy proof-of-concept study of vanoglipel in combination with resmetirom is targeted for the first half of 2027.
+Third Quarter Financial and Operating Results
+● | Research and Development (R&D) Expenses were approximately $2.6 million for the third quarter ended September 30, 2026, as compared to approximately $1.9 million for the third quarter ended September 30, 2025. The increase of approximately $0.7 million was primarily attributable to higher direct R&D expenses related to DA-1726 product development, partially offset by $0.2 million in lower indirect consulting expenses.
+R&D expenses were approximately $8.2 million for the nine months ended September 30, 2026, as compared to approximately $6.6 million for the nine months ended September 30, 2025. The approximately $1.6 million increase was primarily attributable to $2.0 million in higher direct R&D
+expenses related to DA-1726 product development, partially offset by (i) $0.2 million in lower indirect consulting expenditures and (ii) $0.2 million in lower direct R&D expenses related to vanoglipel product development.
+● | General and Administrative (G&A) Expenses were approximately $2.1 million for the third quarter ended September 30, 2026, as compared to approximately $1.6 million for the third quarter ended September 30, 2025. The approximately $0.5 million increase was primarily attributable to (i) $0.2 million in higher legal and professional fees, (ii) $0.2 million in higher consulting expenditures and (iii) $0.1 million in higher employee compensation and benefits.
+G&A expenses were approximately $5.9 million for the nine months ended September 30, 2026, as compared to approximately $5.1 million for the nine months ended September 30, 2025. The approximately $0.8 million increase was primarily attributable to (i) approximately $0.3 million in higher consulting expenditures, (ii) approximately $0.2 million in higher legal and professional fees, (iii) approximately $0.1 million in higher employee compensation and benefits costs and (iv) $0.2 million in higher other G&A expenses, which was primarily related to higher franchise tax expenses.
+● | Total Operating Expenses were approximately $4.7 million for the third quarter ended September 30, 2026, compared to approximately $3.5 million for the third quarter ended September 30, 2025. The approximately $1.2 million increase was primarily attributable to higher R&D and G&A expenses.
+Total operating expenses were approximately $14.1 million for the nine months ended September 30, 2026, compared to approximately $11.7 million for the nine months ended September 30, 2025. The approximately $2.4 million increase was primarily attributable to higher R&D and G&A expenses for the nine months ended September 30, 2026.
+● | Total Other Income was approximately $0.1 million for the third quarter ended September 30, 2026, unchanged from the third quarter ended September 30, 2025.
+Total other income was approximately $0.3 million for the nine months ended September 30, 2026, as compared to approximately $0.6 million for the nine months ended September 30, 2025. The approximately $0.3 million decrease was primarily attributable to (i) $0.1 million in lower gain from change in fair value of warrant liabilities and (ii) $0.2 million in lower interest income, net, due to lower balances of cash and cash equivalents and lower interest rates.
+● | Net Loss was $4.6 million, or $0.69 per basic and diluted share, for the third quarter ended September 30, 2026, based on 6,679,250 weighted average shares of common stock outstanding, compared with a net loss of $3.4 million, or $1.52 per basic and diluted share, based on 2,219,625 weighted average shares of common stock outstanding for the third quarter ended September 30, 2025.
+Net loss was approximately $13.8 million, or $2.36 per basic and diluted share for the nine months ended September 30, 2026, based on 5,830,258 weighted average shares of common stock outstanding, compared with a net loss of approximately $11.0 million, or $6.93 per basic and diluted share, based on 1,592,484 weighted average shares of common stock outstanding for the nine months ended September 30, 2025.
+● | Cash and cash equivalents was $8.8 million as of September 30, 2026, compared with $10.3 million as of December 31, 2025.
+About MetaVia
+MetaVia Inc. is a clinical-stage biotechnology company focused on transforming liver-related cardiometabolic diseases. The company is currently developing DA-1726 for the treatment of various cardiometabolic conditions, with potential in both Metabolic Dysfunction and Alcohol-Associated Liver Disease (MetALD) and Alcohol-Associated Liver Disease (ALD), and is advancing vanoglipel (DA-1241) in combination with resmetirom for the treatment of Metabolic Dysfunction-Associated Steatohepatitis (MASH). DA-1726 is a novel oxyntomodulin (OXM) analogue that functions as a glucagon-like peptide-1 receptor (GLP1R) and glucagon receptor (GCGR) dual agonist, engineered with a 3:1 GLP1R:GCGR potency ratio. OXM is a naturally-occurring gut hormone that activates GLP1R and GCGR, thereby decreasing food intake while increasing energy expenditure. In a Phase 1 Part 3B interim analysis at Day 109, DA-1726 demonstrated placebo-adjusted reductions of 13.5% in body weight and 68.1% in liver fat, along with reductions in visceral and subcutaneous adipose tissue and relatively preserved lean mass. A Phase 2, 48-week, non-biopsy study of DA-1726 in MetALD and ALD, is targeted to begin in the second half of 2027. Vanoglipel is a potential first-in-class drug candidate targeting G-protein-coupled receptor 119 (GPR119). It acts directly in the liver on pathways involved in steatosis, inflammation and fibrosis, while GPR119 activation in the pancreas and gut also supports glucose and metabolic regulation. In a Phase 2a clinical study, vanoglipel demonstrated direct hepatic action in addition to its glucose lowering effects. MetaVia is advancing vanoglipel in combination with resmetirom as a once-daily oral combination therapy for MASH, with a Phase 2a proof-of-concept study targeted to begin in the first half of 2027.
+For more information, please visit www.metaviatx.com.
+Forward Looking Statements
+Certain statements in this press release may be considered forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. Words such as "believes", "expects", "anticipates", "may", "will", "should", "seeks", "approximately", "potential", "intends", "projects", "plans", "estimates" or the negative of these words or other comparable terminology (as well as other words or expressions referencing future events, conditions or circumstances) are intended to identify forward-looking statements. Forward-looking statements are predictions, projections and other statements about future events that are based on current expectations and assumptions and, as a result, are subject to risks and uncertainties. Many factors could cause actual future events to differ materially from the forward-looking statements in this press release, including, without limitation, those risks associated with MetaVia's history of net losses, the sufficiency of its existing cash on hand to fund operations and raising additional capital; adverse global economic conditions; MetaVia's ability to execute on its commercial strategy; the timeline for regulatory submissions; the ability to obtain regulatory approval through the development steps of MetaVia's current and future product candidates; the ability to realize the benefits of the license agreement with Dong-A ST Co., Ltd., including the impact on future financial and operating results of MetaVia; the cooperation of MetaVia's contract manufacturers, clinical study partners and others involved in the development of MetaVia's current and future product candidates; potential negative interactions between MetaVia's product candidates and any other products with which they are combined for treatment; MetaVia's ability to obtain, maintain, protect and/or enforce sufficient intellectual property rights to execute its commercial strategy; MetaVia's ability to initiate and complete clinical trials on a timely basis; MetaVia's ability to recruit subjects for its clinical trials; whether MetaVia receives results from MetaVia's clinical trials that are consistent with the results
+of preclinical and previous clinical trials; impact of costs related to the license agreement, known and unknown, including costs of any litigation or regulatory actions relating to the license agreement; the effects of changes in applicable laws, regulations or Nasdaq listing rules; the effects of changes to MetaVia's stock price; and other risks and uncertainties described in MetaVia's filings with the Securities and Exchange Commission, including MetaVia's most recent Annual Report on Form 10-K and subsequent Quarterly Reports on Form 10-Q. Forward-looking statements speak only as of the date when made. MetaVia does not assume any obligation to publicly update or revise any forward-looking statements, whether as a result of new information, future events or otherwise, except as required by law.
+Contacts:
+MetaVia
+Marshall H. Woodworth
+Chief Financial Officer
++1-857-299-1033
+marshall.woodworth@metaviatx.com
+Rx Communications Group
+Michael Miller
++1-917-633-6086
+mmiller@rxir.com
+- Tables to Follow -
+MetaVia Inc.
+Condensed Consolidated Balance Sheets
+(Unaudited - In thousands, except share and per share amounts)
+As of
+September 30, 2026 | December 31, 2025
+Assets
+Current assets
+Cash and cash equivalents | $ | 8,778 | $ | 10,278
+Prepaid expenses and other current assets | 575 | 597
+Total current assets | 9,353 | 10,875
+Property and equipment, net | 22 | 17
+Right-of-use asset | 158 | 210
+Other assets | 21 | 21
+Total assets | $ | 9,554 | $ | 11,123
+Liabilities and stockholders' equity
+Current liabilities
+Accounts payable | $ | 2,478 | $ | 1,060
+Clinical trial accrued liabilities | 1,579 | 79
+Accrued expenses and other current liabilities | 782 | 993
+Warrant liabilities | 25 | 136
+Related party payable | 2,119 | 3,312
+Lease liability, short-term | 77 | 68
+Total current liabilities | 7,060 | 5,648
+Lease liability, long-term | 83 | 142
+Total liabilities | 7,143 | 5,790
+Commitments and contingencies
+Stockholders' equity
+Preferred stock, $0.001 par value per share; 10,000,000 shares authorized and no shares issued or outstanding as of September 30, 2026 and December 31, 2025 | — | —
+Common stock, $0.001 par value per share, 100,000,000 shares authorized as of September 30, 2026 and December 31, 2025; 6,742,889 and 2,308,294 shares issued and outstanding as of September 30, 2026 and December 31, 2025, respectively | 7 | 2
+Additional paid–in capital | 164,996 | 154,161
+Accumulated deficit | (162,592) | (148,830)
+Total stockholders' equity | 2,411 | 5,333
+Total liabilities and stockholders' equity | $ | 9,554 | $ | 11,123
+MetaVia Inc.
+Condensed Consolidated Statements of Operations
+(Unaudited - In thousands, except share and per share amounts)
+Three Months Ended September 30, | Nine Months Ended September 30,
+2026 | 2025 | 2026 | 2025
+Operating expenses
+Research and development | $ | 2,589 | $ | 1,914 | $ | 8,168 | $ | 6,561
+General and administrative | 2,104 | 1,561 | 5,935 | 5,101
+Total operating expenses | 4,693 | 3,475 | 14,103 | 11,662
+Loss from operations | (4,693) | (3,475) | (14,103) | (11,662)
+Other income (expense)
+(Loss) gain from change in fair value of warrant liabilities | (2) | (53) | 111 | 194
+Interest income, net | 72 | 151 | 230 | 425
+Total other income | 70 | 98 | 341 | 619
+Loss before income taxes | (4,623) | (3,377) | (13,762) | (11,043)
+Provision for income taxes | — | — | — | —
+Net loss | (4,623) | (3,377) | (13,762) | (11,043)
+Loss per share of common stock, basic and diluted | $ | (0.69) | $ | (1.52) | $ | (2.36) | $ | (6.93)
+Weighted average shares of common stock, basic and diluted | 6,679,250 | 2,219,625 | 5,830,258 | 1,592,484
