@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-14T09:25:46+08:00",
+  "fetched_at": "2026-11-14T09:43:43+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
@@ -16,13 +16,13 @@
       "name": "Earnings radar, page 1",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-13&enddt=2026-11-13",
       "ok": true,
-      "detail": "HTTP 200, 59 KB in 546 ms"
+      "detail": "HTTP 200, 59 KB in 1328 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 26 ms"
+      "detail": "HTTP 200, 148 KB in 35 ms"
     },
     {
       "name": "Amazon filings list",
@@ -34,79 +34,79 @@
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 154 KB in 19 ms"
+      "detail": "HTTP 200, 154 KB in 21 ms"
     },
     {
       "name": "BCP Investment Corp filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1372807/000119312526461047/index.json",
       "ok": true,
-      "detail": "HTTP 200, 3 KB in 70 ms"
+      "detail": "HTTP 200, 3 KB in 159 ms"
     },
     {
       "name": "BCP Investment Corp press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1372807/000119312526461047/d520705dex991.htm",
       "ok": true,
-      "detail": "HTTP 200, 220 KB in 191 ms"
+      "detail": "HTTP 200, 220 KB in 42 ms"
     },
     {
       "name": "CHEETAH NET SUPPLY CHAIN SERVICE INC. filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/1951667/000110465926127228/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 66 ms"
+      "detail": "HTTP 200, 1 KB in 64 ms"
     },
     {
       "name": "CHEETAH NET SUPPLY CHAIN SERVICE INC. press release",
       "url": "https://www.sec.gov/Archives/edgar/data/1951667/000110465926127228/tm2629774d1_ex99-1.htm",
       "ok": true,
-      "detail": "HTTP 200, 125 KB in 37 ms"
+      "detail": "HTTP 200, 125 KB in 122 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,174 KB in 29 ms"
+      "detail": "HTTP 200, 3,174 KB in 33 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 22 ms"
+      "detail": "HTTP 200, 4,447 KB in 75 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 21 ms"
+      "detail": "HTTP 200, 2,745 KB in 51 ms"
     },
     {
       "name": "BCP Investment Corp company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001372807.json",
       "ok": true,
-      "detail": "HTTP 200, 740 KB in 67 ms"
+      "detail": "HTTP 200, 740 KB in 213 ms"
     },
     {
       "name": "CHEETAH NET SUPPLY CHAIN SERVICE INC. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001951667.json",
       "ok": true,
-      "detail": "HTTP 200, 635 KB in 75 ms"
+      "detail": "HTTP 200, 635 KB in 139 ms"
     },
     {
       "name": "BXP, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001037540.json",
       "ok": true,
-      "detail": "HTTP 200, 4,292 KB in 71 ms"
+      "detail": "HTTP 200, 4,292 KB in 57 ms"
     },
     {
       "name": "CALIX, INC company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001406666.json",
       "ok": true,
-      "detail": "HTTP 200, 2,986 KB in 431 ms"
+      "detail": "HTTP 200, 2,986 KB in 239 ms"
     },
     {
       "name": "Ideal Power Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001507957.json",
       "ok": true,
-      "detail": "HTTP 200, 1,478 KB in 270 ms"
+      "detail": "HTTP 200, 1,478 KB in 837 ms"
     }
   ],
   "files": [
