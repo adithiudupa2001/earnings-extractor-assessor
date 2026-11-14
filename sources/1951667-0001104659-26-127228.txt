@@ -1,0 +1,158 @@
+Company: CHEETAH NET SUPPLY CHAIN SERVICE INC. (CIK 1951667)
+Accession: 0001104659-26-127228
+Results released: 2026-11-13
+Press release: https://www.sec.gov/Archives/edgar/data/1951667/000110465926127228/tm2629774d1_ex99-1.htm
+Filing: https://www.sec.gov/Archives/edgar/data/1951667/000110465926127228/0001104659-26-127228-index.htm
+Saved: 2026-11-15T06:08:22+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 tm2629774d1_ex99-1.htm EXHIBIT 99.1
+Exhibit 99.1
+Cheetah Net Supply Chain Service Inc. Announces Third Quarter 2026 Results and Provides Corporate Update
+IRVINE, Calif., November 13, 2026 (GLOBE NEWSWIRE) – Cheetah Net Supply Chain Service Inc. (“Cheetah” or the “Company”) (Nasdaq CM: CTNT), a provider of logistics and warehousing services and international trading services, today reported results for the quarter ended September 30, 2026 and provided a corporate update.
+For the quarter ended September 30, 2026, the Company reported total revenue of $3,557,805, compared to $361,935 in the same period in 2025, representing an increase of $3,195,870, or 883.0%. The Company recorded an operating loss of $821,890 for the quarter ended September 30, 2026, compared to an operating loss of $1,564,479 in the same period in 2025, representing a decrease of $742,589, or 47.5%. The decrease was primarily due to an increase of $237,229 in gross profit and the absence of an impairment loss of $731,307 recognized in the same period in 2025, partially offset by an increase of $287,851 in general and administrative expenses compared to the same period in 2025. The Company recognized other expenses, net, of $1,726,105 for the quarter ended September 30, 2026, primarily attributable to a $2,783,884 loss resulting from the change in fair value of acquisition-related contingent consideration asset, partially offset by interest income of $398,232 and other income of $666,508. After accounting for an income tax provision of nil, the Company reported a net loss from continuing operations of $2,547,995, compared to net loss from continuing operations of $1,314,650 for the same period in 2025, representing an increase in net loss of $1,233,345, or 93.8%.
+Tony Liu, Cheetah’s Chairman and CEO, commented: “The third quarter of 2026 marked an important step forward in the execution of our business diversification strategy. Following the acquisition of Super International Trading Limited in May, our international trading business demonstrated encouraging momentum, generating approximately $3.56 million in revenue during the quarter. This performance reflects the progress we have made in expanding our business platform and developing new sources of revenue.”
+“While our logistics and warehousing business continues to face challenges arising from evolving global trade conditions and cross-border customer demand, we remain focused on optimizing our operating structure and allocating resources toward opportunities that we believe offer greater long-term growth potential. We are encouraged by the progress of our international trading business and will continue to focus on strengthening its operations, expanding business opportunities, and improving operational efficiency.”
+“Looking ahead, we remain committed to disciplined capital allocation, prudent financial management, and the pursuit of strategic opportunities that complement our existing capabilities. We believe that our continued efforts to diversify our revenue streams and strengthen our operating platform will position the Company for sustainable long-term growth.”
+Third Quarter 2026 Financial Results
+Continuing operations – logistics and warehousing business
+For the three months ended September 30, 2026, the Company reported revenue of $nil from its logistics and warehousing services segment, compared to $361,935 for the same period in 2025. The decrease was primarily due to the disposition of Edward and the expiration of TWEW’s legacy customer service contracts during late 2025 and early 2026, which were not renewed on their original terms. As of the date of this release, TWEW is renegotiating logistics and labor services arrangements with customers that had business relationships with TWEW prior to its acquisition, and letters of intent and draft contracts with certain of these customers are in the process of being executed.
+The Company also reported cost of revenue of $nil and $317,757 for the three months ended September 30, 2026 and 2025, respectively, representing a decrease of $317,757, or 100.0%, consistent with the corresponding decline in revenue from Edward and TWEW.
+Gross profit for the three months ended September 30, 2026, was $nil, a decrease of $44,178, or 100.0%, from $44,178 for the three months ended September 30, 2025.
+General and administrative expenses for the Company’s continuing operations-logistics and warehousing services segment decreased by $90,368, or 84.1%, to $17,068 for the three months ended September 30, 2026 from $107,436 for the three months ended September 30, 2025. The decrease was mainly due to the disposal of Edward in 2026.
+Continuing operations – international trading
+For the three months ended September 30, 2026, the Company reported revenue of $3,557,805 from its international trading segment, all of which was generated by Super International Trading Limited (“Super International”), which we acquired on May 27, 2026. The increase was primarily due to the expansion of the Company’s international trading business following the acquisition of Super International.
+The Company also reported cost of revenue of $3,276,398 and $nil for the three months ended September 30, 2026 and 2025, respectively, representing an increase of $3,276,398, all of which was attributable to Super International, consistent with the corresponding increase in international trading revenue.
+Gross profit for the three months ended September 30, 2026 was $281,407, an increase of $281,407, from $nil for the three months ended September 30, 2025.
+General and administrative expenses for the Company’s continuing operations - international trading segment increased to $23,349 for the three months ended September 30, 2026 from $nil for the three months ended September 30, 2025. The increase was mainly due to the commencement of the Company’s international trading operations following the acquisition of Super International on May 27, 2026.
+Continuing operations – Corporate Unallocated Operating Adjustments
+General and administrative expenses for the Company’s continuing operations- corporate unallocated operating adjustments segment increased by $354,870, or 51.1%, to $1,048,697 for the three months ended September 30, 2026 from $693,827 for the three months ended September 30, 2025. The increase was mainly due to travel and entertainment expenses and legal and accounting fees and other general and administrative expenses.
+Share-based compensation expenses were $14,183 and $76,087 for the three months ended September 30, 2026 and 2025, respectively, representing a decrease of $61,904, or 81.4%.
+Interest income from continuing operations was $398,232 for the three months ended September 30, 2026, compared to $244,776 for the three months ended September 30, 2025, representing an increase of $153,456 or 62.7%. The increase was primarily due to an increase in average outstanding loan balances as the Company made additional loans to third parties, resulting in higher interest income.
+Interest expense incurred from our continuing operations was $6,961 for the three months ended September 30, 2026, which decreased by $888, or 11.3%, from $7,849 for the three months ended September 30, 2025, mainly due to the continued amortization of our long-term borrowings and lower credit card and premium finance interest.
+Net other income from continuing operations was $666,508 for the three months ended September 30, 2026, compared to $12,902 for the three months ended September 30, 2025, representing an increase of $653,606, or 5,065.9%. The increase was primarily driven by higher foreign exchange gains resulting from currency rate fluctuations.
+The Company’s receivable from withdrawal of investment deposit of $41,762,995 as of September 30, 2026, represents RMB 280,000,000 contributed by Naiside to a PRC investment fund in January 2026 and repayable in full by Shanghai Kesheng on or before December 30, 2026. The receivable is denominated in Renminbi and remeasured at each reporting date. For the three months ended September 30, 2026, the Company recognized an unrealized foreign exchange gain of $652,422 on this receivable. Excluding this non-cash gain, the Company’s loss from continuing operations before income taxes of $2,547,995 for the three months ended September 30, 2026 would have been approximately $3,200,417.
+Other expense from the change in fair value of acquisition-related contingent consideration asset was $2,783,884 for the three months ended September 30, 2026, compared to $nil for the three months ended September 30, 2025.
+As a result of the above factors, the Company had a net loss of $2,547,995 from continuing operations for the three months ended September 30, 2026, compared to a net loss of $1,314,650 for the same period of 2025.
+Nine Months 2026 Financial Results
+Continuing operations – logistics and warehousing business
+For the nine months ended September 30, 2026, the Company reported revenue of $92,700 from its logistics and warehousing services segment, compared to $1,195,860 for the same period in 2025. The decrease was primarily due to the disposition of Edward and the expiration of TWEW’s legacy customer service contracts, as described above.
+The Company also reported cost of revenue of $72,833 and $1,060,526 for the nine months ended September 30, 2026 and 2025, respectively, primarily reflecting labor and logistics costs for TWEW and ocean freight service costs incurred by Edward.
+Gross profit for the nine months ended September 30, 2026, was $19,867, a decrease of $115,467, or 85.3%, from $135,334 for the nine months ended September 30, 2025.
+General and administrative expenses for the Company’s continuing operations-logistics and warehousing services segment decreased by $179,749, or 50.8%, to $173,757 for the nine months ended September 30, 2026 from $353,506 for the nine months ended September 30, 2025. The decrease was mainly due to lower operating and administrative expenses following the disposal of Edward, as well as ongoing cost control initiatives.
+Continuing operations – international trading
+For the nine months ended September 30, 2026, the Company reported revenue of $4,426,714 from its international trading segment, of which $208,909, or 4.7%, was attributable to Cheetah, and $4,217,805, or 95.3%, was attributable to Super International, which the Company acquired on May 27, 2026. The increase was primarily due to the expansion of the Company’s international trading business following the acquisition of Super International.
+The Company also reported cost of revenue of $4,125,807 and $nil for the nine months ended September 30, 2026 and 2025, respectively, representing an increase of $4,125,807 including $199,409 attributable to Cheetah and $3,926,398 attributable to Super International, consistent with the corresponding increase in international trading revenue.
+Gross profit for the nine months ended September 30, 2026, was $300,907, an increase of $300,907, from $nil for the nine months ended September 30, 2025.
+General and administrative expenses for the Company’s continuing operations-international trading segment increased to $43,433 for the nine months ended September 30, 2026 from $nil for the nine months ended September 30, 2025. The increase was mainly due to the acquisition of Super International.
+Continuing operations – Corporate Unallocated Operating Adjustments
+General and administrative expenses for the Company’s continuing operations- corporate unallocated operating adjustments segment increased by $275,462, or 12.2%, to $2,529,043 for the nine months ended September 30, 2026 from $2,253,581 for the nine months ended September 30, 2025. The increase was mainly due to an increase in travel and entertainment expenses and other general and administrative expenses.
+Share-based compensation expenses were $42,547 and $102,716 for the nine months ended September 30, 2026 and 2025, respectively, representing a decrease of $60,169, or 58.6%.
+Interest income from continuing operations was $814,069 for the nine months ended September 30, 2026, compared to $725,094 for the nine months ended September 30, 2025, representing an increase of $88,975 or 12.3%. The increase was primarily due to an increase in average outstanding loan balances as the Company made additional loans to third parties, resulting in higher interest income.
+Interest expense incurred from our continuing operations was $21,460 for the nine months ended September 30, 2026, which decreased by $3,261, or 13.2%, from $24,721 for the nine months ended September 30, 2025, mainly due to lower average outstanding balances under long-term borrowings and premium finance arrangements.
+Net other income from continuing operations was $1,669,286 for the nine months ended September 30, 2026, compared to $42,658 for the nine months ended September 30, 2025, representing an increase of $1,626,628, or 3,813.2%. The increase was primarily driven by higher foreign exchange gains resulting from currency rate fluctuations.
+During the nine months ended September 30, 2026, the Company recognized an unrealized foreign exchange gain of approximately $1,631,708 related to the receivable arising from the withdrawal of the investment deposit. Excluding this non-cash gain, the Company would have incurred a loss from continuing operations before income taxes of approximately $4,719,313 for the nine months ended September 30, 2026.
+Other expense from the change in fair value of acquisition-related contingent consideration asset was $2,783,884 for the nine months ended September 30, 2026, compared to $nil for the nine months ended September 30, 2025.
+As a result of the above factors, the Company had a net loss of $3,093,215 from continuing operations for the nine months ended September 30, 2026, compared to a net loss of $2,581,087 for the same period of 2025.
+Liquidity and Going Concern Considerations
+The Company reported a net loss of approximately $3.1 million for the nine months ended September 30, 2026, and net cash used in operating activities of approximately $2.5 million. As the Company continues to integrate its newly acquired international trading business and develop its logistics and warehousing service business, the Company may continue to incur operating losses and generate negative cash flow. These factors were considered in management’s evaluation of the Company’s ability to continue as a going concern, together with the mitigating factors described below.
+As of September 30, 2026, the Company had cash and cash equivalents of approximately $14.5 million and a working capital balance of $87.1 million. In addition, the Company had a receivable from withdrawal of investment deposit of $41.8 million and loans receivable from third parties of approximately $29.5 million, which can be sufficient for the Company to support its ongoing business operations and meet the obligations in the future.
+Management has evaluated the Company’s ability to continue as a going concern in accordance with ASC 205-40, Presentation of Financial Statements – Going Concern. This evaluation considered the Company’s current financial condition, expected cash flows, obligations due within the next 12 months, and available sources of liquidity.
+The Company is working to further improve its liquidity and capital sources primarily by generating cash from operations, pursuing debt financing, and, if needed, seeking financial support from its principal stockholder. If necessary to fully implement its business plan and sustain continued growth, the Company may seek additional equity financing from outside investors. Based on the current operating plan, management believes that the aforementioned measures collectively will provide sufficient liquidity to meet the Company’s liquidity and capital requirements for at least 12 months from the issuance date of its consolidated financial statements.
+Forward-Looking Statements
+This press release contains certain forward-looking statements, including statements that are predictive in nature. Forward-looking statements are based on the Company’s current expectations and assumptions. The Private Securities Litigation Reform Act of 1995 provides a safe harbor for forward-looking statements. These statements may be identified by the use of forward-looking expressions, including, but not limited to, “anticipate,” “believe,” “continue,” “estimate,” “expect,” “future,” “intend,” “may,” “outlook,” “plan,” “potential,” “predict,” “project,” “should,” “will,” “would,” and similar expressions that predict or indicate future events or trends or that are not statements of historical matters, but the absence of these words does not mean that a statement is not forward-looking. The Company undertakes no obligation to publicly update any forward-looking statement, whether as a result of new information, future events or otherwise. Important factors that could cause actual results to differ materially from those in the forward-looking statements are set forth in the Company’s filings with the U.S. Securities and Exchange Commission, including its annual report on Form 10-K, under the caption “Risk Factors.”
+For more information, please contact:
+Cheetah Net Supply Chain Service Inc.
+Investor Relations
+(949) 418-7804
+ir@cheetah-net.com
+CHEETAH NET SUPPLY CHAIN SERVICE INC.
+(UNAUDITED) CONSOLIDATED BALANCE SHEETS
+September 30, | December 31,
+2026 | 2025*
+(UNAUDITED) | (AUDITED)
+ASSETS
+CURRENT ASSETS:
+Cash and cash equivalents | $ | 14,464,614 | $ | 233,217
+Accounts receivable, net | 419,529 | 6,540
+Loan receivable | 29,471,513 | 7,430,111
+Other receivables, net | 1,341,520 | 1,157,130
+Prepaid expenses and other current assets | 1,026,988 | 238,648
+Receivable from withdrawal of investment deposit | 41,762,995 | —
+TOTAL CURRENT ASSETS | 88,487,159 | 9,065,646
+NONCURRENT ASSETS:
+Property, plant, and equipment, net | 303,167 | 358,868
+Operating lease right-of-use assets | 414,992 | 1,165,517
+Intangibles, net | 490,000 | 792,571
+Goodwill | 2,665,654 | 475,862
+TOTAL NONCURRENT ASSETS | 3,873,813 | 2,792,818
+TOTAL ASSETS | $ | 92,360,972 | $ | 11,858,464
+LIABILITIES AND STOCKHOLDERS’ EQUITY
+CURRENT LIABILITIES:
+Accounts payable | $ | 419,058 | $ | 32,762
+Current portion of long-term debt | 37,750 | 35,902
+Loans payable from premium finance | 123,516 | 82,650
+Due to a related party | 10,745 | 5,204
+Operating lease liabilities, current | 428,852 | 594,407
+Accrued liabilities and other current liabilities | 343,781 | 594,693
+TOTAL CURRENT LIABILITIES | 1,363,702 | 1,345,618
+NONCURRENT LIABILITIES:
+Long-term debt, net of current portion | 542,618 | 572,653
+Operating lease liabilities, net of current portion | — | 584,606
+TOTAL NONCURRENT LIABILITIES | 542,618 | 1,157,259
+TOTAL LIABILITIES | $ | 1,906,320 | $ | 2,502,877
+COMMITMENTS AND CONTINGENCIES | — | —
+STOCKHOLDERS’ EQUITY
+Common stock, $0.0001 par value, 2,200,000,000 and 1,000,000,000 shares authorized; 1,333,445 and 115 shares issued and outstanding as of September 30, 2026 and December 31, 2025, respectively, including: *
+Class A common stock, $0.0001 par value, 2,000,000,000 shares and 891,750,000 shares authorized; 1,332,087 and 91 shares issued and outstanding as of September 30, 2026 and December 31, 2025, respectively | 133 | —
+Class B common stock, $0.0001 par value, 200,000,000 shares and 108,250,000 shares authorized; 1,358 and 24 shares issued and outstanding as of September 30, 2026 and December 31, 2025, respectively | — | —
+Additional paid-in capital | 101,878,048 | 17,685,901
+Accumulated deficit | (11,423,529 | ) | (8,330,314 | )
+TOTAL STOCKHOLDERS’ EQUITY | 90,454,652 | 9,355,587
+TOTAL LIABILITIES AND STOCKHOLDERS’ EQUITY | $ | 92,360,972 | $ | 11,858,464
+* Retrospectively restated for effect of the Company’s amended and restated articles of incorporation and bylaws and share reverse splits on April 20, 2026 (1-for-200) and September 21, 2026 (1-for-150).
+CHEETAH NET SUPPLY CHAIN SERVICE INC.
+(UNAUDITED) CONSOLIDATED STATEMENTS OF OPERATIONS
+For the Three Months Ended September 30, | For the Nine Months Ended September 30,
+2026 | 2025* | 2026 | 2025*
+(Unaudited) | (Unaudited) | (Unaudited) | (Unaudited)
+REVENUE | $ | 3,557,805 | $ | 361,935 | $ | 4,519,414 | $ | 1,195,860
+COST OF REVENUE | 3,276,398 | 317,757 | 4,198,640 | 1,060,526
+GROSS PROFIT | 281,407 | 44,178 | 320,774 | 135,334
+OPERATING EXPENSES
+General and administrative expenses | 1,089,114 | 801,263 | 2,746,233 | 2,607,087
+Impairment loss expenses | — | 731,307 | — | 731,307
+Share-based compensation expenses | 14,183 | 76,087 | 42,547 | 102,716
+TOTAL OPERATING EXPENSES | 1,103,297 | 1,608,657 | 2,788,780 | 3,441,110
+LOSS FROM OPERATIONS | (821,890 | ) | (1,564,479 | ) | (2,468,006 | ) | (3,305,776 | )
+OTHER INCOME (EXPENSES)
+Interest income | 398,232 | 244,776 | 814,069 | 725,094
+Interest expenses | (6,961 | ) | (7,849 | ) | (21,460 | ) | (24,721 | )
+Loss on disposal of Edward | — | — | (297,610 | ) | —
+Other income | 666,508 | 12,900 | 1,669,286 | 78,005
+Other expenses | — | 2 | — | (35,347 | )
+Other expense change in fair value of acquisition-related contingent consideration asset | (2,783,884 | ) | — | (2,783,884 | ) | —
+OTHER INCOME, NET | (1,726,105 | ) | 249,829 | (619,599 | ) | 743,031
+INCOME (LOSS) FROM CONTINUING OPERATIONS BEFORE INCOME TAXES | (2,547,995 | ) | (1,314,650 | ) | (3,087,605 | ) | (2,562,745 | )
+Income tax | — | — | 5,610 | 18,342
+INCOME (LOSS) FROM CONTINUING OPERATIONS | (2,547,995 | ) | (1,314,650 | ) | (3,093,215 | ) | (2,581,087 | )
+LOSS FROM DISCONTINUED OPERATIONS, NET OF TAX | — | — | — | —
+NET INCOME (LOSS) | $ | (2,547,995 | ) | $ | (1,314,650 | ) | $ | (3,093,215 | ) | $ | (2,581,087 | )
+Earnings (loss) from continuing operations per ordinary share - basic and diluted | $ | (11.23 | ) | $ | (12,170.24 | ) | $ | (38.17 | ) | $ | (23,897.33 | )
+Earnings (loss) from discontinued operations per ordinary share - basic and diluted | $ | 0.00 | $ | 0.00 | $ | 0.00 | $ | 0.00
+Earnings (loss) per share - basic and diluted | $ | (11.23 | ) | $ | (12,170.24 | ) | $ | (38.17 | ) | $ | (23,897.33 | )
+Weighted average shares - basic and diluted | 226,988 | 108 | 81,037 | 108
+* Certain reclassifications have been made to the financial statements for the period ended September 30, 2025, to conform to the presentation for the period ended September 30, 2026, with no effect on previously reported net income (loss).
+CHEETAH NET SUPPLY CHAIN SERVICE INC.
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+Nine Months Ended September 30,
+2026 | 2025
+Net cash provided by (used in) operating activities | $ | (2,543,247 | ) | $ | 733,780
+Cash used in operations-continuing operations | (2,543,247 | ) | (1,806,721 | )
+Cash provided by operations-discontinued operations | — | 2,540,501
+Net cash used in investing activities | (67,239,062 | ) | (2,214,816 | )
+Cash used in investing activities-continuing operations | (67,239,062 | ) | (2,214,816 | )
+Net cash provided by (used in) financing activities | 84,022,934 | (16,237 | )
+Cash provided by (used in) financing activities-continuing operations | 84,022,934 | (16,237 | )
+Effect of exchange rate fluctuation on cash | (9,228 | ) | 3
+Net increase (decrease) in cash | $ | 14,231,397 | $ | (1,497,270 | )

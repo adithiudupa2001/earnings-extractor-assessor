@@ -188,6 +188,15 @@
       "results_filings": 359,
       "new": 359,
       "offline": false
+    },
+    {
+      "run_at": "2026-11-15T06:08:22+08:00",
+      "start": "2026-11-13",
+      "end": "2026-11-14",
+      "hits": 98,
+      "results_filings": 92,
+      "new": 6,
+      "offline": false
     }
   ],
   "filings": {
@@ -53132,7 +53141,105 @@
       ],
       "filing_url": "https://www.sec.gov/Archives/edgar/data/2086587/000162828026073422/0001628280-26-073422-index.htm",
       "first_seen": "2026-11-14T06:09:25+08:00"
+    },
+    "0001193125-26-461047": {
+      "accession": "0001193125-26-461047",
+      "file_date": "2026-11-13",
+      "company": "BCP Investment Corp",
+      "tickers": [
+        "BCIC"
+      ],
+      "cik": "1372807",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1372807/000119312526461047/0001193125-26-461047-index.htm",
+      "first_seen": "2026-11-15T06:08:22+08:00"
+    },
+    "0001171843-26-007431": {
+      "accession": "0001171843-26-007431",
+      "file_date": "2026-11-13",
+      "company": "BeyondSpring Inc.",
+      "tickers": [
+        "BYSI"
+      ],
+      "cik": "1677940",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1677940/000117184326007431/0001171843-26-007431-index.htm",
+      "first_seen": "2026-11-15T06:08:22+08:00"
+    },
+    "0001104659-26-127228": {
+      "accession": "0001104659-26-127228",
+      "file_date": "2026-11-13",
+      "company": "CHEETAH NET SUPPLY CHAIN SERVICE INC.",
+      "tickers": [
+        "CTNT"
+      ],
+      "cik": "1951667",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1951667/000110465926127228/0001104659-26-127228-index.htm",
+      "first_seen": "2026-11-15T06:08:22+08:00"
+    },
+    "0001493152-26-051841": {
+      "accession": "0001493152-26-051841",
+      "file_date": "2026-11-13",
+      "company": "Cingulate Inc.",
+      "tickers": [
+        "CING",
+        "CINGW"
+      ],
+      "cik": "1862150",
+      "form": "8-K",
+      "items": [
+        "1.01",
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1862150/000149315226051841/0001493152-26-051841-index.htm",
+      "first_seen": "2026-11-15T06:08:22+08:00"
+    },
+    "0001213900-26-119916": {
+      "accession": "0001213900-26-119916",
+      "file_date": "2026-11-13",
+      "company": "Tempest Therapeutics, Inc.",
+      "tickers": [
+        "TPST"
+      ],
+      "cik": "1544227",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1544227/000121390026119916/0001213900-26-119916-index.htm",
+      "first_seen": "2026-11-15T06:08:22+08:00"
+    },
+    "0001493152-26-051832": {
+      "accession": "0001493152-26-051832",
+      "file_date": "2026-11-13",
+      "company": "Where Food Comes From, Inc.",
+      "tickers": [
+        "WFCF"
+      ],
+      "cik": "1360565",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1360565/000149315226051832/0001493152-26-051832-index.htm",
+      "first_seen": "2026-11-15T06:08:22+08:00"
     }
   },
-  "updated_at": "2026-11-14T06:09:25+08:00"
+  "updated_at": "2026-11-15T06:08:22+08:00"
 }

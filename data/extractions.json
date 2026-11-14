@@ -2004,5 +2004,120 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1507957/000143774926036411/ex_1043661.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1507957/000143774926036411/0001437749-26-036411-index.htm",
     "saved_at": "2026-11-14T06:09:25+08:00"
+  },
+  {
+    "cik": "1862150",
+    "company": "Cingulate Inc.",
+    "accession": "0001493152-26-051841",
+    "release_date": "2026-11-13",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": null,
+      "operating_income": {
+        "value": -7.491018,
+        "unit": "USD millions",
+        "quote": "Operating loss | (7,491,018"
+      },
+      "net_income": {
+        "value": -7.731397,
+        "unit": "USD millions",
+        "quote": "Net loss | (7,731,397"
+      },
+      "diluted_eps": null
+    },
+    "guidance": {
+      "text": "The company expects to resubmit the new drug application for CTx-1301 between December 2026 and January 2027.",
+      "quote": "The Company expects to resubmit the new drug application (NDA) for CTx-1301 between December 2026 and January 2027."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "outlook",
+        "claim": "The CEO says the manufacturing work is substantially complete and the NDA should be resubmitted by January 2027, perhaps sooner.",
+        "quote": "With the manufacturing work substantially complete, we are now finalizing the data and documentation needed to resubmit the NDA for CTx-1301, and we expect to do so by January 2027, potentially sooner"
+      },
+      {
+        "id": "M2",
+        "topic": "other",
+        "claim": "The CEO says the FDA's Complete Response Letter raised no concerns about the clinical safety or efficacy of CTx-1301.",
+        "quote": "Importantly, the FDA’s Complete Response Letter did not raise any concerns about the clinical safety or efficacy of CTx-1301."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The company believes its cash will fund operations into mid-2027.",
+        "quote": "Under its current business plan, the Company believes its cash and cash equivalents will be sufficient to fund operations into mid-2027"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO stresses that the manufacturing work is substantially complete and that the FDA raised no safety or efficacy concerns."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1862150-0001493152-26-051841.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1862150/000149315226051841/ex99-1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1862150/000149315226051841/0001493152-26-051841-index.htm",
+    "saved_at": "2026-11-15T06:08:22+08:00"
+  },
+  {
+    "cik": "1951667",
+    "company": "CHEETAH NET SUPPLY CHAIN SERVICE INC.",
+    "accession": "0001104659-26-127228",
+    "release_date": "2026-11-13",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 3.557805,
+        "unit": "USD millions",
+        "quote": "REVENUE | $ | 3,557,805"
+      },
+      "operating_income": {
+        "value": -0.82189,
+        "unit": "USD millions",
+        "quote": "LOSS FROM OPERATIONS | (821,890"
+      },
+      "net_income": {
+        "value": -2.547995,
+        "unit": "USD millions",
+        "quote": "NET INCOME (LOSS) | $ | (2,547,995"
+      },
+      "diluted_eps": {
+        "value": -11.23,
+        "unit": "USD per share",
+        "quote": "Earnings (loss) per share - basic and diluted | $ | (11.23"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says the international trading business, acquired in May, generated about $3.56 million of revenue in the quarter.",
+        "quote": "Following the acquisition of Super International Trading Limited in May, our international trading business demonstrated encouraging momentum, generating approximately $3.56 million in revenue during the quarter."
+      },
+      {
+        "id": "M2",
+        "topic": "other",
+        "claim": "The CEO says the logistics and warehousing business still faces challenges from global trade conditions and cross-border demand.",
+        "quote": "While our logistics and warehousing business continues to face challenges arising from evolving global trade conditions and cross-border customer demand"
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CEO says the company remains committed to disciplined capital allocation and prudent financial management.",
+        "quote": "Looking ahead, we remain committed to disciplined capital allocation, prudent financial management, and the pursuit of strategic opportunities that complement our existing capabilities."
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "The CEO welcomes the momentum in international trading but notes continuing challenges in logistics and warehousing."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1951667-0001104659-26-127228.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1951667/000110465926127228/tm2629774d1_ex99-1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1951667/000110465926127228/0001104659-26-127228-index.htm",
+    "saved_at": "2026-11-15T06:08:22+08:00"
   }
 ]
