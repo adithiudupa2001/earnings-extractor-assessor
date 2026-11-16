@@ -3763,5 +3763,77 @@
       "match": true
     },
     "offline": false
+  },
+  {
+    "run_at": "2026-11-17T06:07:47+08:00",
+    "agent": "watcher",
+    "brief": "briefs/2026-11-17-watch.md",
+    "brief_checked": true,
+    "sources": {
+      "ok": 9,
+      "total": 9,
+      "failures": []
+    },
+    "counts": {
+      "radar_new": 117,
+      "companies": 3,
+      "new": 2,
+      "saved": 2,
+      "no_new": 3,
+      "failed": 0
+    },
+    "radar": {
+      "ok": true,
+      "start": "2026-11-15",
+      "end": "2026-11-16",
+      "hits": 122,
+      "results_filings": 117,
+      "new": 117,
+      "watchlist_new": [],
+      "detail": null
+    },
+    "companies": [
+      {
+        "cik": "2100161",
+        "company": "Blackstone Digital Infrastructure Trust Inc.",
+        "status": "saved",
+        "accession": "0002100161-26-000015",
+        "release_date": "2026-11-16",
+        "period_label": "quarter ended 30 September 2026"
+      },
+      {
+        "cik": "1885522",
+        "company": "Neumora Therapeutics, Inc.",
+        "status": "saved",
+        "accession": "0001193125-26-462165",
+        "release_date": "2026-11-16",
+        "period_label": "quarter ended 30 September 2026"
+      },
+      {
+        "cik": "1652044",
+        "company": "Alphabet",
+        "status": "no_new",
+        "accession": "0001652044-26-000080",
+        "release_date": "2026-10-28",
+        "period_label": "quarter ended 30 September 2026"
+      },
+      {
+        "cik": "1018724",
+        "company": "Amazon",
+        "status": "no_new",
+        "accession": "0001018724-26-000038",
+        "release_date": "2026-10-29",
+        "period_label": "quarter ended 30 September 2026"
+      },
+      {
+        "cik": "1326801",
+        "company": "Meta Platforms",
+        "status": "no_new",
+        "accession": "0001628280-26-066700",
+        "release_date": "2026-10-21",
+        "period_label": "quarter ended 30 September 2026"
+      }
+    ],
+    "offline": false
   }
 ]

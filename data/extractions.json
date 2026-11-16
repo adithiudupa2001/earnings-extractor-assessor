@@ -2119,5 +2119,113 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1951667/000110465926127228/tm2629774d1_ex99-1.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1951667/000110465926127228/0001104659-26-127228-index.htm",
     "saved_at": "2026-11-15T06:08:22+08:00"
+  },
+  {
+    "cik": "2100161",
+    "company": "Blackstone Digital Infrastructure Trust Inc.",
+    "accession": "0002100161-26-000015",
+    "release_date": "2026-11-16",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": null,
+      "operating_income": null,
+      "net_income": {
+        "value": 15.571,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 15,571"
+      },
+      "diluted_eps": {
+        "value": 0.15,
+        "unit": "USD per share",
+        "quote": "Net income per share, basic and diluted | $ | 0.15"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "other",
+        "claim": "The CEO calls the first investment, thirteen new data centres bought through a sale-leaseback with Amazon, an important milestone.",
+        "quote": "Today marks an important milestone for BXDC with our inaugural investment in thirteen newly constructed data centers across two campuses through a sale-leaseback with Amazon."
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "The CEO believes the transaction gives highly compelling risk-adjusted returns and a strong base for long-term value.",
+        "quote": "We believe this transaction delivers highly compelling risk-adjusted returns and establishes a strong foundation for long-term shareholder value creation."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CEO says the hyperscaler sale-leaseback channel doubles the company's total addressable market.",
+        "quote": "as the hyperscaler sale-leaseback channel doubles our total addressable market. We believe BXDC is exceptionally well-positioned to capitalize on this growing opportunity set."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO speaks of an important milestone, highly compelling returns and a company exceptionally well-positioned, and names no headwind in his own words."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/2100161-0002100161-26-000015.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/2100161/000210016126000015/exhibit991-20260930.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/2100161/000210016126000015/0002100161-26-000015-index.htm",
+    "saved_at": "2026-11-17T06:07:47+08:00"
+  },
+  {
+    "cik": "1885522",
+    "company": "Neumora Therapeutics, Inc.",
+    "accession": "0001193125-26-462165",
+    "release_date": "2026-11-16",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": null,
+      "operating_income": {
+        "value": -33.409,
+        "unit": "USD millions",
+        "quote": "Loss from operations | (33,409"
+      },
+      "net_income": {
+        "value": -34.44,
+        "unit": "USD millions",
+        "quote": "Net loss | $ | (34,440"
+      },
+      "diluted_eps": {
+        "value": -0.18,
+        "unit": "USD per share",
+        "quote": "Net loss per share, basic and diluted | $ | (0.18"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "other",
+        "claim": "The CEO describes a period of strong execution across the pipeline, including the NMRA-215 IND submission and new NMRA-511 data.",
+        "quote": "We’ve been in a period of strong execution across our pipeline, including the submission of our IND for NMRA-215 in obesity and the NMRA-511 data we reported today"
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "Research and development expenses fell to $22.6 million from $40.5 million, mainly on lower clinical trial and personnel costs.",
+        "quote": "Research and development expenses for the third quarter of 2026 were $22.6 million, as compared to $40.5 million for the same period in 2025. The decrease was primarily due to a reduction in clinical trial costs, and lower personnel-related costs."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CEO says capital goes to the programmes with the most potential and the company is evaluating options to fund its lead programmes.",
+        "quote": "We remain disciplined in allocating capital to the programs with the greatest potential to create value for patients and shareholders, and we are actively evaluating options to fund our lead programs through their next value inflection points."
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "The CEO cites strong execution but also says the company is evaluating options to fund its lead programmes, and the release gives no runway guidance."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1885522-0001193125-26-462165.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1885522/000119312526462165/nmra-ex99_1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1885522/000119312526462165/0001193125-26-462165-index.htm",
+    "saved_at": "2026-11-17T06:07:47+08:00"
   }
 ]
