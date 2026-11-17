@@ -4022,5 +4022,103 @@
       }
     ],
     "offline": false
+  },
+  {
+    "run_at": "2026-11-18T06:38:12+08:00",
+    "agent": "assessor",
+    "brief": "briefs/2026-11-18-assess.md",
+    "brief_checked": true,
+    "sources": {
+      "ok": 4,
+      "total": 4,
+      "failures": []
+    },
+    "counts": {
+      "to_assess": 4,
+      "checked": 4,
+      "rechecks": 2,
+      "confirmed": 5,
+      "mismatch": 0,
+      "cannot_check": 11
+    },
+    "companies": [
+      {
+        "cik": "1037540",
+        "company": "BXP, Inc.",
+        "accession": "0001037540-26-000041",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 0,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 4
+        }
+      },
+      {
+        "cik": "1406666",
+        "company": "CALIX, INC",
+        "accession": "0001406666-26-000040",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": true,
+        "confirmed": 0,
+        "mismatch": 0,
+        "cannot_check": 4,
+        "claims_match": 0,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 2
+        }
+      },
+      {
+        "cik": "1839530",
+        "company": "XBP Global Holdings, Inc.",
+        "accession": "0001104659-26-128573",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": false,
+        "confirmed": 4,
+        "mismatch": 0,
+        "cannot_check": 0,
+        "claims_match": 2,
+        "claims_mismatch": 1,
+        "ratings": {
+          "S1": 5,
+          "S2": 5,
+          "S3": 5
+        }
+      },
+      {
+        "cik": "1547546",
+        "company": "Lument Finance Trust, Inc.",
+        "accession": "0001104659-26-128565",
+        "period_label": "quarter ended 30 September 2026",
+        "recheck": false,
+        "confirmed": 1,
+        "mismatch": 0,
+        "cannot_check": 3,
+        "claims_match": 0,
+        "claims_mismatch": 0,
+        "ratings": {
+          "S1": 5,
+          "S2": 4,
+          "S3": 4
+        }
+      }
+    ],
+    "headline": "Checked 4 extractions: 5 figures confirmed, 0 mismatches, 11 cannot check.",
+    "radar_check": {
+      "watch_run_at": "2026-11-18T06:07:50+08:00",
+      "watch_brief": "briefs/2026-11-18-watch.md",
+      "brief_says": 6,
+      "saved_for_run": 6,
+      "match": true
+    },
+    "offline": false
   }
 ]
