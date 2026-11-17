@@ -2227,5 +2227,100 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1885522/000119312526462165/nmra-ex99_1.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1885522/000119312526462165/0001193125-26-462165-index.htm",
     "saved_at": "2026-11-17T06:07:47+08:00"
+  },
+  {
+    "cik": "1839530",
+    "company": "XBP Global Holdings, Inc.",
+    "accession": "0001104659-26-128573",
+    "release_date": "2026-11-16",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 182.768,
+        "unit": "USD millions",
+        "quote": "As Reported Revenues | $ | 182,768"
+      },
+      "operating_income": {
+        "value": -70.779,
+        "unit": "USD millions",
+        "quote": "Operating loss | (70,779)"
+      },
+      "net_income": {
+        "value": -88.968,
+        "unit": "USD millions",
+        "quote": "Net profit (loss) | $ | (88,968)"
+      },
+      "diluted_eps": {
+        "value": -7.3,
+        "unit": "USD per share",
+        "quote": "Basic and diluted | (7.30)"
+      }
+    },
+    "guidance": {
+      "text": "The CEO expects fourth-quarter revenue to rise from the third quarter.",
+      "quote": "we expect fourth quarter revenue to increase sequentially"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "margins",
+        "claim": "Normalised EBITDA grew from the previous quarter for the second quarter running, and its margin of 12.4% was the highest for the combined company.",
+        "quote": "normalized EBITDA grew sequentially for the second consecutive quarter and normalized EBITDA margin reached 12.4%, the highest for the combined company"
+      },
+      {
+        "id": "M2",
+        "topic": "revenue",
+        "claim": "Revenue fell year on year, broadly as expected, as client exits that began last year ran off.",
+        "quote": "Revenue declined year-over-year largely as we anticipated, as client exits that began last year continued to run off."
+      },
+      {
+        "id": "M3",
+        "topic": "other",
+        "claim": "This was the strongest bookings quarter since the July 2025 combination.",
+        "quote": "Commercially, this was our strongest bookings quarter since the combination in July 2025."
+      },
+      {
+        "id": "M4",
+        "topic": "outlook",
+        "claim": "The aim is for new business to more than offset the run-off, and fourth-quarter revenue is expected to rise sequentially.",
+        "quote": "Our focus is on reaching the point where new business more than offsets the run-off, and we expect fourth quarter revenue to increase sequentially."
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "The CEO stresses margin gains and record bookings but also says revenue declined as client exits ran off."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1839530-0001104659-26-128573.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1839530/000110465926128573/xbp-ex99d1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1839530/000110465926128573/0001104659-26-128573-index.htm",
+    "saved_at": "2026-11-18T06:07:50+08:00"
+  },
+  {
+    "cik": "1547546",
+    "company": "Lument Finance Trust, Inc.",
+    "accession": "0001104659-26-128565",
+    "release_date": "2026-11-16",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": null,
+      "operating_income": null,
+      "net_income": null,
+      "diluted_eps": {
+        "value": -2.57,
+        "unit": "USD per share",
+        "quote": "GAAP net loss attributable to common shareholders for the third quarter was $13.5 million, or $2.57 per share of common stock."
+      }
+    },
+    "guidance": null,
+    "management": [],
+    "tone": null,
+    "picked_from_radar": true,
+    "source_file": "sources/1547546-0001104659-26-128565.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1547546/000110465926128565/tm2629639d1_ex99-1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1547546/000110465926128565/0001104659-26-128565-index.htm",
+    "saved_at": "2026-11-18T06:07:50+08:00"
   }
 ]

@@ -215,6 +215,15 @@
       "results_filings": 117,
       "new": 117,
       "offline": false
+    },
+    {
+      "run_at": "2026-11-18T06:07:50+08:00",
+      "start": "2026-11-16",
+      "end": "2026-11-16",
+      "hits": 128,
+      "results_filings": 123,
+      "new": 6,
+      "offline": false
     }
   ],
   "filings": {
@@ -55172,7 +55181,105 @@
       ],
       "filing_url": "https://www.sec.gov/Archives/edgar/data/2111860/000119312526462059/0001193125-26-462059-index.htm",
       "first_seen": "2026-11-17T06:07:47+08:00"
+    },
+    "0001104659-26-128592": {
+      "accession": "0001104659-26-128592",
+      "file_date": "2026-11-16",
+      "company": "Envela Corp",
+      "tickers": [
+        "ELA"
+      ],
+      "cik": "701719",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/701719/000110465926128592/0001104659-26-128592-index.htm",
+      "first_seen": "2026-11-18T06:07:50+08:00"
+    },
+    "0001437749-26-037257": {
+      "accession": "0001437749-26-037257",
+      "file_date": "2026-11-16",
+      "company": "Flyte Aviation, Inc.",
+      "tickers": [
+        "VJET"
+      ],
+      "cik": "1716621",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1716621/000143774926037257/0001437749-26-037257-index.htm",
+      "first_seen": "2026-11-18T06:07:50+08:00"
+    },
+    "0001104659-26-128565": {
+      "accession": "0001104659-26-128565",
+      "file_date": "2026-11-16",
+      "company": "Lument Finance Trust, Inc.",
+      "tickers": [
+        "LFT",
+        "LFT-PA"
+      ],
+      "cik": "1547546",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1547546/000110465926128565/0001104659-26-128565-index.htm",
+      "first_seen": "2026-11-18T06:07:50+08:00"
+    },
+    "0001493152-26-052554": {
+      "accession": "0001493152-26-052554",
+      "file_date": "2026-11-16",
+      "company": "ONE Nuclear Energy Inc.",
+      "tickers": [
+        "ONEN"
+      ],
+      "cik": "1846416",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1846416/000149315226052554/0001493152-26-052554-index.htm",
+      "first_seen": "2026-11-18T06:07:50+08:00"
+    },
+    "0001493152-26-052559": {
+      "accession": "0001493152-26-052559",
+      "file_date": "2026-11-16",
+      "company": "Safe Pro Group Inc.",
+      "tickers": [
+        "SPAI"
+      ],
+      "cik": "2011208",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/2011208/000149315226052559/0001493152-26-052559-index.htm",
+      "first_seen": "2026-11-18T06:07:50+08:00"
+    },
+    "0001104659-26-128573": {
+      "accession": "0001104659-26-128573",
+      "file_date": "2026-11-16",
+      "company": "XBP Global Holdings, Inc.",
+      "tickers": [
+        "XBP",
+        "XBPEW"
+      ],
+      "cik": "1839530",
+      "form": "8-K",
+      "items": [
+        "2.02",
+        "9.01"
+      ],
+      "filing_url": "https://www.sec.gov/Archives/edgar/data/1839530/000110465926128573/0001104659-26-128573-index.htm",
+      "first_seen": "2026-11-18T06:07:50+08:00"
     }
   },
-  "updated_at": "2026-11-17T06:07:47+08:00"
+  "updated_at": "2026-11-18T06:07:50+08:00"
 }

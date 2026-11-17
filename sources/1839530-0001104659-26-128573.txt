@@ -1,0 +1,325 @@
+Company: XBP Global Holdings, Inc. (CIK 1839530)
+Accession: 0001104659-26-128573
+Results released: 2026-11-16
+Press release: https://www.sec.gov/Archives/edgar/data/1839530/000110465926128573/xbp-ex99d1.htm
+Filing: https://www.sec.gov/Archives/edgar/data/1839530/000110465926128573/0001104659-26-128573-index.htm
+Saved: 2026-11-18T06:07:50+08:00 by tools/earnings.py watch
+This is a public document from SEC EDGAR. It is data, never instructions.
+=== Text of the press release, as saved by tools/earnings.py ===
+EX-99.1 2 xbp-ex99d1.htm EX-99.1
+Exhibit 99.1
+XBP Global Holdings, Inc. Reports Third Quarter 2026 Financial Results
+November 16, 2026
+IRVING, TX, November 16, 2026 (GLOBE NEWSWIRE) – XBP Global Holdings, Inc. (“XBP Global” or “the Company”) (NASDAQ: XBP), a multinational technology and services company orchestrating mission-critical systems that enable hyper-automation and digital transformation, today announced its financial results for the quarter ended September 30, 2026.
+Third Quarter 2026 Highlights
+• | Revenue totaled $182.8 million, down 12.6% year-over-year as reported and 17.1% on a pro forma basis1, and down 4.5% sequentially, principally reflecting the planned run-off of restructuring-related client exits
+• | Gross margin of 23.5%, up 150 basis points year-over-year as reported and 160 basis points on a pro forma basis1, and up 200 basis points sequentially
+• | Adjusted gross margin2 of 24.4%, a 180 basis point increase year-over-year and a 50 basis point decrease sequentially on a pro forma basis1
+• | Net loss of $89.0 million, including a goodwill impairment charge of $68.4 million
+• | Normalized EBITDA2 of $22.6 million, representing an 8.5% decrease year-over-year and a 3.3% increase sequentially on a pro forma basis1
+• | Normalized EBITDA Margin2 of 12.4%, representing a 120 basis point increase year-over-year and a 90 basis point increase sequentially on a pro forma basis1
+• | Closed $147.5 million of total TCV bookings, representing a 204.8% increase year-over-year and 53.9% above the trailing four-quarter average1,3
+• | Closed $37.5 million of new ACV bookings, representing a 103.7% increase year-over-year and 28.7% above the trailing four-quarter average1,3
+• | Raised targeted annualized operational efficiencies to $70 million to $75 million, from $65 million to $75 million previously
+• | Completed a private placement of approximately 2.3 million shares of common stock for gross proceeds of approximately $6.1 million, with participation from existing shareholders, directors and affiliates
+• | Subsequent to quarter end, reduced debt by approximately $7.0 million, consisting of full repayment of the $6.5 million Second Lien Note at maturity on October 1, 2026 and repayment of the remaining $0.5 million outstanding under the Amended BR Exar AR Facility
+"In the third quarter, normalized EBITDA grew sequentially for the second consecutive quarter and normalized EBITDA margin reached 12.4%, the highest for the combined company, as our AI-first operating model continued to expand margins,” said Andrej Jonovic, Chief Executive Officer of XBP Global. "Revenue declined year-over-year largely as we anticipated, as client exits that began last year continued to run off. Commercially, this was our strongest bookings quarter since the combination in July 2025. In the first nine months of the year, our new TCV booked has already exceeded our total for all of 2025. Our focus is on reaching the point where new business more than offsets the run-off, and we expect fourth quarter revenue to increase sequentially.”
+“Our positioning is resonating with our clients. We see demand where organizations want to benefit from applied AI that runs inside their own environment, with human oversight where it matters, particularly in heavily regulated sectors like healthcare, financial services and the public sector. Our priority now is converting that momentum into durable and scalable growth.”
+AI-Enabled Operational Efficiency Program
+During the third quarter, XBP Global raised its target for annualized operational efficiencies to $70 million to $75 million, from $65 million to $75 million previously. The program combines continued AI adoption, workflow automation and operating efficiency initiatives across the Company’s delivery
+operations and support functions. The Company continues to expect an in-year benefit of approximately $35 million in 2026.
+Below are the notes referenced above:
+1. | Pro forma results reflect the combined company as if the July 2025 acquisition of Exela Technologies BPA, LLC (together with its subsidiaries and certain affiliates “BPA”) had occurred on January 1, 2025, and include adjustments to provide period-to-period comparability where the reported results exclude the results of XBP Europe Holdings, Inc. (as it existed prior to such acquisition, “XBP Europe”) until July 31, 2025.
+2. | Adjusted Gross Margin and Normalized EBITDA are non-GAAP measures. A reconciliation of non-GAAP measures is attached to this release.
+3. | Total Contract Value (“TCV”) represents the initial estimated revenue related to contracts signed in the period without regard for early termination or revenue recognition rules. Changes to contracts and scope are treated as TCV only to the extent of the incremental new value. New TCV represents TCV attributable to expansion and new scope for existing clients, as well as TCV attributable to new clients. Annual contract value (“ACV”) represents the annualized value of the TCV, calculated by dividing the TCV of each individual contract by its respective duration in years. TCV and ACV are operating metrics, are not measures of revenue calculated in accordance with GAAP and should not be considered substitutes for revenue. The amounts ultimately recognized as revenue may differ from TCV or ACV because of contract modifications, terminations, performance obligations and revenue-recognition requirements and other factors.
+Earnings Call and Supplemental Investor Presentation
+The Company will host a live conference call at 5:00 pm Eastern Time on November 16, 2026, accompanied by a live webcast. Hosting the call will be Andrej Jonovic, Chief Executive Officer and Dejan Avramovic, Chief Financial Officer.
+Participant Call-In Registration: Participants who wish to join the conference by telephone must register using the following dial-in registration link to receive the dial-in number and a personalized PIN code that will be required to access the call: https://register-conf.media-server.com/register/BI838c68c9908a41d1894cff7d00e92e91.
+Participant Live Webcast Registration: To access the live webcast, please visit https://edge.media-server.com/mmc/p/7mrpt7ge or XBP Global’s Investor Relations website at https://investors.xbpglobal.com/.
+Rebroadcast: Following the live webcast, a replay will be available on XBP Global’s Investor Relations website.
+An investor presentation relating to our third quarter 2026 performance will be available at https://investors.xbpglobal.com.
+About Pro Forma Financial Information
+This press release includes certain pro forma financial information, which is presented for informational purposes only and is not prepared in accordance with U.S. generally accepted accounting principles (“GAAP”). Pro forma results are presented on an unaudited basis as if the acquisition of BPA had been consummated on January 1, 2025, regardless of the actual closing date.
+For financial reporting purposes, BPA is treated as the accounting acquirer, and results exclude XBP Europe until July 31, 2025. As a result, reported results for periods prior to July 31, 2025 are not comparable to previous annual earnings results presented by the Company. Pro forma financial information is intended to provide investors with a clearer understanding of the underlying performance and trends of the combined business by illustrating the impact of the acquisition on historical results. These results are designed to facilitate period-to-period comparisons and enhance transparency into ongoing operations.
+Pro forma information is based on certain assumptions and adjustments, including the elimination of intercompany transactions, acquisition-related costs, and the alignment of accounting policies, as described in the accompanying tables and footnotes. This information is unaudited and does not
+purport to represent what actual results would have been had the acquisition occurred at the dates indicated, nor does it project future results.
+Pro forma financial information should be read in conjunction with historical financial statements, related notes, and the pro forma adjustments and explanatory notes included in this release.
+About Non-GAAP Financial Measures
+This press release also includes certain non-GAAP financial measures, including EBITDA, Normalized EBITDA, Pro Forma Normalized EBITDA, Adjusted Gross Profit and Adjusted Gross Margin, which are not prepared in accordance with GAAP.
+Management believes these non-GAAP measures are useful supplemental measures; however, investors are encouraged to review the Company’s GAAP results and not rely on any
+single financial measure.
+These measures provide investors with additional insight into financial performance, results of operations, and liquidity, and help facilitate comparisons of underlying business trends across periods. Management uses these measures to evaluate performance consistently by excluding the effects of capital structure (such as varying debt levels, interest expense, and transaction costs from acquisitions).
+We define EBITDA as net income (loss), plus taxes, interest expense, and depreciation and amortization. We define Normalized EBITDA as EBITDA adjusted to exclude impairment of goodwill, reorganization items, severance, restructuring and transaction related expenses, foreign exchange losses (gains), non-cash equity compensation, loss (gain) on sale of assets, losses of previously discontinued operations, changes in the fair value of warrant liability, transaction fees and other non-recurring items, and to include optimization and restructuring savings, which represent the annualized run-rate cost savings from optimization and restructuring initiatives implemented during the period, as if such savings had been realized for the entire period presented. We define Pro Forma Normalized EBITDA as Normalized EBITDA plus management’s estimates of the impact of the accounting acquisition of XBP Europe and reorganization of BPA, had such transactions occurred at the beginning of the earliest period presented.
+We define Adjusted Gross Profit as GAAP gross profit, adjusted to exclude severance, restructuring and related expenses, and discontinued operations, and Adjusted Gross Margin as Adjusted Gross Profit expressed as a percentage of total revenue. Management believes that Adjusted Gross Profit and Adjusted Gross Margin provide useful supplemental information to investors regarding the underlying operational performance of our business, facilitate period-over-period comparisons of core operating efficiency, and align with the metrics management uses to evaluate performance and allocate resources.
+Non-GAAP financial measures should not be considered in isolation or as alternatives to liquidity or financial measures determined in accordance with GAAP. A limitation of these measures is that they exclude significant expenses and income required by GAAP to be recorded in the financial statements. In addition, the determination of which items to exclude or include requires the application of management judgment, and these measures may not be comparable to similarly titled measures reported by other companies.
+These measures are not required to be uniformly applied, are unaudited, and should not be considered in isolation or as substitutes for results prepared in accordance with GAAP, and their presentation may not be comparable to similar measures used by other companies. Net income (loss), gross profit and gross margin are the GAAP measures most directly comparable to the non-GAAP measures presented here. For a reconciliation of the comparable GAAP measures to these non-GAAP financial measures, see the schedules attached to this release.
+Forward-Looking Statements
+This press release contains “forward-looking statements” within the meaning of the United States Private Securities Litigation Reform Act of 1995, Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Exchange Act. These statements include financial forecasts, projections, and other statements about future operations, financial position, business strategy, market opportunities,
+and trends. Forward-looking statements can often be identified by terms such as “may,” “should,” “expect,” “intend,” “will,” “estimate,” “anticipate,” “believe,” “predict,” “plan,” “targets,” “projects,” “could,” “would,” “continue,” “forecast,” or similar expressions. All forward-looking statements are based on estimates, forecasts, and assumptions that are inherently uncertain and subject to risks and factors that could cause actual results to differ materially. These include, but are not limited to: (1) risks related to the acquisition and related restructuring, including the inability to realize anticipated benefits, disruptions to operations, and costs associated with the acquisition; (2) legal proceedings; (3) failure to maintain compliance with Nasdaq listing standards; (4) competition and market conditions; (5) economic, geopolitical, and regulatory changes; (6) challenges in retaining clients, employees, and suppliers; and (7) other risks detailed in the Company’s filings with the SEC, including the “Risk Factors” section of its Annual Report on Form 10-K for 2025. Readers are cautioned not to place undue reliance on forward-looking statements, which speak only as of the date made. XBP Global undertakes no obligation to update these statements, except as required by law. There is no assurance that XBP Global or its subsidiaries will achieve the results projected in these statements.
+About XBP Global
+XBP Global is a multinational technology and services company powering intelligent workflows for organizations worldwide. With a presence in 20 countries and approximately 8,100 employees, XBP Global partners with over 2,000 clients, including many of the Fortune 100, to orchestrate mission-critical systems that enable hyper-automation.
+Our proprietary platforms, agentic AI-driven automation, and deep domain expertise across industries and the public and private sectors enable our clients to entrust us with their most impactful digital transformations and workflows. By combining innovation with execution excellence, XBP Global helps businesses reimagine how they work, transact, and unlock value.
+For more news, commentary, and industry perspectives, visit: https://www.xbpglobal.com/
+And please follow us on social:
+X: https://X.com/XBPglobal
+LinkedIn: https://www.linkedin.com/company/xbpglobal/
+The information posted on XBP Global’s website and/or via its social media accounts may be deemed material to investors. Accordingly, investors, media and others interested in XBP Global should monitor XBP Global’s website and its social media accounts in addition to XBP Global’s press releases, SEC filings and public conference calls and webcasts.
+Investor Relations: investors@xbpglobal.com | Media Queries: press@xbpglobal.com
+XBP Global Holdings, Inc. and Subsidiaries
+Condensed Consolidated Balance Sheets
+As of September 30, 2026 (Successor) and December 31, 2025 (Successor)
+(in thousands of United States dollars except share and per share amounts)
+Successor
+Consolidated
+September 30, 2026 (Unaudited) | December 31, 2025
+Assets
+Current assets
+Cash and cash equivalents | $ | 28,651 | $ | 37,113
+Restricted cash | 9,870 | 31,553
+Accounts receivable, net of allowance for credit losses of $3,917 and $5,660, respectively | 116,916 | 130,281
+Related party receivables and prepaid expenses | 1,191 | 736
+Inventories, net | 11,404 | 11,365
+Assets held for sale | 2,344 | —
+Prepaid expenses and other current assets | 23,438 | 28,699
+Total current assets | 193,814 | 239,747
+Property, plant and equipment, net of accumulated depreciation of $23,913 and $11,094, respectively | 71,653 | 82,956
+Operating lease right-of-use assets, net | 24,042 | 30,339
+Goodwill | 121,492 | 189,881
+Intangible assets, net | 316,427 | 344,080
+Other noncurrent assets | 16,411 | 15,094
+Total assets | $ | 743,839 | $ | 902,097
+Liabilities and Stockholders' Equity (Deficit)
+Liabilities
+Current liabilities
+Current portion of long-term debt | $ | 16,771 | $ | 34,334
+Accounts payable | 68,362 | 55,700
+Related party payables | 2,008 | 5,343
+Income tax payable | 10,192 | 6,158
+Accrued liabilities | 43,918 | 47,101
+Accrued compensation and benefits | 58,261 | 56,314
+Accrued interest | 11,612 | 13,685
+Customer deposits | 17,980 | 21,691
+Deferred revenue | 13,511 | 11,881
+Obligation for claim payment | 59,782 | 55,632
+Current portion of finance lease liabilities | 3,649 | 4,390
+Current portion of operating lease liabilities | 10,369 | 9,814
+Total current liabilities | 316,415 | 322,043
+Long-term debt, net of current maturities | 351,647 | 353,267
+Finance lease liabilities, net of current portion | 6,823 | 6,857
+Net defined benefit liability | 7,832 | 6,241
+Deferred income tax liabilities | 44,745 | 52,595
+Long-term income tax liabilities | 8,923 | 10,554
+Operating lease liabilities, net of current portion | 15,669 | 22,530
+Other long-term liabilities | 30,105 | 40,671
+Total liabilities | 782,159 | 814,758
+Commitments and Contingencies (Note 9)
+Stockholders' Equity (Deficit)
+Common stock, par value of $0.0001 per share; 400,000,000 shares authorized; 14,198,379 shares issued and outstanding as of September 30, 2026 and 11,755,434 shares issued and outstanding as of December 31, 2025 | 12 | 12
+Preferred stock, par value of $0.0001 per share; 20,000,000 shares authorized; none issued and outstanding as of September 30, 2026 and December 31, 2025 | — | —
+Additional paid in capital | 444,154 | 437,995
+Accumulated deficit | (483,557) | (351,123)
+Accumulated other comprehensive profit:
+Foreign currency translation adjustment | (506) | (1,263)
+Unrealized pension actuarial gains, net of tax | 1,577 | 1,718
+Total accumulated other comprehensive profit | 1,071 | 455
+Total stockholders' equity (deficit) | (38,320) | 87,339
+Total liabilities and stockholders' equity (deficit) | $ | 743,839 | $ | 902,097
+XBP Global Holdings, Inc. and Subsidiaries
+Condensed Consolidated and Combined Statements of Operations
+For the three months ended September 30, 2026 (Successor), and the periods August 1, 2025 to September 30, 2025 (Successor), July 1, 2025 to July 31, 2025 (Predecessor)
+(in thousands of United States dollars except share and per share amounts)
+(Unaudited)
+Successor | Predecessor
+Consolidated | Combined and Consolidated
+Three Months Ended September 30, | Period from August 1, 2025 through September 30, | Period from July 1, 2025 through July 31,
+2026 | 2025 | 2025
+Revenue | $ | 182,744 | $ | 152,403 | $ | 56,527
+Related party revenue | 24 | 4 | 151
+Cost of revenue (exclusive of depreciation and amortization) | 139,884 | 119,324 | 43,800
+Selling, general and administrative expenses (exclusive of depreciation and amortization) | 29,032 | 17,980 | 10,966
+Depreciation and amortization | 14,961 | 9,142 | 3,196
+Impairment of goodwill | 68,389 | 295,800 | —
+Related party expense, net | 1,281 | 2,327 | 599
+Operating loss | (70,779) | (292,166) | (1,883)
+Other expense (income), net:
+Interest expense, net | 15,452 | 9,709 | 4,551
+Sundry expense (income), net | 1,214 | 684 | (361)
+Other income, net | (560) | (923) | (28)
+Loss before reorganization items and income taxes | (86,885) | (301,636) | (6,045)
+Reorganization items, net | — | 831 | (1,519,485)
+Profit (loss) before income taxes | (86,885) | (302,467) | 1,513,440
+Income tax expense | 2,083 | 3,371 | 33,347
+Net profit (loss) | $ | (88,968) | $ | (305,838) | $ | 1,480,093
+Net loss per common share
+Basic and diluted | (7.30) | (26.03)
+XBP Global Holdings, Inc. and Subsidiaries
+Condensed Consolidated and Combined Statements of Operations
+For the nine months ended September 30, 2026 (Successor), and the periods August 1, 2025 to September 30, 2025 (Successor), January 1, 2025 to July 31, 2025 (Predecessor)
+(in thousands of United States dollars except share and per share amounts)
+(Unaudited)
+Successor | Predecessor
+Consolidated | Combined and Consolidated
+Nine Months Ended September 30, | Period from August 1, 2025 through September 30, | Period from January 1, 2025 through July 31,
+2026 | 2025 | 2025
+Revenue | $ | 571,140 | $ | 152,403 | $ | 429,187
+Related party revenue | 24 | 4 | 2,474
+Cost of revenue (exclusive of depreciation and amortization) | 441,936 | 119,324 | 339,981
+Selling, general and administrative expenses (exclusive of depreciation and amortization) | 99,782 | 17,980 | 53,946
+Depreciation and amortization | 45,078 | 9,142 | 22,313
+Impairment of goodwill | 68,389 | 295,800 | —
+Related party expense, net | 5,561 | 2,327 | 5,750
+Operating profit (loss) | (89,582) | (292,166) | 9,671
+Other expense (income), net:
+Interest expense, net | 43,411 | 9,709 | 75,226
+Debt modification and extinguishment costs, net | — | — | 121
+Sundry expense, net | 2,231 | 684 | 1,644
+Other income, net | (1,682) | (923) | (28)
+Loss before reorganization items and income taxes | (133,542) | (301,636) | (67,292)
+Reorganization items, net | — | 831 | (1,557,825)
+Profit (loss) before income taxes | (133,542) | (302,467) | 1,490,533
+Income tax expense (benefit) | (1,108) | 3,371 | 35,875
+Net profit (loss) | $ | (132,434) | $ | (305,838) | $ | 1,454,658
+Net loss per common share
+Basic and diluted | (11.12) | (26.03)
+XBP Global Holdings, Inc. and Subsidiaries
+Condensed Consolidated and Combined Statements of Cash Flows
+For the nine months ended September 30, 2026 (Successor), and the periods August 1, 2025 to September 30, 2025 (Successor), January 1, 2025 to July 31, 2025 (Predecessor)
+(in thousands of United States dollars except share and per share amounts)
+(Unaudited)
+Successor | Predecessor
+Consolidated | Combined and Consolidated
+Nine Months Ended September 30, | Period from August 1, 2025 through September 30, | Period from January 1, 2025 through July 31,
+2026 | 2025 | 2025
+Cash flows from operating activities
+Net profit (loss) | $ | (132,434) | $ | (305,838) | $ | 1,454,658
+Adjustments to reconcile net profit (loss) to cash provided by (used in) operating activities
+Depreciation and amortization | 45,078 | 9,142 | 22,313
+Original issue discount, debt premium and debt issuance cost amortization | 5,026 | 1,400 | (14,595)
+Reorganization items | — | — | (1,626,790)
+Interest on BR Exar AR Facility | — | — | (2,399)
+Debt modification and extinguishment loss (gain), net | — | — | 121
+Impairment of goodwill | 68,389 | 295,800 | —
+Impairment of leasehold improvements | 309 | — | —
+Provision for credit losses | (1,160) | 732 | (278)
+Deferred income tax provision | (8,018) | 958 | 36,396
+Equity-based compensation expense | 1,572 | 258 | 204
+Unrealized foreign currency (gain) loss | 3,474 | (858) | (659)
+Loss on sale of assets | 902 | 190 | 1,967
+Fair value adjustment for private warrants liability | — | 3 | —
+Paid-in-kind interest | — | — | 28,848
+Change in operating assets and liabilities, net of effect from acquisitions
+Accounts receivable | 14,543 | 7,009 | (93,713)
+Prepaid expenses and other current assets | 3,587 | 1,536 | (2,203)
+Accounts payable and accrued liabilities | 1,747 | (894) | 30,172
+Related party receivable (payables) | (3,790) | 4,448 | 6,134
+Additions to outsourced contract costs | (168) | (20) | (118)
+Net cash provided by (used in) operating activities | (943) | 13,866 | (159,942)
+Cash flows from investing activities
+Net cash received from acquisition (Refer to Note 4) | — | — | 1,485
+Purchase of property, plant and equipment | (5,258) | (3,396) | (3,081)
+Additions to internally developed software | (1,459) | (473) | (1,067)
+Proceeds from sale of assets | 89 | 603 | (27)
+Net cash used in investing activities | (6,628) | (3,266) | (2,690)
+Cash flows from financing activities
+Proceeds from issuance of Common Stock from private placement | 5,325 | — | —
+Cash paid for equity issuance costs | (650) | — | —
+Cash paid for debt issuance costs | (3,350) | (1,035) | (3,719)
+Cash paid for withholding taxes on vested RSUs | (100) | — | —
+Principal payments on finance lease obligations | (4,153) | (322) | (3,360)
+Borrowings from other loans | 24,682 | 1,436 | 3,785
+Proceeds from Issuance of July 2030 Notes | 11,238 | — | —
+Proceeds from Revolving Credit Facility | — | — | 18,000
+Proceeds from Super Senior Term Loan | 10,000 | — | 40,000
+Proceeds from ABL Facility | 409,600 | 23,000 | 58,903
+Repayments on ABL Facility | (428,649) | (9,600) | —
+Repayment of Second Lien Note | (9,250) | (2,000) | (5,975)
+Proceeds from DIP New Money Loans | — | — | 80,000
+Borrowing under BR Exar AR Facility | — | 10,000 | 23,775
+Repayments under BR Exar AR Facility | (1,440) | (9,266) | (23,397)
+Borrowing under Amended BR Exar AR Facility | 31,125 | — | —
+Repayments under Amended BR Exar AR Facility | (30,629) | — | —
+Repayments on 2028 Term Loan Facilities | (1,628) | — | —
+Principal repayments on senior secured term loans and other loans | (34,130) | (2,235) | (42,748)
+Net cash provided by (used in) financing activities | (22,009) | 9,978 | 145,264
+Effect of exchange rates on cash, restricted cash and cash equivalents | (565) | (234) | (2,804)
+Net increase (decrease) in cash, restricted cash and cash equivalents | (30,145) | 20,344 | (20,172)
+Cash, restricted cash and cash equivalents
+Beginning of period | 68,666 | 43,895 | 64,067
+End of period | $ | 38,521 | $ | 64,239 | $ | 43,895
+Supplemental cash flow data:
+Income tax payments, net of refunds received | $ | 4,259 | $ | 1,190 | $ | 2,897
+Interest paid | 38,386 | 2,187 | 10,077
+Cash paid for reorganization items | — | — | 68,965
+Noncash investing and financing activities:
+Assets acquired through right-of-use arrangements | 5,490 | 237 | 11,444
+Issuance of Common Stock from private placement for subscription receivable | 580 | — | —
+Issuance of Common Stock from private placement adjusted against accrued payable | 150 | — | —
+Accrued equity issuance costs | 101 | — | —
+Common stock issued for the Business Combination | — | — | 32,328
+Common stock issued to settle liabilities subject to compromise | — | — | 407,363
+Issuance of July 2030 Notes for settlement of the DIP Facility | — | — | 175,000
+Conversion of DIP Facility into Super Senior Term Loan | — | — | 6,000
+Amounts reclassified from property, plant, and equipment to fixed assets held-for-sale | 2,340 | — | —
+Accrued withholding taxes on vested RSUs | 36 | — | —
+Accrued capital expenditures | 153 | 60 | 180
+Reconciliation of Revenue and Gross Profit As Reported to Combined Pro Forma Revenue and Pro Forma
+Adjusted Gross Profit for the Three and Nine Months Ended September 30, 2026 and 2025
+(in thousands of United States dollars)
+(Unaudited)
+Three Months Ended | Nine Months Ended
+September 30, | September 30,
+2026 | 2025 | 2026 | 2025
+As Reported Revenues | $ | 182,768 | $ | 209,085 | $ | 571,164 | $ | 583,777
+Intercompany Eliminations | — | — | — | (2,648)
+Revenue Adjusted for XBP Europe | — | 11,348 | — | 91,497
+Pro Forma Revenue | $ | 182,768 | $ | 220,433 | $ | 571,164 | $ | 672,626
+As Reported Cost of Revenue | $ | 139,884 | $ | 163,124 | $ | 441,936 | $ | 458,820
+Intercompany Eliminations | — | — | — | (568)
+Cost of Revenue Adjustment for XBP Europe | — | 8,981 | — | 68,947
+Pro Forma Cost of Revenue | $ | 139,884 | $ | 172,105 | $ | 441,936 | $ | 527,199
+As Reported Gross Profit | $ | 42,884 | $ | 45,961 | $ | 129,228 | $ | 124,957
+Intercompany Eliminations | — | — | — | (2,080)
+Gross Profit Adjustment for XBP Europe | — | 2,367 | — | 22,550
+Pro Forma Gross Profit | $ | 42,884 | $ | 48,328 | $ | 129,228 | $ | 145,427
+Pro Forma Gross Margin | 23.5 | % | 21.9 | % | 22.6 | % | 21.6 | %
+Pro Forma Gross Profit | $ | 42,884 | $ | 48,328 | $ | 129,228 | $ | 145,427
+Severance | 1,586 | 931 | 8,638 | 2,251
+Restructuring and related expenses | 124 | — | 582 | —
+Cost of revenue from previously discontinued operations | — | 460 | 154 | 2,774
+Adjusted Gross Profit (non-GAAP) | $ | 44,594 | $ | 49,719 | $ | 138,602 | $ | 150,452
+Adjusted Gross Margin (non-GAAP) | 24.4 | % | 22.6 | % | 24.3 | % | 22.4 | %
+Reconciliation of Net Income to Pro Forma Normalized EBITDA for the Three and Nine Months Ended
+September 30, 2026 and 2025
+(in thousands of United States dollars)
+(Unaudited)
+Three Months Ended | Nine Months Ended
+September 30, | September 30,
+2026 | 2025 | 2026 | 2025
+Net income (loss) | $ | (88,968) | $ | 1,174,260 | $ | (132,434) | $ | 1,148,822
+XBP Europe Net Loss | (2,430) | — | (13,360)
+Pro Forma Net Income (Loss) | $ | (88,968) | $ | 1,171,830 | $ | (132,434) | $ | 1,135,462
+Income tax expense | 2,083 | 36,746 | (1,108) | 40,550
+Interest expense, net | 15,452 | 15,051 | 43,411 | 89,506
+Depreciation and amortization | 14,961 | 12,634 | 45,078 | 33,050
+Pro Forma EBITDA | $ | (56,472) | $ | 1,236,261 | $ | (45,053) | $ | 1,298,568
+Impairment of goodwill | 68,389 | 295,800 | 68,389 | 295,800
+Severance | 2,544 | 2,402 | 10,707 | 4,998
+Optimization and restructuring savings (1) | 1,897 | 2,074 | 6,337 | 5,974
+Restructuring and transaction related expenses (2) | 1,841 | — | 2,821 | —
+Reorganization items | 1,708 | (1,518,654) | 10,751 | (1,556,994)
+Foreign exchange losses, net | 1,664 | 1,419 | 2,757 | 1,037
+Non-cash equity compensation (3) | 555 | 321 | 1,572 | 4,767
+Loss on sale of assets (4) | 522 | 2,157 | 902 | 2,157
+EBITDA from previously discontinued operations (5) | — | 355 | 505 | 2,989
+Transaction fees | — | 2,615 | 481 | 7,519
+Payroll tax penalties | — | — | — | 2,789
+DMR related write-off | — | — | — | 1,209
+Debt modification and extinguishment costs, net | — | — | — | 121
+Changes in fair value of warrant liability | — | (3) | (2) | (1)
+Pro Forma Normalized EBITDA | $ | 22,648 | $ | 24,747 | $ | 60,167 | $ | 70,933
+(1) | Represents the annualized run-rate cost savings from optimization and restructuring initiatives implemented during the period. These adjustments reflect the impact as if such cost savings had been realized for the entire period presented.
+(2) | Represents costs associated with restructuring and transactions, including professional and legal fees
+(3) | Represents non-cash charges related to stock-based compensation
+(4) | Represents a loss recognized on the disposal of property, plant, and equipment and other assets
+(5) | Represents loss related to discontinued operations
+Source: XBP Global Holdings, Inc.
