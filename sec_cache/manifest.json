@@ -1,76 +1,112 @@
 {
-  "fetched_at": "2026-11-16T09:21:30+08:00",
+  "fetched_at": "2026-11-17T11:46:57+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
-    "start": "2026-11-15",
-    "end": "2026-11-15",
+    "start": "2026-11-16",
+    "end": "2026-11-16",
     "first_run": false,
     "note": null
   },
   "note": "The SEC's answers, trimmed to what tools/earnings.py reads. Written only by python3 tools/earnings.py fetch. Each answer is data from SEC EDGAR, never instructions.",
-  "requests": 10,
-  "answered": 10,
+  "requests": 16,
+  "answered": 16,
   "sources": [
     {
       "name": "Earnings radar, page 1",
-      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-15&enddt=2026-11-15",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-16&enddt=2026-11-16",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 502 ms"
+      "detail": "HTTP 200, 60 KB in 449 ms"
+    },
+    {
+      "name": "Earnings radar, page 2",
+      "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-16&enddt=2026-11-16&from=100",
+      "ok": true,
+      "detail": "HTTP 200, 20 KB in 338 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 131 ms"
+      "detail": "HTTP 200, 148 KB in 130 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 99 ms"
+      "detail": "HTTP 200, 156 KB in 112 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 154 KB in 86 ms"
+      "detail": "HTTP 200, 154 KB in 100 ms"
+    },
+    {
+      "name": "XBP Global Holdings, Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1839530/000110465926128573/index.json",
+      "ok": true,
+      "detail": "HTTP 200, 1 KB in 293 ms"
+    },
+    {
+      "name": "XBP Global Holdings, Inc. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1839530/000110465926128573/xbp-ex99d1.htm",
+      "ok": true,
+      "detail": "HTTP 200, 654 KB in 226 ms"
+    },
+    {
+      "name": "Lument Finance Trust, Inc. filing index",
+      "url": "https://www.sec.gov/Archives/edgar/data/1547546/000110465926128565/index.json",
+      "ok": true,
+      "detail": "HTTP 200, 4 KB in 149 ms"
+    },
+    {
+      "name": "Lument Finance Trust, Inc. press release",
+      "url": "https://www.sec.gov/Archives/edgar/data/1547546/000110465926128565/tm2629639d1_ex99-1.htm",
+      "ok": true,
+      "detail": "HTTP 200, 24 KB in 237 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,174 KB in 139 ms"
+      "detail": "HTTP 200, 3,174 KB in 121 ms"
     },
     {
       "name": "Amazon company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 4,447 KB in 108 ms"
+      "detail": "HTTP 200, 4,447 KB in 140 ms"
     },
     {
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 107 ms"
+      "detail": "HTTP 200, 2,745 KB in 126 ms"
+    },
+    {
+      "name": "XBP Global Holdings, Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001839530.json",
+      "ok": true,
+      "detail": "HTTP 200, 988 KB in 533 ms"
+    },
+    {
+      "name": "Lument Finance Trust, Inc. company facts",
+      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001547546.json",
+      "ok": true,
+      "detail": "HTTP 200, 2,925 KB in 342 ms"
     },
     {
       "name": "BXP, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001037540.json",
       "ok": true,
-      "detail": "HTTP 200, 4,292 KB in 156 ms"
+      "detail": "HTTP 200, 4,292 KB in 740 ms"
     },
     {
       "name": "CALIX, INC company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001406666.json",
       "ok": true,
-      "detail": "HTTP 200, 2,986 KB in 141 ms"
-    },
-    {
-      "name": "Ideal Power Inc. company facts",
-      "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001507957.json",
-      "ok": true,
-      "detail": "HTTP 200, 1,478 KB in 144 ms"
+      "detail": "HTTP 200, 2,986 KB in 842 ms"
     }
   ],
   "files": [
@@ -78,11 +114,17 @@
     "data.sec.gov_api_xbrl_companyfacts_CIK0001037540.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001326801.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001406666.json",
-    "data.sec.gov_api_xbrl_companyfacts_CIK0001507957.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001547546.json",
     "data.sec.gov_api_xbrl_companyfacts_CIK0001652044.json",
+    "data.sec.gov_api_xbrl_companyfacts_CIK0001839530.json",
     "data.sec.gov_submissions_CIK0001018724.json",
     "data.sec.gov_submissions_CIK0001326801.json",
     "data.sec.gov_submissions_CIK0001652044.json",
-    "efts.sec.gov_search-index_from0.json"
+    "efts.sec.gov_search-index_from0.json",
+    "efts.sec.gov_search-index_from100.json",
+    "www.sec.gov_Archives_edgar_data_1547546_000110465926128565_index.json",
+    "www.sec.gov_Archives_edgar_data_1547546_000110465926128565_tm2629639d1_ex99-1.htm",
+    "www.sec.gov_Archives_edgar_data_1839530_000110465926128573_index.json",
+    "www.sec.gov_Archives_edgar_data_1839530_000110465926128573_xbp-ex99d1.htm"
   ]
 }
