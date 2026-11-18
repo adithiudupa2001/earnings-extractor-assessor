@@ -2322,5 +2322,128 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1547546/000110465926128565/tm2629639d1_ex99-1.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1547546/000110465926128565/0001104659-26-128565-index.htm",
     "saved_at": "2026-11-18T06:07:50+08:00"
+  },
+  {
+    "cik": "1894954",
+    "company": "Expion Energy, Inc.",
+    "accession": "0001903596-26-000435",
+    "release_date": "2026-11-17",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 2.1,
+        "unit": "USD millions",
+        "quote": "Net sales in the third quarter of 2026 totaled $2.1 million, a decrease of 10.4% from $2.4 million in the prior-year period."
+      },
+      "operating_income": {
+        "value": -1.4,
+        "unit": "USD millions",
+        "quote": "Loss from operations improved 54.8% to $1.4 million, compared to $3.0 million in the third quarter of 2025."
+      },
+      "net_income": {
+        "value": -1.4,
+        "unit": "USD millions",
+        "quote": "Net loss in the third quarter of 2026 totaled $1.4 million, or $(1.43) per basic and diluted share"
+      },
+      "diluted_eps": {
+        "value": -1.43,
+        "unit": "USD per share",
+        "quote": "Diluted | $ | (1.43"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "margins",
+        "claim": "The CEO says the battery business had its highest gross margin of the year, helped by higher-margin products and tariff refunds.",
+        "quote": "Our battery business delivered its highest gross margin of the year in the third quarter as we continued to focus on higher-margin products and benefited from tariff refunds."
+      },
+      {
+        "id": "M2",
+        "topic": "other",
+        "claim": "The CEO says the quarter marked the company's entry into upstream oil and gas.",
+        "quote": "The third quarter marked Expion’s entry into upstream oil and gas,"
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CEO says the priorities are the leasing programme, the planned test well and better battery margins.",
+        "quote": "Looking ahead, our priorities are to complete our leasing program, execute our planned test well, and continue improving the margin profile of our battery business,"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO stresses the new oil and gas prospect, its potential for significant scale and the highest battery gross margin of the year."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1894954-0001903596-26-000435.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1894954/000190359626000435/ex99_1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1894954/000190359626000435/0001903596-26-000435-index.htm",
+    "saved_at": "2026-11-19T06:07:53+08:00"
+  },
+  {
+    "cik": "1728688",
+    "company": "i3 Verticals, Inc.",
+    "accession": "0001728688-26-000051",
+    "release_date": "2026-11-17",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 55.434,
+        "unit": "USD millions",
+        "quote": "Revenue | $ | 55,434"
+      },
+      "operating_income": {
+        "value": -7.107,
+        "unit": "USD millions",
+        "quote": "(Loss) income from operations | (7,107)"
+      },
+      "net_income": {
+        "value": -2.008,
+        "unit": "USD millions",
+        "quote": "Net (loss) income attributable to i3 Verticals | $ | (2,008)"
+      },
+      "diluted_eps": {
+        "value": -0.17,
+        "unit": "USD per share",
+        "quote": "Diluted | $ | (0.17)"
+      }
+    },
+    "guidance": {
+      "text": "For the fiscal year ending 30 September 2027, the company expects revenue of $220,000 thousand to $235,000 thousand.",
+      "quote": "Revenue | $ | 220,000 | - | $ | 235,000"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says fiscal 2026 closed with strong momentum, with 7% recurring revenue growth.",
+        "quote": "We closed fiscal 2026 with strong momentum, highlighted by 7% recurring revenue growth and more than 100 basis points of adjusted EBITDA margin expansion."
+      },
+      {
+        "id": "M2",
+        "topic": "outlook",
+        "claim": "The CEO says the company enters fiscal 2027 positioned for faster organic growth and better margins.",
+        "quote": "We enter fiscal 2027 positioned for accelerating organic growth and margin improvement."
+      },
+      {
+        "id": "M3",
+        "topic": "other",
+        "claim": "The CEO says cash generation gives flexibility to invest in organic growth, acquisitions and share repurchases.",
+        "quote": "Our cash generation provides us with flexibility to continue investing in organic growth while thoughtfully allocating capital across acquisitions and share repurchases."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO speaks of strong momentum, margin expansion and accelerating organic growth in fiscal 2027."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1728688-0001728688-26-000051.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1728688/000172868826000051/iiivq42026earningsrelease.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1728688/000172868826000051/0001728688-26-000051-index.htm",
+    "saved_at": "2026-11-19T06:07:53+08:00"
   }
 ]
