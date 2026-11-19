@@ -2445,5 +2445,136 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1728688/000172868826000051/iiivq42026earningsrelease.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1728688/000172868826000051/0001728688-26-000051-index.htm",
     "saved_at": "2026-11-19T06:07:53+08:00"
+  },
+  {
+    "cik": "913760",
+    "company": "StoneX Group Inc.",
+    "accession": "0000913760-26-000044",
+    "release_date": "2026-11-18",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 37459.5,
+        "unit": "USD millions",
+        "quote": "Total revenues | 37,459.5"
+      },
+      "operating_income": null,
+      "net_income": {
+        "value": 84.2,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 84.2"
+      },
+      "diluted_eps": {
+        "value": 0.66,
+        "unit": "USD per share",
+        "quote": "Diluted | $ | 0.66"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CEO says fiscal 2026 brought record annual results, with $2.9 billion of net operating revenues and $525.4 million of net income.",
+        "quote": "We are proud to close out fiscal 2026 with record annual results, highlighted by $2.9 billion in net operating revenues and $525.4 million in net income"
+      },
+      {
+        "id": "M2",
+        "topic": "profit",
+        "claim": "The CEO says net operating revenues and earnings kept growing by double digits year on year, with record years in three segments.",
+        "quote": "with continued double-digit year-over-year growth in both net operating revenues and earnings, with record annual performance in our Commercial, Institutional and Payments segments"
+      },
+      {
+        "id": "M3",
+        "topic": "costs",
+        "claim": "The CEO says the largest acquisition to date was integrated on schedule while meeting capital and cost synergy targets.",
+        "quote": "we successfully integrated our largest acquisition to date, on schedule whilst achieving our capital and cost synergy targets"
+      },
+      {
+        "id": "M4",
+        "topic": "outlook",
+        "claim": "The CEO says the non-bank ecosystem gives the company confidence in the opportunities ahead.",
+        "quote": "The strength of our unique non-bank ecosystem continues to deepen our relevance to a growing global client base and gives us confidence in the opportunities ahead."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO speaks of record annual results, momentum, a completed integration and confidence in the opportunities ahead."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/913760-0000913760-26-000044.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/913760/000091376026000044/snex2026er_exhq4roll.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/913760/000091376026000044/0000913760-26-000044-index.htm",
+    "saved_at": "2026-11-20T06:07:46+08:00"
+  },
+  {
+    "cik": "46765",
+    "company": "Helmerich & Payne, Inc.",
+    "accession": "0000046765-26-000058",
+    "release_date": "2026-11-18",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 1091.829,
+        "unit": "USD millions",
+        "quote": "OPERATING REVENUES Drilling services | $ | 1,070,959 | $ | 986,882 | $ | 990,211 | $ | 3,945,392 | $ | 3,678,660 Other | 20,870 | 47,974 | 21,537 | 130,681 | 67,353 1,091,829"
+      },
+      "operating_income": {
+        "value": -530.206,
+        "unit": "USD millions",
+        "quote": "OPERATING INCOME (LOSS) | (530,206)"
+      },
+      "net_income": {
+        "value": -489.819,
+        "unit": "USD millions",
+        "quote": "NET INCOME (LOSS) ATTRIBUTABLE TO HELMERICH & PAYNE, INC. | $ | (489,819)"
+      },
+      "diluted_eps": {
+        "value": -4.91,
+        "unit": "USD per share",
+        "quote": "Diluted earnings (loss) per common share | $ | (4.91)"
+      }
+    },
+    "guidance": {
+      "text": "H&P expects North America Solutions direct margin of $265 million to $275 million in the first quarter of fiscal 2027.",
+      "quote": "North America Solutions Direct Margin ($M)3 | $265 - $275"
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "margins",
+        "claim": "The CEO says fourth-quarter direct margins were at or above the high end of the guidance ranges in every segment.",
+        "quote": "In the fourth quarter, direct margins were at or above the high end of our guidance ranges across all segments."
+      },
+      {
+        "id": "M2",
+        "topic": "outlook",
+        "claim": "The CEO expects growth opportunities to drive stronger overall direct margins in fiscal 2027 than in fiscal 2026.",
+        "quote": "We expect numerous growth opportunities across key markets to drive stronger overall direct margins compared to fiscal 2026."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CEO expects Middle East activity to stay subdued through 2027, after rig suspensions in Saudi Arabia.",
+        "quote": "We expect Middle East activity to remain subdued through 2027."
+      },
+      {
+        "id": "M4",
+        "topic": "other",
+        "claim": "The CFO says margin growth and low capital spending will let the company reach about 1x net debt to adjusted EBITDA by the end of 2027.",
+        "quote": "The combination of strong margin growth and low capital spending levels will enable us to achieve our target of approximately 1x net debt to adjusted EBITDA by calendar year-end 2027."
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "The CEO describes a strong finish and a constructive outlook, but expects Middle East activity to stay subdued with possible further reductions."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/46765-0000046765-26-000058.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/46765/000004676526000058/q4fy26earningsrelease.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/46765/000004676526000058/0000046765-26-000058-index.htm",
+    "saved_at": "2026-11-20T06:07:46+08:00"
   }
 ]
