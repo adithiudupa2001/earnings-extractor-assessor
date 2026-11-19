@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-19T10:30:55+08:00",
+  "fetched_at": "2026-11-19T10:46:59+08:00",
   "fetched_by": "the GitHub fetch",
   "offline": false,
   "radar_window": {
@@ -16,67 +16,67 @@
       "name": "Earnings radar, page 1",
       "url": "https://efts.sec.gov/LATEST/search-index?q=%22Results%20of%20Operations%20and%20Financial%20Condition%22&forms=8-K&dateRange=custom&startdt=2026-11-17&enddt=2026-11-18",
       "ok": true,
-      "detail": "HTTP 200, 43 KB in 343 ms"
+      "detail": "HTTP 200, 43 KB in 1206 ms"
     },
     {
       "name": "Alphabet filings list",
       "url": "https://data.sec.gov/submissions/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 148 KB in 30 ms"
+      "detail": "HTTP 200, 148 KB in 33 ms"
     },
     {
       "name": "Amazon filings list",
       "url": "https://data.sec.gov/submissions/CIK0001018724.json",
       "ok": true,
-      "detail": "HTTP 200, 156 KB in 18 ms"
+      "detail": "HTTP 200, 156 KB in 30 ms"
     },
     {
       "name": "Meta Platforms filings list",
       "url": "https://data.sec.gov/submissions/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 153 KB in 26 ms"
+      "detail": "HTTP 200, 153 KB in 22 ms"
     },
     {
       "name": "StoneX Group Inc. filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/913760/000091376026000044/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 41 ms"
+      "detail": "HTTP 200, 1 KB in 35 ms"
     },
     {
       "name": "StoneX Group Inc. filing index page",
       "url": "https://www.sec.gov/Archives/edgar/data/913760/000091376026000044/0000913760-26-000044-index.htm",
       "ok": true,
-      "detail": "HTTP 200, 10 KB in 50 ms"
+      "detail": "HTTP 200, 10 KB in 54 ms"
     },
     {
       "name": "StoneX Group Inc. press release",
       "url": "https://www.sec.gov/Archives/edgar/data/913760/000091376026000044/snex2026er_exhq4roll.htm",
       "ok": true,
-      "detail": "HTTP 200, 982 KB in 47 ms"
+      "detail": "HTTP 200, 982 KB in 67 ms"
     },
     {
       "name": "Helmerich & Payne, Inc. filing index",
       "url": "https://www.sec.gov/Archives/edgar/data/46765/000004676526000058/index.json",
       "ok": true,
-      "detail": "HTTP 200, 1 KB in 35 ms"
+      "detail": "HTTP 200, 1 KB in 41 ms"
     },
     {
       "name": "Helmerich & Payne, Inc. filing index page",
       "url": "https://www.sec.gov/Archives/edgar/data/46765/000004676526000058/0000046765-26-000058-index.htm",
       "ok": true,
-      "detail": "HTTP 200, 10 KB in 34 ms"
+      "detail": "HTTP 200, 10 KB in 28 ms"
     },
     {
       "name": "Helmerich & Payne, Inc. press release",
       "url": "https://www.sec.gov/Archives/edgar/data/46765/000004676526000058/q4fy26earningsrelease.htm",
       "ok": true,
-      "detail": "HTTP 200, 598 KB in 215 ms"
+      "detail": "HTTP 200, 598 KB in 46 ms"
     },
     {
       "name": "Alphabet company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
       "ok": true,
-      "detail": "HTTP 200, 3,174 KB in 34 ms"
+      "detail": "HTTP 200, 3,174 KB in 39 ms"
     },
     {
       "name": "Amazon company facts",
@@ -88,37 +88,37 @@
       "name": "Meta Platforms company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
       "ok": true,
-      "detail": "HTTP 200, 2,745 KB in 26 ms"
+      "detail": "HTTP 200, 2,745 KB in 42 ms"
     },
     {
       "name": "StoneX Group Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000913760.json",
       "ok": true,
-      "detail": "HTTP 200, 4,627 KB in 51 ms"
+      "detail": "HTTP 200, 4,627 KB in 233 ms"
     },
     {
       "name": "Helmerich & Payne, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000046765.json",
       "ok": true,
-      "detail": "HTTP 200, 4,251 KB in 33 ms"
+      "detail": "HTTP 200, 4,251 KB in 255 ms"
     },
     {
       "name": "BXP, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001037540.json",
       "ok": true,
-      "detail": "HTTP 200, 4,292 KB in 409 ms"
+      "detail": "HTTP 200, 4,292 KB in 39 ms"
     },
     {
       "name": "CALIX, INC company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001406666.json",
       "ok": true,
-      "detail": "HTTP 200, 2,986 KB in 58 ms"
+      "detail": "HTTP 200, 2,986 KB in 194 ms"
     },
     {
       "name": "i3 Verticals, Inc. company facts",
       "url": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001728688.json",
       "ok": true,
-      "detail": "HTTP 200, 1,991 KB in 169 ms"
+      "detail": "HTTP 200, 1,991 KB in 220 ms"
     }
   ],
   "files": [
