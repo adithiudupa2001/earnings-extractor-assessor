@@ -2576,5 +2576,86 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/46765/000004676526000058/q4fy26earningsrelease.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/46765/000004676526000058/0000046765-26-000058-index.htm",
     "saved_at": "2026-11-20T06:07:46+08:00"
+  },
+  {
+    "cik": "884614",
+    "company": "UGI CORP /PA/",
+    "accession": "0000884614-26-000064",
+    "release_date": "2026-11-19",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 1157,
+        "unit": "USD millions",
+        "quote": "Total revenues | $ | 1,157"
+      },
+      "operating_income": null,
+      "net_income": {
+        "value": 8,
+        "unit": "USD millions",
+        "quote": "Net income (loss) attributable to UGI Corporation | $ | 8"
+      },
+      "diluted_eps": {
+        "value": 0.04,
+        "unit": "USD per share",
+        "quote": "Diluted | $ | 0.04"
+      }
+    },
+    "guidance": {
+      "text": "UGI expects adjusted diluted EPS of $2.90 to $3.20 for the fiscal year ending 30 September 2027, assuming normal weather.",
+      "quote": "UGI provides an adjusted EPS guidance range of $2.90 - $3.202 per diluted share for the fiscal year ending September 30, 2027."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "The CEO says UGI grew EBIT year on year, simplified its portfolio and strengthened its balance sheet in fiscal 2026.",
+        "quote": "We delivered year-over-year growth in EBIT, simplified our portfolio and strengthened our balance sheet"
+      },
+      {
+        "id": "M2",
+        "topic": "other",
+        "claim": "The CEO says the transformation of AmeriGas continues, with more focus on profitable volume growth.",
+        "quote": "At AmeriGas, the hard work of transforming the business continues with the team now increasing their focus on profitable volumetric growth."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CEO says the company enters the heating season well prepared to serve customers.",
+        "quote": "We enter the heating season well prepared to deliver safe, reliable service to our customers."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls fiscal 2026 a year of disciplined execution and meaningful progress, while noting the AmeriGas transformation is still hard work."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/884614-0000884614-26-000064.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/884614/000088461426000064/ugisept2026ex991.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/884614/000088461426000064/0000884614-26-000064-index.htm",
+    "saved_at": "2026-11-21T06:08:05+08:00"
+  },
+  {
+    "cik": "1724009",
+    "company": "PermRock Royalty Trust",
+    "accession": "0001193125-26-467918",
+    "release_date": "2026-11-19",
+    "period_end": "2026-09-30",
+    "period_label": "monthly distribution declared 19 November 2026",
+    "figures": {
+      "revenue": null,
+      "operating_income": null,
+      "net_income": null,
+      "diluted_eps": null
+    },
+    "guidance": null,
+    "management": [],
+    "tone": null,
+    "picked_from_radar": true,
+    "source_file": "sources/1724009-0001193125-26-467918.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1724009/000119312526467918/prt-ex99_1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1724009/000119312526467918/0001193125-26-467918-index.htm",
+    "saved_at": "2026-11-21T06:08:05+08:00"
   }
 ]
