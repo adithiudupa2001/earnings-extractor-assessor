@@ -260,6 +260,15 @@
       "results_filings": 47,
       "new": 9,
       "offline": false
+    },
+    {
+      "run_at": "2026-11-23T06:07:58+08:00",
+      "start": "2026-11-20",
+      "end": "2026-11-22",
+      "hits": 10,
+      "results_filings": 9,
+      "new": 0,
+      "offline": false
     }
   ],
   "filings": {
@@ -57162,5 +57171,5 @@
       "first_seen": "2026-11-22T06:08:18+08:00"
     }
   },
-  "updated_at": "2026-11-22T06:08:18+08:00"
+  "updated_at": "2026-11-23T06:07:58+08:00"
 }
