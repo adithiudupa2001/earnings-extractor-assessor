@@ -4969,5 +4969,90 @@
       "match": true
     },
     "offline": false
+  },
+  {
+    "run_at": "2026-11-24T06:08:06+08:00",
+    "agent": "watcher",
+    "brief": "briefs/2026-11-24-watch.md",
+    "brief_checked": true,
+    "sources": {
+      "ok": 6,
+      "total": 11,
+      "failures": [
+        {
+          "name": "Amentum Holdings, Inc. filing index",
+          "detail": "HTTP 404 from www.sec.gov: the address was not found"
+        },
+        {
+          "name": "Exyn Technologies, Inc. filing index",
+          "detail": "HTTP 404 from www.sec.gov: the address was not found"
+        },
+        {
+          "name": "CITIUS ONCOLOGY, INC. filing index",
+          "detail": "HTTP 404 from www.sec.gov: the address was not found"
+        },
+        {
+          "name": "ALICO, INC. filing index",
+          "detail": "HTTP 404 from www.sec.gov: the address was not found"
+        },
+        {
+          "name": "JACOBS SOLUTIONS INC. filing index",
+          "detail": "HTTP 404 from www.sec.gov: the address was not found"
+        }
+      ]
+    },
+    "counts": {
+      "radar_new": 26,
+      "companies": 3,
+      "new": 1,
+      "saved": 1,
+      "no_new": 3,
+      "failed": 0
+    },
+    "radar": {
+      "ok": true,
+      "start": "2026-11-22",
+      "end": "2026-11-23",
+      "hits": 30,
+      "results_filings": 26,
+      "new": 26,
+      "watchlist_new": [],
+      "detail": null
+    },
+    "companies": [
+      {
+        "cik": "1630113",
+        "company": "BIOTRICITY INC.",
+        "status": "saved",
+        "accession": "0001493152-26-053584",
+        "release_date": "2026-11-23",
+        "period_label": "quarter ended 30 September 2026"
+      },
+      {
+        "cik": "1652044",
+        "company": "Alphabet",
+        "status": "no_new",
+        "accession": "0001652044-26-000080",
+        "release_date": "2026-10-28",
+        "period_label": "quarter ended 30 September 2026"
+      },
+      {
+        "cik": "1018724",
+        "company": "Amazon",
+        "status": "no_new",
+        "accession": "0001018724-26-000038",
+        "release_date": "2026-10-29",
+        "period_label": "quarter ended 30 September 2026"
+      },
+      {
+        "cik": "1326801",
+        "company": "Meta Platforms",
+        "status": "no_new",
+        "accession": "0001628280-26-066700",
+        "release_date": "2026-10-21",
+        "period_label": "quarter ended 30 September 2026"
+      }
+    ],
+    "offline": false
   }
 ]
