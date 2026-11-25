@@ -2820,5 +2820,124 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/1630113/000149315226053584/ex99-1.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/1630113/000149315226053584/0001493152-26-053584-index.htm",
     "saved_at": "2026-11-24T06:08:06+08:00"
+  },
+  {
+    "cik": "827876",
+    "company": "CLEANSPARK, INC.",
+    "accession": "0001193125-26-475677",
+    "release_date": "2026-11-24",
+    "period_end": "2026-09-30",
+    "period_label": "quarter ended 30 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 120.94,
+        "unit": "USD millions",
+        "quote": "Bitcoin mining revenue, net | $ | 120,940"
+      },
+      "operating_income": {
+        "value": 11.151,
+        "unit": "USD millions",
+        "quote": "Income (loss) from operations | $ | 11,151"
+      },
+      "net_income": {
+        "value": 9.804,
+        "unit": "USD millions",
+        "quote": "Net income (loss) | $ | 9,804"
+      },
+      "diluted_eps": null
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "other",
+        "claim": "The CEO calls fiscal 2026 a defining year with significant progress on the company's strategic transformation.",
+        "quote": "Fiscal 2026 was a defining year for CleanSpark as we made significant progress in executing our strategic transformation"
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "The CFO says the Sandersville financing fully funds that project.",
+        "quote": "The completion of our Sandersville financing provides dedicated capital and fully funds the project."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CFO says more than $1 billion in liquidity gives the flexibility to execute current projects and pursue new ones.",
+        "quote": "Combined with more than $1 billion in liquidity, we believe our financial position provides the flexibility to execute on current projects and selectively pursue future opportunities without compromising our commitment to prudent capital stewardship."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO calls the year defining and the CFO stresses full funding and ample liquidity; neither mentions the fall in revenue."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/827876-0001193125-26-475677.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/827876/000119312526475677/clsk-ex99_1.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/827876/000119312526475677/0001193125-26-475677-index.htm",
+    "saved_at": "2026-11-26T06:07:45+08:00"
+  },
+  {
+    "cik": "47217",
+    "company": "HP INC",
+    "accession": "0000047217-26-000054",
+    "release_date": "2026-11-24",
+    "period_end": "2026-10-31",
+    "period_label": "quarter ended 31 October 2026",
+    "figures": {
+      "revenue": {
+        "value": 16004,
+        "unit": "USD millions",
+        "quote": "Total net revenue | 16,004"
+      },
+      "operating_income": {
+        "value": 844,
+        "unit": "USD millions",
+        "quote": "Earnings from operations | 844"
+      },
+      "net_income": {
+        "value": 769,
+        "unit": "USD millions",
+        "quote": "Net earnings | $ | 769"
+      },
+      "diluted_eps": {
+        "value": 0.84,
+        "unit": "USD per share",
+        "quote": "Diluted | $ | 0.84"
+      }
+    },
+    "guidance": {
+      "text": "HP expects non-GAAP diluted EPS of $0.66 to $0.76 for the first quarter of fiscal 2027.",
+      "quote": "For the fiscal 2027 first quarter, HP estimates non-GAAP diluted net EPS to be in the range of $0.66 to $0.76."
+    },
+    "management": [
+      {
+        "id": "M1",
+        "topic": "revenue",
+        "claim": "The CFO says FY26 revenue grew 9.5%, guidance was met and $2.3 billion was returned to shareholders.",
+        "quote": "We grew FY26 revenue 9.5%, delivered on our guidance for the year, exceeded our free cash flow target and returned $2.3 billion to shareholders, despite a challenging environment"
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "The interim CEO says higher-value businesses grew, AI PCs neared 60% of shipments, and memory and storage costs are being addressed.",
+        "quote": "In the fourth quarter, we continued to grow our higher-value businesses, with AI PCs reaching nearly 60% of shipments, while taking steps to address memory and storage cost pressures"
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The CFO says the fiscal 2027 outlook assumes continued cost and demand pressures but expects profitability to improve through the year.",
+        "quote": "While our fiscal 2027 outlook reflects a prudent view of continued cost and demand pressures, we have a strong track record of addressing challenges and are confident in our ability to drive improvement in our profitability throughout the year."
+      }
+    ],
+    "tone": {
+      "label": "balanced",
+      "reason": "Management cites revenue growth and met guidance, but also names memory cost pressures and a prudent outlook for fiscal 2027."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/47217-0000047217-26-000054.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/47217/000004721726000054/hp103126exhibit991q426.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/47217/000004721726000054/0000047217-26-000054-index.htm",
+    "saved_at": "2026-11-26T06:07:45+08:00"
   }
 ]
