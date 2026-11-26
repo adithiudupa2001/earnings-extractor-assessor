@@ -2939,5 +2939,97 @@
     "press_release_url": "https://www.sec.gov/Archives/edgar/data/47217/000004721726000054/hp103126exhibit991q426.htm",
     "filing_url": "https://www.sec.gov/Archives/edgar/data/47217/000004721726000054/0000047217-26-000054-index.htm",
     "saved_at": "2026-11-26T06:07:45+08:00"
+  },
+  {
+    "cik": "50493",
+    "company": "INGLES MARKETS INC",
+    "accession": "0001437749-26-038232",
+    "release_date": "2026-11-25",
+    "period_end": "2026-09-26",
+    "period_label": "quarter ended 26 September 2026",
+    "figures": {
+      "revenue": {
+        "value": 1374.311,
+        "unit": "USD millions",
+        "quote": "Net sales | $ | 1,374,311"
+      },
+      "operating_income": {
+        "value": 24.545,
+        "unit": "USD millions",
+        "quote": "Income from operations | 24,545"
+      },
+      "net_income": {
+        "value": 18.511,
+        "unit": "USD millions",
+        "quote": "Net income | $ | 18,511"
+      },
+      "diluted_eps": {
+        "value": 0.97,
+        "unit": "USD per share",
+        "quote": "Diluted earnings per common share – Class A | $ | 0.97"
+      }
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "other",
+        "claim": "The Executive Chairman thanks associates for their care of customers and the families who shop with the company for their loyalty.",
+        "quote": "Thank you to our associates for the care they show our customers every day. As we close the fiscal year, I am grateful for their hard work and for the loyalty of the families who shop with us."
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The Executive Chairman's only words express thanks and gratitude; he does not comment on the quarter's figures."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/50493-0001437749-26-038232.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/50493/000143774926038232/ex_1050620.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/50493/000143774926038232/0001437749-26-038232-index.htm",
+    "saved_at": "2026-11-27T06:07:59+08:00"
+  },
+  {
+    "cik": "1901637",
+    "company": "USCB FINANCIAL HOLDINGS, INC.",
+    "accession": "0000927089-26-000198",
+    "release_date": "2026-11-25",
+    "period_end": "2026-09-30",
+    "period_label": "securities repositioning announced 25 November 2026",
+    "figures": {
+      "revenue": null,
+      "operating_income": null,
+      "net_income": null,
+      "diluted_eps": null
+    },
+    "guidance": null,
+    "management": [
+      {
+        "id": "M1",
+        "topic": "profit",
+        "claim": "The CEO says the securities sale is a deliberate step towards stronger recurring earnings and a better net interest margin.",
+        "quote": "This transaction is a deliberate step toward stronger recurring earnings and an improved net interest margin"
+      },
+      {
+        "id": "M2",
+        "topic": "costs",
+        "claim": "The sale brings a one-time after-tax loss of about $3.7 million, to be recorded in the fourth quarter of 2026.",
+        "quote": "The sale will result in an estimated one-time after-tax loss of approximately $3.7 million ($4.9 million pre-tax) that will be recorded in the fourth quarter of 2026."
+      },
+      {
+        "id": "M3",
+        "topic": "outlook",
+        "claim": "The repositioning is expected to add about $0.8 million of net interest income in the first year and about $0.03 of EPS over four quarters.",
+        "quote": "the repositioning is expected to increase net interest income by approximately $0.8 million in the first year"
+      }
+    ],
+    "tone": {
+      "label": "positive",
+      "reason": "The CEO speaks of a strong capital position and greater value for shareholders; the one-time loss is stated plainly."
+    },
+    "picked_from_radar": true,
+    "source_file": "sources/1901637-0000927089-26-000198.txt",
+    "press_release_url": "https://www.sec.gov/Archives/edgar/data/1901637/000092708926000198/ex_1051057.htm",
+    "filing_url": "https://www.sec.gov/Archives/edgar/data/1901637/000092708926000198/0000927089-26-000198-index.htm",
+    "saved_at": "2026-11-27T06:07:59+08:00"
   }
 ]
